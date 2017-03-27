@@ -1,0 +1,14 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\tools\Anaconda3\python.exe" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

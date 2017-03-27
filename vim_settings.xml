@@ -1,0 +1,349 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/data_generation.py" timestamp="1487750156683">
+        <mark key="'" line="133" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1490615700576">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/pycharm.exe.vmoptions" timestamp="1487924551449">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1490614735587">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1488203854167">
+        <mark key="'" line="72" column="24" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="86" column="41" />
+        <mark key="^" line="96" column="102" />
+        <mark key="." line="96" column="83" />
+      </file>
+      <file name="/a.dummy" timestamp="1487933030978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/anonimizer.py" timestamp="1487749415536">
+        <mark key="'" line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/data_generation/DRG_mock_data_generator.py" timestamp="1487612090946">
+        <mark key="a" line="89" column="94" />
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="85" column="34" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1488203848655">
+        <mark key="'" line="26" column="55" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/detect_fraud.py" timestamp="1487784833932">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="77" column="24" />
+        <mark key="." line="77" column="24" />
+        <mark key="^" line="74" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" timestamp="1488207649323">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="64" />
+        <mark key="]" line="84" column="65" />
+        <mark key="." line="84" column="65" />
+        <mark key="^" line="47" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" timestamp="1488207491995">
+        <mark key="'" line="15" column="22" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1488271623773">
+        <mark key="'" line="78" column="112" />
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="57" column="95" />
+        <mark key="^" line="57" column="47" />
+        <mark key="." line="57" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" timestamp="1490614931645">
+        <mark key="a" line="46" column="0" />
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="74" column="24" />
+        <mark key="]" line="74" column="25" />
+        <mark key="." line="74" column="25" />
+        <mark key="^" line="127" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" timestamp="1487932979747">
+        <mark key="'" line="51" column="0" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/__init__.py" timestamp="1487751076654">
+        <mark key="'" line="2" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model.py" timestamp="1487881756072">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="131" column="6" />
+        <mark key="]" line="131" column="11" />
+        <mark key="." line="131" column="11" />
+        <mark key="^" line="131" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" timestamp="1490616037064">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="59" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="121" column="36" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="42" column="24" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="55" column="23" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="27" column="20" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="58" column="51" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="39" column="10" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="28" column="114" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="141" column="33" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="75" column="115" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="57" column="115" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="30" column="19" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="64" column="15" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="61" column="5" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="38" column="39" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="25" column="27" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="63" column="29" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="67" column="31" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
+      <jump line="102" column="22" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="27" column="108" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="0" column="12" filename="/Dummy.txt" />
+      <jump line="70" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="72" column="24" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="49" column="72" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="21" column="54" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="74" column="20" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="94" column="26" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="26" column="55" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="77" column="29" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="112" column="35" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="143" column="13" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="15" column="22" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
+      <jump line="87" column="32" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="97" column="18" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="122" column="52" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="125" column="49" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="133" column="41" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="98" column="16" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="130" column="67" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="128" column="52" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="124" column="56" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="59" column="51" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="135" column="41" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="127" column="44" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="58" column="36" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
+      <jump line="25" column="55" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHJnX21haW5fY2xhc3MK</text>
+      </register>
+      <register name="-" type="4">
+        <text>y</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>claims['Dismissal_day'].astype('category').cat.codes</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZHJnX21haW5fY2xhc3MK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aG9zcGl0YWxfZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2NsYWltcy5TdGF5X2R1cmF0aW9uID0gcGQudG9fbnVtZXJpYyhjbGFpbXMuU3RheV9kdXJhdGlvbikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2NsYWltcy5TdGF5X2R1cmF0aW9uID0gY2xhaW1zLlN0YXlfZHVyYXRpb24uYWRkKGV4dHJhX2RheXMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aG9zcGl0YWxzX3dfZnJhdWQgPSBjbGFpbXMuSG9zcGl0YWwuaXNpbihob3NwaXRhbF9wcm9iYWJpbGl0aWVzLmtleXMoKVs1Ol0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2V4dHJhX2RheXNbfmhvc3BpdGFsc193X2ZyYXVkXSA9IDAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZHJnX3dpdGhfZXh0cmFfY29zdHMgPSBjbGFpbXMuRFJHW2V4dHJhX2RheXMgPiAwXS5tZXJnZShkcmdfd2l0aF9leHRyYV9jb3N0cykK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL2VuY29kZXIvZW5jL2c=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</last-pattern>
+      <last-replace>enc</last-replace>
+      <last-substitute>encoder</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>costs</entry>
+        <entry>drg_main</entry>
+        <entry encoding="base64">XDxEUkdcPg==</entry>
+        <entry>mul</entry>
+        <entry>nged</entry>
+        <entry encoding="base64">XDxPVVRQVVRfRklMRVw+</entry>
+        <entry encoding="base64">XDxob3NwaXRhbHNcPg==</entry>
+        <entry>hospital_with_fraud</entry>
+        <entry encoding="base64">XDwzMjYwXD4=</entry>
+        <entry encoding="base64">XDxpbmNfZGF5c19jbGFpbXNfZ2VuZXJhdGVkXD4=</entry>
+        <entry>see</entry>
+        <entry>42</entry>
+        <entry>merge</entry>
+        <entry encoding="base64">XDxkcmdfd2l0aF9mcmF1ZFw+</entry>
+        <entry>1.4</entry>
+        <entry>no_num</entry>
+        <entry>seed</entry>
+        <entry>encoder</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL2RyZ19wcm9ic19kaWN0L2RyZ19wcm9iYWJpbGl0aWVzL2c=</entry>
+        <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsL2Rpc21pc3NfZGF5L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2Rpc21pc3Npc19kYXkvZHJnX21haW4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Rpc21pc3NfZGF5L2RyZ19tYWluL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RldGVjdF9mcmF1ZC9mcmF1ZF9tb2RlbC9n</entry>
+        <entry>:w</entry>
+        <entry>%s/Dropout(0.5)/Dropout(0.001)/g</entry>
+        <entry encoding="base64">JzwsJz5zL2lucHV0X2RpbS9zaGFwZS9n</entry>
+        <entry encoding="base64">JzwsJz5zLy5hZGQoLyA9IC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2ZyYXVkX21vZGVsL2ZyYXVkL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0Rpc21pc3NhbF9kYXkvRFJHX01haW5fY2xhc3MvZw==</entry>
+        <entry>%s/mul/dot/g</entry>
+        <entry>%s/mul/concat/g</entry>
+        <entry encoding="base64">JzwsJz5zL2Nvc3RzL2hvc3BpdGFsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RyZ19tYWluL2Nvc3RzL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsX3dpdGhfZnJhdWQvaG9zcGl0YWxzX3dfZnJhdWQvZw==</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2VuY29kZXIvZW5jL2c=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
