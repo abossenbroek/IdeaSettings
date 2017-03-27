@@ -18,7 +18,7 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1490614735587">
+      <file name="/Python Console" timestamp="1490626363226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1488203854167">
@@ -63,12 +63,10 @@
         <mark key="." line="84" column="65" />
         <mark key="^" line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" timestamp="1488207491995">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" timestamp="1490626410800">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1488271623773">
         <mark key="'" line="78" column="112" />
@@ -100,19 +98,9 @@
         <mark key="." line="131" column="11" />
         <mark key="^" line="131" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" timestamp="1490616037064">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" timestamp="1490626687025" />
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="121" column="36" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
-      <jump line="42" column="24" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="55" column="23" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
       <jump line="27" column="20" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
@@ -208,63 +196,69 @@
       <jump line="25" column="55" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="46" column="11" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="47" column="15" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
+      <jump line="3" column="12" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZHJnX21haW5fY2xhc3MK</text>
+        <text encoding="base64">b3V0cHV0X3RhYmxlWydQcmVkaWN0ZWRfRFJHX1NldmVyaXR5J10gPSBvdXRwdXRfdGFibGVbJ1ByZWRpY3RlZF9EUkdfU2V2ZXJpdHknXS5hcHBseShsYW1iZGEgeDogc2V2ZXJpdHlfZGljdFt4XSkK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>np_utils.to_categorical(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</text>
+        <text encoding="base64">XDxvbmVfaG90X2VuY29kZXJzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>claims['Dismissal_day'].astype('category').cat.codes</text>
+        <text>fraud['Hospital']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZHJnX21haW5fY2xhc3MK</text>
+        <text encoding="base64">b3V0cHV0X3RhYmxlWydQcmVkaWN0ZWRfRFJHX1NldmVyaXR5J10gPSBvdXRwdXRfdGFibGVbJ1ByZWRpY3RlZF9EUkdfU2V2ZXJpdHknXS5hcHBseShsYW1iZGEgeDogc2V2ZXJpdHlfZGljdFt4XSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aG9zcGl0YWxfZQo=</text>
+        <text encoding="base64">b3V0cHV0X3RhYmxlWydPcmlnaW5hbF9EUkdfU2V2ZXJpdHknXSA9IG91dHB1dF90YWJsZVsnT3JpZ2luYWxfRFJHX1NldmVyaXR5J10uYXBwbHkobGFtYmRhIHg6IHNldmVyaXR5X2RpY3RbeF0pCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2NsYWltcy5TdGF5X2R1cmF0aW9uID0gcGQudG9fbnVtZXJpYyhjbGFpbXMuU3RheV9kdXJhdGlvbikK</text>
+      <register name="3" type="4">
+        <text>,
+    nb_classes=len(claims['DRG_Main_class'].astype('category').cat.categories)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>,
+    nb_classes=len(claims['Dismissal_day'].astype('category').cat.categories)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2NsYWltcy5TdGF5X2R1cmF0aW9uID0gY2xhaW1zLlN0YXlfZHVyYXRpb24uYWRkKGV4dHJhX2RheXMpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aG9zcGl0YWxzX3dfZnJhdWQgPSBjbGFpbXMuSG9zcGl0YWwuaXNpbihob3NwaXRhbF9wcm9iYWJpbGl0aWVzLmtleXMoKVs1Ol0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2V4dHJhX2RheXNbfmhvc3BpdGFsc193X2ZyYXVkXSA9IDAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5iX2NsYXNzZXM9bGVuKGNsYWltc1snSG9zcGl0YWwnXS5hc3R5cGUoJ2NhdGVnb3J5JykuY2F0LmNhdGVnb3JpZXMpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aG9zcGl0YWwgPSBucF91dGlscy50b19jYXRlZ29yaWNhbCgK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZHJnX3dpdGhfZXh0cmFfY29zdHMgPSBjbGFpbXMuRFJHW2V4dHJhX2RheXMgPiAwXS5tZXJnZShkcmdfd2l0aF9leHRyYV9jb3N0cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2VuY29kZXIvZW5jL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</last-search>
+      <last-search encoding="base64">XDxvbmVfaG90X2VuY29kZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbmVfaG90X2VuY29kZXJzXD4=</last-pattern>
       <last-replace>enc</last-replace>
       <last-substitute>encoder</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>costs</entry>
         <entry>drg_main</entry>
         <entry encoding="base64">XDxEUkdcPg==</entry>
         <entry>mul</entry>
@@ -284,6 +278,7 @@
         <entry>encoder</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxkaW1pc3NkYXlfZW5jXD4=</entry>
+        <entry encoding="base64">XDxvbmVfaG90X2VuY29kZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -304,8 +299,8 @@
         <entry encoding="base64">JzwsJz5zL2Nvc3RzL2hvc3BpdGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RyZ19tYWluL2Nvc3RzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsX3dpdGhfZnJhdWQvaG9zcGl0YWxzX3dfZnJhdWQvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2VuY29kZXIvZW5jL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
