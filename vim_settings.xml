@@ -31,7 +31,6 @@
       <file name="/a.dummy" timestamp="1487933030978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/generators.py" timestamp="1490627833922" />
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/anonimizer.py" timestamp="1487749415536">
         <mark key="'" line="17" column="4" />
       </file>
@@ -76,12 +75,12 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490790758167">
+      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490791503640">
         <mark key="'" line="15" column="32" />
-        <mark key="[" line="135" column="4" />
-        <mark key="]" line="135" column="7" />
-        <mark key="." line="135" column="7" />
-        <mark key="^" line="135" column="7" />
+        <mark key="[" line="139" column="39" />
+        <mark key="]" line="139" column="39" />
+        <mark key="." line="139" column="39" />
+        <mark key="^" line="139" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" timestamp="1490614931645">
         <mark key="a" line="46" column="0" />
@@ -106,7 +105,6 @@
         <mark key="." line="131" column="11" />
         <mark key="^" line="131" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" timestamp="1490629960008" />
     </filemarks>
     <jumps>
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
@@ -212,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>(3, 66, 200)</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>(3, 66, 200)</text>
       </register>
       <register name="/" type="4">
         <text>rv.uniform</text>
