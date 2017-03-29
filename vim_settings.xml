@@ -18,7 +18,7 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1490626363226">
+      <file name="/Python Console" timestamp="1490782625040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1490627996938">
@@ -76,11 +76,12 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490779694122">
-        <mark key="[" line="169" column="24" />
-        <mark key="]" line="167" column="4" />
-        <mark key="." line="169" column="24" />
-        <mark key="^" line="167" column="4" />
+      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490783864479">
+        <mark key="'" line="75" column="18" />
+        <mark key="[" line="93" column="11" />
+        <mark key="]" line="93" column="11" />
+        <mark key="." line="93" column="11" />
+        <mark key="^" line="93" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" timestamp="1490614931645">
         <mark key="a" line="46" column="0" />
@@ -108,16 +109,6 @@
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" timestamp="1490629960008" />
     </filemarks>
     <jumps>
-      <jump line="28" column="114" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="141" column="33" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
-      <jump line="75" column="115" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
-      <jump line="57" column="115" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
-      <jump line="30" column="19" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="64" column="15" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="61" column="5" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
-      <jump line="38" column="39" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
       <jump line="25" column="27" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
       <jump line="63" column="29" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" />
@@ -208,57 +199,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="192" column="0" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="18" column="4" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="197" column="53" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="123" column="4" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="110" column="13" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="128" column="11" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="48" column="13" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="116" column="19" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="103" column="23" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="185" column="20" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkX2ltYWdlc1w+</text>
+        <text>rv.uniform</text>
       </register>
       <register name="0" type="4">
-        <text>path.normpath(</text>
+        <text>path.normpath(file_path + &quot;/&quot; + file)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBhdGgubm9ybXBhdGgoZmlsZV9wYXRoICsgIi8iICsgZmlsZSkpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGVmIGxvYWRfaW1hZ2VzKGZpbGVzLCBkYXRhX3BhdGgpOgogICAgZGVmIGxvYWRfZnVuYyhmaWxlcyk6CiAgICAgICAgZm9yIGZsIGluIGZpbGVzOgogICAgICAgICAgICBpbWcgPSBpby5pbXJlYWQocGF0aC5ub3JtcGF0aCgnJXMvJXMnICUgKGRhdGFfcGF0aCwgZmwuc3RyaXAoKSkpKQogICAgICAgICAgICBpbWcgPSBpbWdbNTA6MTQwLCAwOjMyMF0KICAgICAgICAgICAgeWllbGQgaW1nCgogICAgaW1hZ2VzID0gbnAuc3RhY2sobG9hZF9mdW5jKGZpbGVzKSwgYXhpcz0tMSkKICAgIGltYWdlcyA9IGltYWdlcy5yZXNoYXBlKFtpbWFnZXMuc2hhcGVbM10sIGltYWdlcy5zaGFwZVsyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZXMuc2hhcGVbMF0sIGltYWdlcy5zaGFwZVsxXV0pCiAgICBpbWFnZXMgPSBpbWFnZXMuYXN0eXBlKCdmbG9hdDMyJykKICAgIGltYWdlcyA9IGltYWdlcy8yNTYuMAogICAgcmV0dXJuIGltYWdlcwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KHBhdGgubm9ybXBhdGgoZmlsZSkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIG1vZGVsX2pzb25fZmlsZSA9ICIlcy9tb2RlbC5qc29uIiAlIChtb2RlbF9wYXRoKQogICAgbW9kZWxfd2VpZ2h0c19maWxlID0gIiVzL21vZGVsLmg1IiAlIChtb2RlbF9wYXRoKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KGltZy5zaGFwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0cHV0X3RhYmxlWydQcmVkaWN0ZWRfRFJHX1NldmVyaXR5J10gPSBvdXRwdXRfdGFibGVbJ1ByZWRpY3RlZF9EUkdfU2V2ZXJpdHknXS5hcHBseShsYW1iZGEgeDogc2V2ZXJpdHlfZGljdFt4XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nRHJpdmluZyBhbmdsZSB0aHJlc2hvbGQgdGhhdCBzaG91bGQgYmUgbWV0IGJlZm9yZSB1c2luZyBhbiBpbnB1dCBmb3IgY2FsaWJyYXRpb24uJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cHV0X3RhYmxlWydPcmlnaW5hbF9EUkdfU2V2ZXJpdHknXSA9IG91dHB1dF90YWJsZVsnT3JpZ2luYWxfRFJHX1NldmVyaXR5J10uYXBwbHkobGFtYmRhIHg6IHNldmVyaXR5X2RpY3RbeF0pCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdGhyZXNob2xkJywgZGVzdD0ndGhyZXNob2xkJywgdHlwZT1mbG9hdCwK</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-    nb_classes=len(claims['DRG_Main_class'].astype('category').cat.categories)</text>
-      </register>
-      <register name="7" type="4">
-        <text>,
-    nb_classes=len(claims['Dismissal_day'].astype('category').cat.categories)</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZGVmIGxvYWRfaW1hZ2VzKGZpbGVzLCBkYXRhX3BhdGgpOgogICAgZGVmIGxvYWRfZnVuYyhmaWxlcyk6CiAgICAgICAgZm9yIGZsIGluIGZpbGVzOgogICAgICAgICAgICBpbWcgPSBpby5pbXJlYWQocGF0aC5ub3JtcGF0aCgnJXMvJXMnICUgKGRhdGFfcGF0aCwgZmwuc3RyaXAoKSkpKQogICAgICAgICAgICBpbWcgPSBpbWdbNTA6MTQwLCAwOjMyMF0KICAgICAgICAgICAgeWllbGQgaW1nCgogICAgaW1hZ2VzID0gbnAuc3RhY2sobG9hZF9mdW5jKGZpbGVzKSwgYXhpcz0tMSkKICAgIGltYWdlcyA9IGltYWdlcy5yZXNoYXBlKFtpbWFnZXMuc2hhcGVbM10sIGltYWdlcy5zaGFwZVsyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZXMuc2hhcGVbMF0sIGltYWdlcy5zaGFwZVsxXV0pCiAgICBpbWFnZXMgPSBpbWFnZXMuYXN0eXBlKCdmbG9hdDMyJykKICAgIGltYWdlcyA9IGltYWdlcy8yNTYuMAogICAgcmV0dXJuIGltYWdlcwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIG1vZGVsX2pzb25fZmlsZSA9ICIlcy9tb2RlbC5qc29uIiAlIChtb2RlbF9wYXRoKQogICAgbW9kZWxfd2VpZ2h0c19maWxlID0gIiVzL21vZGVsLmg1IiAlIChtb2RlbF9wYXRoKQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5iX2NsYXNzZXM9bGVuKGNsYWltc1snSG9zcGl0YWwnXS5hc3R5cGUoJ2NhdGVnb3J5JykuY2F0LmNhdGVnb3JpZXMpKQo=</text>
+        <text encoding="base64">b3V0cHV0X3RhYmxlWydQcmVkaWN0ZWRfRFJHX1NldmVyaXR5J10gPSBvdXRwdXRfdGFibGVbJ1ByZWRpY3RlZF9EUkdfU2V2ZXJpdHknXS5hcHBseShsYW1iZGEgeDogc2V2ZXJpdHlfZGljdFt4XSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkX2ltYWdlc1w+</last-search>
+      <last-search>rv.uniform</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkX2ltYWdlc1w+</last-pattern>
+      <last-pattern>rv.uniform</last-pattern>
       <last-replace>enc</last-replace>
       <last-substitute>encoder</last-substitute>
       <last-dir>1</last-dir>
@@ -266,13 +265,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nged</entry>
-        <entry encoding="base64">XDxPVVRQVVRfRklMRVw+</entry>
-        <entry encoding="base64">XDxob3NwaXRhbHNcPg==</entry>
-        <entry>hospital_with_fraud</entry>
-        <entry encoding="base64">XDwzMjYwXD4=</entry>
-        <entry encoding="base64">XDxpbmNfZGF5c19jbGFpbXNfZ2VuZXJhdGVkXD4=</entry>
-        <entry>see</entry>
         <entry>42</entry>
         <entry>merge</entry>
         <entry encoding="base64">XDxkcmdfd2l0aF9mcmF1ZFw+</entry>
@@ -286,6 +278,13 @@
         <entry encoding="base64">XDxDTEFJTVNfVE9fR0VORVJBVEVcPg==</entry>
         <entry encoding="base64">XDxNb2RlbENoZWNrUG9pbnRcPg==</entry>
         <entry encoding="base64">XDxsb2FkX2ltYWdlc1w+</entry>
+        <entry>threshold</entry>
+        <entry encoding="base64">XDxidWlsZF9tb2RlbFw+</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxsb2FkX29yaWdpbmFsX2ZpbGVcPg==</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX2xpbmVcPg==</entry>
+        <entry>X = np</entry>
+        <entry>rv.uniform</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
