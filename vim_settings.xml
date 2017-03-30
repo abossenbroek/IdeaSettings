@@ -75,12 +75,12 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490885392911">
+      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490887161435">
         <mark key="'" line="123" column="62" />
-        <mark key="[" line="205" column="65" />
-        <mark key="]" line="205" column="75" />
-        <mark key="." line="205" column="75" />
-        <mark key="^" line="205" column="75" />
+        <mark key="[" line="153" column="43" />
+        <mark key="]" line="153" column="49" />
+        <mark key="." line="153" column="49" />
+        <mark key="^" line="153" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" timestamp="1490614931645">
         <mark key="a" line="46" column="0" />
@@ -210,16 +210,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>border_mode</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>border_mode</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>path.normpath(file_path + &quot;/&quot; + file)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiTG9hZGluZyBtb2RlbCBmcm9tICVzIiAlIChtb2RlbF9maWxlKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
