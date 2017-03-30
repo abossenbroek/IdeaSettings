@@ -75,12 +75,12 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490881366513">
+      <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490884393861">
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="129" column="7" />
-        <mark key="]" line="129" column="14" />
-        <mark key="." line="129" column="14" />
-        <mark key="^" line="129" column="14" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" timestamp="1490614931645">
         <mark key="a" line="46" column="0" />
@@ -210,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>border_mode</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>border_mode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWNrZW5kXD4=</text>
