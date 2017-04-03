@@ -6,8 +6,12 @@
           <option name="url" value="https://anton_bossenbroek@bitbucket.org/ADAPTdevlab/257.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/abossenbroek/CarND-CarBehaviourCloning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\40167\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\40167\Documents\Courses" />
   </component>
 </application>
