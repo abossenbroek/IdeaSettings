@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/abossenbroek/CarND-CarBehaviourCloning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kogecoo/dl4j-examples-scala" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\40167\Documents\Courses" />
+    <option name="cloneParentDir" value="C:\Users\40167\Documents\Tutorials" />
   </component>
 </application>
