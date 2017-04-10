@@ -75,6 +75,12 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
+      <file name="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" timestamp="1491845795648">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="2" column="82" />
+        <mark key="^" line="2" column="82" />
+        <mark key="." line="2" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490899671423">
         <mark key="'" line="96" column="21" />
         <mark key="[" line="129" column="0" />
@@ -94,7 +100,6 @@
         <mark key="'" line="51" column="0" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/join/JoinExample.java" timestamp="1491250602500" />
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/__init__.py" timestamp="1487751076654">
         <mark key="'" line="2" column="0" />
         <mark key="." line="0" column="0" />
@@ -210,11 +215,11 @@
       <jump line="96" column="21" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${FIND THE VERSION FROM OUR EXAMPLES http://github.com/deeplearning4j/dl4j-examples}</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>${FIND THE VERSION FROM OUR EXAMPLES http://github.com/deeplearning4j/dl4j-examples}</text>
       </register>
       <register name="/" type="4">
         <text>backend</text>
