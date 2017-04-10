@@ -75,7 +75,8 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" timestamp="1491845795648">
+      <file name="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" timestamp="1491848687694">
+        <mark key="'" line="118" column="0" />
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="82" />
         <mark key="^" line="2" column="82" />
@@ -113,8 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="72" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
-      <jump line="21" column="54" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
       <jump line="74" column="20" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
@@ -213,6 +212,8 @@
       <jump line="15" column="18" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="123" column="62" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="96" column="21" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" />
+      <jump line="118" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
