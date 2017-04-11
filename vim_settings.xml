@@ -3,21 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/data_generation.py" timestamp="1487750156683">
-        <mark key="'" line="133" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491895153420">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/pycharm.exe.vmoptions" timestamp="1487924551449">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-      </file>
       <file name="/Python Console" timestamp="1490782625040">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,24 +13,18 @@
         <mark key="^" line="96" column="102" />
         <mark key="." line="96" column="83" />
       </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" timestamp="1491914926437">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="183" column="15" />
+      <file name="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" timestamp="1491921137138">
+        <mark key="'" line="20" column="43" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="57" />
       </file>
       <file name="/a.dummy" timestamp="1487933030978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/anonimizer.py" timestamp="1487749415536">
-        <mark key="'" line="17" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/data_generation/DRG_mock_data_generator.py" timestamp="1487612090946">
-        <mark key="a" line="89" column="94" />
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="85" column="34" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/pom.xml" timestamp="1491921002177">
+        <mark key="'" line="65" column="26" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -67,6 +46,35 @@
         <mark key="]" line="84" column="65" />
         <mark key="." line="84" column="65" />
         <mark key="^" line="47" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" timestamp="1487932979747">
+        <mark key="'" line="51" column="0" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/unsupervised/deepbelief/DeepAutoEncoderExample.java" timestamp="1491919544331">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="40" column="83" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491920493982">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1491921202581">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/data_generation/DRG_mock_data_generator.py" timestamp="1487612090946">
+        <mark key="a" line="89" column="94" />
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="85" column="34" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" timestamp="1490629072887">
         <mark key="[" line="82" column="0" />
@@ -102,19 +110,18 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="127" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" timestamp="1491915419654">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" timestamp="1491921145888">
+        <mark key="a" line="42" column="34" />
+        <mark key="'" line="77" column="0" />
+        <mark key="j" line="40" column="35" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_model_validation.py" timestamp="1487932979747">
-        <mark key="'" line="51" column="0" />
-        <mark key="^" line="9" column="39" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/__init__.py" timestamp="1487751076654">
-        <mark key="'" line="2" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/dataexamples/CSVExample.java" timestamp="1491921198716">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model.py" timestamp="1487881756072">
         <mark key="'" line="162" column="0" />
@@ -123,37 +130,17 @@
         <mark key="." line="131" column="11" />
         <mark key="^" line="131" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/AutoEncoder.java" timestamp="1491915543098">
-        <mark key="[" line="3" column="26" />
+      <file name="/fragment.java" timestamp="1491919953569">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/AutoEncoder.java" timestamp="1491920227077">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="20" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="94" column="26" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="26" column="55" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="77" column="29" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="112" column="35" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="143" column="13" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
-      <jump line="15" column="22" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
-      <jump line="87" column="32" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="97" column="18" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="122" column="52" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="125" column="49" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="133" column="41" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="98" column="16" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="101" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
@@ -227,56 +214,84 @@
       <jump line="96" column="21" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" />
       <jump line="118" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples-scala/build.sbt" />
-      <jump line="12" column="7" filename="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" />
+      <jump line="22" column="35" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/AutoEncoder.java" />
+      <jump line="5" column="17" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="16" column="19" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="16" column="42" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="160" column="6" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="187" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="188" column="6" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="140" column="15" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="291" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="93" column="5" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="204" column="6" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="229" column="5" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="225" column="50" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="48" column="12" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="17" column="24" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="15" column="41" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="46" column="42" filename="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/pom.xml" />
+      <jump line="65" column="26" filename="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/pom.xml" />
+      <jump line="56" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" />
+      <jump line="12" column="29" filename="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" />
+      <jump line="13" column="53" filename="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" />
+      <jump line="29" column="50" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="20" column="43" filename="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" />
+      <jump line="73" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>import org.datavec.api.split.FileSplit;
+import org.datavec.api.util.ClassPathResource;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>java.version</text>
+        <text>scala</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIDwhLS0gTWF2ZW4gRW5mb3JjZXI6IEVuc3VyZXMgdXNlciBoYXMgYW4gdXAgdG8gZGF0ZSB2ZXJzaW9uIG9mIE1hdmVuIGJlZm9yZSBidWlsZGluZyAtLT4KICAgIDxidWlsZD4KICAgICAgPHBsdWdpbnM+CiAgICAgICAgPHBsdWdpbj4KICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWVuZm9yY2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgIDx2ZXJzaW9uPjEuMC4xPC92ZXJzaW9uPgogICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgPGlkPmVuZm9yY2UtZGVmYXVsdDwvaWQ+CiAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgPGdvYWw+ZW5mb3JjZTwvZ29hbD4KICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPHJ1bGVzPgogICAgICAgICAgICAgICAgICA8cmVxdWlyZU1hdmVuVmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj5bJHttYXZlbi5taW5pbXVtLnZlcnNpb259LCk8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPG1lc3NhZ2U+KioqKioqKioqKiBNaW5pbXVtIE1hdmVuIFZlcnNpb24gaXMgJHttYXZlbi5taW5pbXVtLnZlcnNpb259LiBQbGVhc2UgdXBncmFkZSBNYXZlbiBiZWZvcmUgY29udGludWluZyAocnVuICJtdm4gLS12ZXJzaW9uIiB0byBjaGVjaykuICoqKioqKioqKio8L21lc3NhZ2U+CiAgICAgICAgICAgICAgICAgIDwvcmVxdWlyZU1hdmVuVmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcnVsZXM+CiAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICA8L3BsdWdpbj4KCiAgICAgICAgPCEtLSBBdXRvbWF0ZWQgQ29kZSBGb3JtYXR0aW5nIC0tPgogICAgICAgIDxwbHVnaW4+CiAgICAgICAgICA8Z3JvdXBJZD5uZXQucmV2ZWxjLmNvZGUuZm9ybWF0dGVyPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+Zm9ybWF0dGVyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgIDx2ZXJzaW9uPjIuMC4wPC92ZXJzaW9uPgogICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDxjb25maWdGaWxlPiR7c2Vzc2lvbi5leGVjdXRpb25Sb290RGlyZWN0b3J5fS9jb250cmliL2Zvcm1hdHRlci54bWw8L2NvbmZpZ0ZpbGU+CiAgICAgICAgICAgIDxkaXJlY3Rvcmllcz4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PmRsNGotZXhhbXBsZXM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PmRsNGotc3BhcmstZXhhbXBsZXM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PmRhdGF2ZWMtZXhhbXBsZXM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PmRsNGotY3VkYS1zcGVjaWZpYy1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+bmQ0ai1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+cmw0ai1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+YXJiaXRlci1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L2RpcmVjdG9yaWVzPgogICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgIDwvcGx1Z2luPgoKICAgICAgICA8cGx1Z2luPgogICAgICAgICAgPGdyb3VwSWQ+Y29tLmxld2lzZDwvZ3JvdXBJZD4KICAgICAgICAgIDxhcnRpZmFjdElkPmxpbnQtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+MC4wLjExPC92ZXJzaW9uPgogICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDxmYWlsT25WaW9sYXRpb24+dHJ1ZTwvZmFpbE9uVmlvbGF0aW9uPgogICAgICAgICAgICA8b25seVJ1blJ1bGVzPgogICAgICAgICAgICAgIDxydWxlPkR1cGxpY2F0ZURlcDwvcnVsZT4KICAgICAgICAgICAgICA8cnVsZT5SZWR1bmRhbnRQbHVnaW5WZXJzaW9uPC9ydWxlPgogICAgICAgICAgICAgIDxydWxlPlZlcnNpb25Qcm9wPC9ydWxlPgogICAgICAgICAgICAgIDxydWxlPkRvdFZlcnNpb25Qcm9wZXJ0eTwvcnVsZT4KICAgICAgICAgICAgPC9vbmx5UnVuUnVsZXM+CiAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICA8aWQ+cG9tLWxpbnQ8L2lkPgogICAgICAgICAgICAgIDxwaGFzZT52YWxpZGF0ZTwvcGhhc2U+CiAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgPGdvYWw+Y2hlY2s8L2dvYWw+CiAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgPC9wbHVnaW4+CgogICAgICA8L3BsdWdpbnM+CiAgICA8L2J1aWxkPgoKICAgIDxwcm9maWxlcz4KICAgICAgPHByb2ZpbGU+CiAgICAgICAgPGlkPk9wZW5KRlg8L2lkPgogICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgPGpkaz4xLjc8L2pkaz4KICAgICAgICA8L2FjdGl2YXRpb24+CgogICAgICAgIDxidWlsZD4KICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWVuZm9yY2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICA8dmVyc2lvbj4xLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgIDxpZD5lbmZvcmNlLWRlZmF1bHQ8L2lkPgogICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgPGdvYWw+ZW5mb3JjZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHJ1bGVzPgogICAgICAgICAgICAgICAgICAgICAgPHJlcXVpcmVQcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5PmVudi5KQVZBRlhfSE9NRTwvcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtZXNzYWdlPllvdSBtdXN0IHNldCB0aGUgZW52aXJvbm1lbnQgdmFyaWFibGUgSkFWQUZYX0hPTUUgdG8gdGhlIGluc3RhbGxhdGlvbiBkaXJlY3Rvcnkgb2YgdGhlIEphdmFGWCAyLjAgU0RLISAod2l0aCBPcmFjbGUgSkRLMS43LCAkSlJFX0hPTUUvbGliL2pmeHJ0Lmphcik8L21lc3NhZ2U+CiAgICAgICAgICAgICAgICAgICAgICA8L3JlcXVpcmVQcm9wZXJ0eT4KCiAgICAgICAgICAgICAgICAgICAgPC9ydWxlcz4KICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KCiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWluc3RhbGwtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNS4yPC92ZXJzaW9uPgogICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgPGlkPmluc3RhbGwtZXh0ZXJuYWw8L2lkPgogICAgICAgICAgICAgICAgICA8cGhhc2U+Y2xlYW48L3BoYXNlPgogICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZT4ke2phdmFmeC5ydW50aW1lLmxpYi5qYXJ9PC9maWxlPgogICAgICAgICAgICAgICAgICAgIDxyZXBvc2l0b3J5TGF5b3V0PmRlZmF1bHQ8L3JlcG9zaXRvcnlMYXlvdXQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYXZhZng8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtqYXZhZngudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZz5qYXI8L3BhY2thZ2luZz4KICAgICAgICAgICAgICAgICAgICA8Z2VuZXJhdGVQb20+dHJ1ZTwvZ2VuZXJhdGVQb20+CiAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgIDxnb2FsPmluc3RhbGwtZmlsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgPC9idWlsZD4KICAgICAgPC9wcm9maWxlPgogICAgPC9wcm9maWxlcz4K</text>
+        <text>import org.datavec.api.split.FileSplit;
+import org.datavec.api.util.ClassPathResource;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmRlZXBsZWFybmluZzRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5kZWVwbGVhcm5pbmc0ai11aV8ke3NjYWxhLmJpbmFyeS52ZXJzaW9ufTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtkbDRqLnZlcnNpb259PC92ZXJzaW9uPgog</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IS0tIEF1dG9tYXRlZCBDb2RlIEZvcm1hdHRpbmcgLS0+CiAgICAgICAgPHBsdWdpbj4KICAgICAgICAgIDxncm91cElkPm5ldC5yZXZlbGMuY29kZS5mb3JtYXR0ZXI8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5mb3JtYXR0ZXItbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+Mi4wLjA8L3ZlcnNpb24+CiAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPGNvbmZpZ0ZpbGU+JHtzZXNzaW9uLmV4ZWN1dGlvblJvb3REaXJlY3Rvcnl9L2NvbnRyaWIvZm9ybWF0dGVyLnhtbDwvY29uZmlnRmlsZT4KICAgICAgICAgICAgPGRpcmVjdG9yaWVzPgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+ZGw0ai1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+ZGw0ai1zcGFyay1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+ZGF0YXZlYy1leGFtcGxlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgIDxkaXJlY3Rvcnk+ZGw0ai1jdWRhLXNwZWNpZmljLWV4YW1wbGVzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgPGRpcmVjdG9yeT5uZDRqLWV4YW1wbGVzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgPGRpcmVjdG9yeT5ybDRqLWV4YW1wbGVzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgPGRpcmVjdG9yeT5hcmJpdGVyLWV4YW1wbGVzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDwvZGlyZWN0b3JpZXM+CiAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgPC9wbHVnaW4+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPCEtLSBDaGFuZ2UgdGhlIG5kNGouYmFja2VuZCBwcm9wZXJ0eSB0byBuZDRqLWN1ZGEtNy41LXBsYXRmb3JtIG9yIG5kNGotY3VkYS04LjAtcGxhdGZvcm0gdG8gdXNlIENVREEgR1BVcyAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8amF2YWZ4LnJ1bnRpbWUubGliLmphcj4ke2Vudi5KQVZBRlhfSE9NRX0vamZ4cnQuamFyPC9qYXZhZngucnVudGltZS5saWIuamFyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPG5kNGouYmFja2VuZD5uZDRqLW5hdGl2ZS1wbGF0Zm9ybTwvbmQ0ai5iYWNrZW5kPiAtLT4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA8cHJvcGVydGllcz4KICAgICAgPCEtLSBDaGFuZ2UgdGhlIG5kNGouYmFja2VuZCBwcm9wZXJ0eSB0byBuZDRqLWN1ZGEtNy41LXBsYXRmb3JtIG9yIG5kNGotY3VkYS04LjAtcGxhdGZvcm0gdG8gdXNlIENVREEgR1BVcyAtLT4KICAgICAgICA8IS0tPG5kNGouYmFja2VuZD5uZDRqLW5hdGl2ZS1wbGF0Zm9ybTwvbmQ0ai5iYWNrZW5kPiAtLT4KICAgICAgICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgogICAgICAgIDxuZDRqLnZlcnNpb24+MC44LjA8L25kNGoudmVyc2lvbj4KICAgICAgICA8ZGw0ai52ZXJzaW9uPjAuOC4wPC9kbDRqLnZlcnNpb24+CiAgICAgICAgPGRhdGF2ZWMudmVyc2lvbj4wLjguMDwvZGF0YXZlYy52ZXJzaW9uPgogICAgICAgIDxhcmJpdGVyLnZlcnNpb24+MC44LjA8L2FyYml0ZXIudmVyc2lvbj4KICAgICAgICA8cmw0ai52ZXJzaW9uPjAuOC4wPC9ybDRqLnZlcnNpb24+CiAgICAgICAgPGd1YXZhLnZlcnNpb24+MTkuMDwvZ3VhdmEudmVyc2lvbj4KICAgICAgICA8bG9nYmFjay52ZXJzaW9uPjEuMS43PC9sb2diYWNrLnZlcnNpb24+CiAgICAgICAgPGpmcmVlY2hhcnQudmVyc2lvbj4xLjAuMTM8L2pmcmVlY2hhcnQudmVyc2lvbj4KICAgICAgICA8amNvbW1vbi52ZXJzaW9uPjEuMC4yMzwvamNvbW1vbi52ZXJzaW9uPgogICAgICAgIDxtYXZlbi1zaGFkZS1wbHVnaW4udmVyc2lvbj4yLjQuMzwvbWF2ZW4tc2hhZGUtcGx1Z2luLnZlcnNpb24+CiAgICAgICAgPGV4ZWMtbWF2ZW4tcGx1Z2luLnZlcnNpb24+MS40LjA8L2V4ZWMtbWF2ZW4tcGx1Z2luLnZlcnNpb24+CiAgICAgICAgPG1hdmVuLm1pbmltdW0udmVyc2lvbj4zLjMuMTwvbWF2ZW4ubWluaW11bS52ZXJzaW9uPgogICAgICAgIDxqYXZhZngudmVyc2lvbj4yLjIuMzwvamF2YWZ4LnZlcnNpb24+CiAgICAgICAgPGF3cy5zZGsudmVyc2lvbj4xLjExLjEwOTwvYXdzLnNkay52ZXJzaW9uPgogICAgICAgIDxqYWNrc29uLnZlcnNpb24+Mi42LjY8L2phY2tzb24udmVyc2lvbj4KICAgIDwvcHJvcGVydGllcz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPG5kNGouYmFja2VuZD5uZDRqLW5hdGl2ZS1wbGF0Zm9ybTwvbmQ0ai5iYWNrZW5kPiAtLT4gICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1lZGljYWxDbGFpbUZhdWx0RGV0ZWN0aW9uCg==</text>
+        <text encoding="base64">cm9maWxlcz4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIDxwcm9maWxlcz4KICAgICAgPHByb2ZpbGU+CiAgICAgICAgPGlkPk9wZW5KRlg8L2lkPgogICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgPGpkaz4xLjc8L2pkaz4KICAgICAgICA8L2FjdGl2YXRpb24+CgogICAgICAgIDxidWlsZD4KICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWVuZm9yY2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICA8dmVyc2lvbj4xLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgIDxpZD5lbmZvcmNlLWRlZmF1bHQ8L2lkPgogICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgPGdvYWw+ZW5mb3JjZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHJ1bGVzPgogICAgICAgICAgICAgICAgICAgICAgPHJlcXVpcmVQcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5PmVudi5KQVZBRlhfSE9NRTwvcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtZXNzYWdlPllvdSBtdXN0IHNldCB0aGUgZW52aXJvbm1lbnQgdmFyaWFibGUgSkFWQUZYX0hPTUUgdG8gdGhlIGluc3RhbGxhdGlvbiBkaXJlY3Rvcnkgb2YgdGhlIEphdmFGWCAyLjAgU0RLISAod2l0aCBPcmFjbGUgSkRLMS43LCAkSlJFX0hPTUUvbGliL2pmeHJ0Lmphcik8L21lc3NhZ2U+CiAgICAgICAgICAgICAgICAgICAgICA8L3JlcXVpcmVQcm9wZXJ0eT4KCiAgICAgICAgICAgICAgICAgICAgPC9ydWxlcz4KICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KCiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWluc3RhbGwtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNS4yPC92ZXJzaW9uPgogICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgPGlkPmluc3RhbGwtZXh0ZXJuYWw8L2lkPgogICAgICAgICAgICAgICAgICA8cGhhc2U+Y2xlYW48L3BoYXNlPgogICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZT4ke2phdmFmeC5ydW50aW1lLmxpYi5qYXJ9PC9maWxlPgogICAgICAgICAgICAgICAgICAgIDxyZXBvc2l0b3J5TGF5b3V0PmRlZmF1bHQ8L3JlcG9zaXRvcnlMYXlvdXQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYXZhZng8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtqYXZhZngudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZz5qYXI8L3BhY2thZ2luZz4KICAgICAgICAgICAgICAgICAgICA8Z2VuZXJhdGVQb20+dHJ1ZTwvZ2VuZXJhdGVQb20+CiAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgIDxnb2FsPmluc3RhbGwtZmlsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgPC9idWlsZD4KICAgICAgPC9wcm9maWxlPgogICAgPC9w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>java.version</last-search>
+      <last-search>scala</last-search>
       <last-offset />
-      <last-pattern>java.version</last-pattern>
+      <last-pattern>scala</last-pattern>
       <last-replace>kernel_re</last-replace>
       <last-substitute>W_re</last-substitute>
       <last-dir>1</last-dir>
@@ -284,14 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>threshold</entry>
-        <entry encoding="base64">XDxidWlsZF9tb2RlbFw+</entry>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
-        <entry encoding="base64">XDxsb2FkX29yaWdpbmFsX2ZpbGVcPg==</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX2xpbmVcPg==</entry>
-        <entry>X = np</entry>
-        <entry>rv.uniform</entry>
-        <entry>samples_per</entry>
         <entry>vaLs-am</entry>
         <entry>input</entry>
         <entry>set_input</entry>
@@ -302,8 +309,16 @@
         <entry>set_image</entry>
         <entry encoding="base64">XDxiYWNrZW5kXD4=</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
-        <entry>backend</entry>
         <entry>java.version</entry>
+        <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry>build</entry>
+        <entry encoding="base64">XDxwcm9maWxlc1w+</entry>
+        <entry>nd4j</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry>nd4j.backend</entry>
+        <entry>backend</entry>
+        <entry>scala.binary</entry>
+        <entry>scala</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -366,6 +381,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
