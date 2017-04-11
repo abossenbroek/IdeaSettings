@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/data_generation.py" timestamp="1487750156683">
         <mark key="'" line="133" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491061842124">
+      <file name="/Dummy.txt" timestamp="1491895153420">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -217,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${FIND THE VERSION FROM OUR EXAMPLES http://github.com/deeplearning4j/dl4j-examples}</text>
+        <text encoding="base64">bXZuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>${FIND THE VERSION FROM OUR EXAMPLES http://github.com/deeplearning4j/dl4j-examples}</text>
+        <text encoding="base64">bXZuIA==</text>
       </register>
       <register name="/" type="4">
         <text>backend</text>
