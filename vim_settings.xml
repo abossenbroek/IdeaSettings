@@ -26,11 +26,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492080111229">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="46" column="16" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492085756886">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="58" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -144,8 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="41" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="98" column="16" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="101" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="132" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="105" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
@@ -244,56 +243,58 @@
       <jump line="29" column="50" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
       <jump line="20" column="43" filename="$USER_HOME$/Tutorials/dl4j-examples/pom.xml" />
       <jump line="73" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" />
+      <jump line="54" column="49" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBSZWNvcmRSZWFkZXIgcnIgPSBuZXcgQ1NWUmVjb3JkUmVhZGVyKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>process</text>
+        <text>txt</text>
       </register>
       <register name="/" type="4">
-        <text>scala</text>
+        <text encoding="base64">XDxkaXJlY3RvcnlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>import org.datavec.api.split.FileSplit;
 import org.datavec.api.util.ClassPathResource;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBSZWNvcmRSZWFkZXIgcnIgPSBuZXcgQ1NWUmVjb3JkUmVhZGVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmRlZXBsZWFybmluZzRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5kZWVwbGVhcm5pbmc0ai11aV8ke3NjYWxhLmJpbmFyeS52ZXJzaW9ufTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtkbDRqLnZlcnNpb259PC92ZXJzaW9uPgog</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBDaGFuZ2UgdGhlIG5kNGouYmFja2VuZCBwcm9wZXJ0eSB0byBuZDRqLWN1ZGEtNy41LXBsYXRmb3JtIG9yIG5kNGotY3VkYS04LjAtcGxhdGZvcm0gdG8gdXNlIENVREEgR1BVcyAtLT4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tPG5kNGouYmFja2VuZD5uZDRqLW5hdGl2ZS1wbGF0Zm9ybTwvbmQ0ai5iYWNrZW5kPiAtLT4K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICA8cHJvcGVydGllcz4KICAgICAgPCEtLSBDaGFuZ2UgdGhlIG5kNGouYmFja2VuZCBwcm9wZXJ0eSB0byBuZDRqLWN1ZGEtNy41LXBsYXRmb3JtIG9yIG5kNGotY3VkYS04LjAtcGxhdGZvcm0gdG8gdXNlIENVREEgR1BVcyAtLT4KICAgICAgICA8IS0tPG5kNGouYmFja2VuZD5uZDRqLW5hdGl2ZS1wbGF0Zm9ybTwvbmQ0ai5iYWNrZW5kPiAtLT4KICAgICAgICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgogICAgICAgIDxuZDRqLnZlcnNpb24+MC44LjA8L25kNGoudmVyc2lvbj4KICAgICAgICA8ZGw0ai52ZXJzaW9uPjAuOC4wPC9kbDRqLnZlcnNpb24+CiAgICAgICAgPGRhdGF2ZWMudmVyc2lvbj4wLjguMDwvZGF0YXZlYy52ZXJzaW9uPgogICAgICAgIDxhcmJpdGVyLnZlcnNpb24+MC44LjA8L2FyYml0ZXIudmVyc2lvbj4KICAgICAgICA8cmw0ai52ZXJzaW9uPjAuOC4wPC9ybDRqLnZlcnNpb24+CiAgICAgICAgPGd1YXZhLnZlcnNpb24+MTkuMDwvZ3VhdmEudmVyc2lvbj4KICAgICAgICA8bG9nYmFjay52ZXJzaW9uPjEuMS43PC9sb2diYWNrLnZlcnNpb24+CiAgICAgICAgPGpmcmVlY2hhcnQudmVyc2lvbj4xLjAuMTM8L2pmcmVlY2hhcnQudmVyc2lvbj4KICAgICAgICA8amNvbW1vbi52ZXJzaW9uPjEuMC4yMzwvamNvbW1vbi52ZXJzaW9uPgogICAgICAgIDxtYXZlbi1zaGFkZS1wbHVnaW4udmVyc2lvbj4yLjQuMzwvbWF2ZW4tc2hhZGUtcGx1Z2luLnZlcnNpb24+CiAgICAgICAgPGV4ZWMtbWF2ZW4tcGx1Z2luLnZlcnNpb24+MS40LjA8L2V4ZWMtbWF2ZW4tcGx1Z2luLnZlcnNpb24+CiAgICAgICAgPG1hdmVuLm1pbmltdW0udmVyc2lvbj4zLjMuMTwvbWF2ZW4ubWluaW11bS52ZXJzaW9uPgogICAgICAgIDxqYXZhZngudmVyc2lvbj4yLjIuMzwvamF2YWZ4LnZlcnNpb24+CiAgICAgICAgPGF3cy5zZGsudmVyc2lvbj4xLjExLjEwOTwvYXdzLnNkay52ZXJzaW9uPgogICAgICAgIDxqYWNrc29uLnZlcnNpb24+Mi42LjY8L2phY2tzb24udmVyc2lvbj4KICAgIDwvcHJvcGVydGllcz4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scala</last-search>
+      <last-search encoding="base64">XDxkaXJlY3RvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern>scala</last-pattern>
+      <last-pattern encoding="base64">XDxkaXJlY3RvcnlcPg==</last-pattern>
       <last-replace>kernel_re</last-replace>
       <last-substitute>W_re</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +302,6 @@ import org.datavec.api.util.ClassPathResource;</text>
     </search>
     <history>
       <history-search>
-        <entry>vaLs-am</entry>
         <entry>input</entry>
         <entry>set_input</entry>
         <entry>Dropout</entry>
@@ -321,6 +321,7 @@ import org.datavec.api.util.ClassPathResource;</text>
         <entry>backend</entry>
         <entry>scala.binary</entry>
         <entry>scala</entry>
+        <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
