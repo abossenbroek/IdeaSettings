@@ -26,12 +26,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492087059353">
-        <mark key="'" line="67" column="51" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -65,7 +65,7 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="40" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492086640883">
+      <file name="/Dummy.txt" timestamp="1492089655188">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -141,7 +141,7 @@
         <mark key="." line="131" column="11" />
         <mark key="^" line="131" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1491919953569">
+      <file name="/fragment.java" timestamp="1492089668090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/AutoEncoder.java" timestamp="1491920227077">
@@ -152,11 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="135" column="41" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="127" column="44" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
-      <jump line="58" column="36" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_days_generator.py" />
       <jump line="25" column="55" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model_single_model.py" />
@@ -252,16 +247,21 @@
       <jump line="18" column="32" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="21" column="46" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="110" column="25" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="71" column="44" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="18" column="33" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
+      <jump line="47" column="20" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGw0ai52ZXJzaW9uPjAuOC4wPC9kbDRqLnZlcnNpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>grcSchema</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>grcSchema</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhdmVjXD4=</text>
+        <text>schema</text>
       </register>
       <register name="0" type="4">
         <text>import org.datavec.api.split.FileSplit;
@@ -299,9 +299,9 @@ import org.datavec.api.util.ClassPathResource;</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhdmVjXD4=</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhdmVjXD4=</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>kernel_re</last-replace>
       <last-substitute>W_re</last-substitute>
       <last-dir>1</last-dir>
@@ -309,8 +309,6 @@ import org.datavec.api.util.ClassPathResource;</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9maWxlc1w+</entry>
-        <entry>nd4j</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry>nd4j.backend</entry>
         <entry>backend</entry>
@@ -329,6 +327,8 @@ import org.datavec.api.util.ClassPathResource;</text>
         <entry>datavc.spark.version</entry>
         <entry>version</entry>
         <entry encoding="base64">XDxkYXRhdmVjXD4=</entry>
+        <entry>dataAnaly</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
