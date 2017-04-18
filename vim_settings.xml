@@ -71,12 +71,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492530904423">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492532095327">
+        <mark key="'" line="50" column="9" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="7" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/pom.xml" timestamp="1492530694008">
         <mark key="'" line="23" column="32" />
@@ -100,10 +100,10 @@
         <mark key="^" line="2" column="82" />
         <mark key="." line="2" column="82" />
       </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" timestamp="1492530903303">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="25" column="34" />
+      <file name="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" timestamp="1492532090287">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="128" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" timestamp="1490899671423">
         <mark key="'" line="96" column="21" />
@@ -143,10 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="5" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
-      <jump line="23" column="39" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
-      <jump line="177" column="39" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
-      <jump line="19" column="17" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="21" column="59" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="99" column="13" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Courses/CarND-CarBehaviourCloning/model.py" />
@@ -243,19 +239,23 @@
       <jump line="24" column="31" filename="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/pom.xml" />
       <jump line="23" column="32" filename="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/pom.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="143" column="82" filename="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="7" column="43" filename="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="50" column="9" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuU3BhcmtDb25mOwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0NvbnRleHQ7CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLmFwaS5qYXZhLkphdmFSREQ7CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLmFwaS5qYXZhLkphdmFTcGFya0NvbnRleHQ7CmltcG9ydCBvcmcuZGF0YXZlYy5hcGkucmVjb3Jkcy5yZWFkZXIuUmVjb3JkUmVhZGVyOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnJlY29yZHMucmVhZGVyLmltcGwuY3N2LkNTVlJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uVHJhbnNmb3JtUHJvY2VzczsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uY29uZGl0aW9uLkNvbmRpdGlvbk9wOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnRyYW5zZm9ybS5jb25kaXRpb24uY29sdW1uLkNhdGVnb3JpY2FsQ29sdW1uQ29uZGl0aW9uOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnRyYW5zZm9ybS5jb25kaXRpb24uY29sdW1uLkRvdWJsZUNvbHVtbkNvbmRpdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uZmlsdGVyLkNvbmRpdGlvbkZpbHRlcjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uc2NoZW1hLlNjaGVtYTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0udHJhbnNmb3JtLmNvbmRpdGlvbi5Db25kaXRpb25hbFJlcGxhY2VWYWx1ZVRyYW5zZm9ybTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0udHJhbnNmb3JtLnRpbWUuRGVyaXZlQ29sdW1uc0Zyb21UaW1lVHJhbnNmb3JtOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnRyYW5zZm9ybS50cmFuc2Zvcm0udGltZS5TdHJpbmdUb1RpbWVUcmFuc2Zvcm07CmltcG9ydCBvcmcuZGF0YXZlYy5hcGkudXRpbC5DbGFzc1BhdGhSZXNvdXJjZTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS53cml0YWJsZS5Eb3VibGVXcml0YWJsZTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS53cml0YWJsZS5Xcml0YWJsZTsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLmZ1bmN0aW9ucy5SZWNvcmRSZWFkZXJGdW5jdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLnRyYW5zZm9ybS5TcGFya1RyYW5zZm9ybUV4ZWN1dG9yOwppbXBvcnQgb3JnLmRhdGF2ZWMuc3BhcmsudHJhbnNmb3JtLm1pc2MuU3RyaW5nVG9Xcml0YWJsZXNGdW5jdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLnRyYW5zZm9ybS5taXNjLldyaXRhYmxlc1RvU3RyaW5nRnVuY3Rpb247CmltcG9ydCBvcmcuam9kYS50aW1lLkRhdGVUaW1lRmllbGRUeXBlOwppbXBvcnQgb3JnLmpvZGEudGltZS5EYXRlVGltZVpvbmU7Cg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>hadoop</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuU3BhcmtDb25mOwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0NvbnRleHQ7CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLmFwaS5qYXZhLkphdmFSREQ7CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLmFwaS5qYXZhLkphdmFTcGFya0NvbnRleHQ7CmltcG9ydCBvcmcuZGF0YXZlYy5hcGkucmVjb3Jkcy5yZWFkZXIuUmVjb3JkUmVhZGVyOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnJlY29yZHMucmVhZGVyLmltcGwuY3N2LkNTVlJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uVHJhbnNmb3JtUHJvY2VzczsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uY29uZGl0aW9uLkNvbmRpdGlvbk9wOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnRyYW5zZm9ybS5jb25kaXRpb24uY29sdW1uLkNhdGVnb3JpY2FsQ29sdW1uQ29uZGl0aW9uOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnRyYW5zZm9ybS5jb25kaXRpb24uY29sdW1uLkRvdWJsZUNvbHVtbkNvbmRpdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uZmlsdGVyLkNvbmRpdGlvbkZpbHRlcjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uc2NoZW1hLlNjaGVtYTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0udHJhbnNmb3JtLmNvbmRpdGlvbi5Db25kaXRpb25hbFJlcGxhY2VWYWx1ZVRyYW5zZm9ybTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0udHJhbnNmb3JtLnRpbWUuRGVyaXZlQ29sdW1uc0Zyb21UaW1lVHJhbnNmb3JtOwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnRyYW5zZm9ybS50cmFuc2Zvcm0udGltZS5TdHJpbmdUb1RpbWVUcmFuc2Zvcm07CmltcG9ydCBvcmcuZGF0YXZlYy5hcGkudXRpbC5DbGFzc1BhdGhSZXNvdXJjZTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS53cml0YWJsZS5Eb3VibGVXcml0YWJsZTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS53cml0YWJsZS5Xcml0YWJsZTsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLmZ1bmN0aW9ucy5SZWNvcmRSZWFkZXJGdW5jdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLnRyYW5zZm9ybS5TcGFya1RyYW5zZm9ybUV4ZWN1dG9yOwppbXBvcnQgb3JnLmRhdGF2ZWMuc3BhcmsudHJhbnNmb3JtLm1pc2MuU3RyaW5nVG9Xcml0YWJsZXNGdW5jdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLnRyYW5zZm9ybS5taXNjLldyaXRhYmxlc1RvU3RyaW5nRnVuY3Rpb247CmltcG9ydCBvcmcuam9kYS50aW1lLkRhdGVUaW1lRmllbGRUeXBlOwppbXBvcnQgb3JnLmpvZGEudGltZS5EYXRlVGltZVpvbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0FmdGVyIGV4ZWN1dGluZyBhbGwgb2YgdGhlc2Ugb3BlcmF0aW9ucywgd2UgaGF2ZSBhIG5ldyBhbmQgZGlmZmVyZW50IHNjaGVtYToKICAgICAgICBTY2hlbWEgb3V0cHV0U2NoZW1hID0gdHAuZ2V0RmluYWxTY2hlbWEoKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcblxuXG5TY2hlbWEgYWZ0ZXIgdHJhbnNmb3JtaW5nIGRhdGE6Iik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dHB1dFNjaGVtYSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuU3BhcmtDb25mOwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5hcGkuamF2YS5KYXZhUkREOwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5hcGkuamF2YS5KYXZhU3BhcmtDb250ZXh0OwppbXBvcnQgb3JnLmRhdGF2ZWMuYXBpLnJlY29yZHMucmVhZGVyLlJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS5yZWNvcmRzLnJlYWRlci5pbXBsLmNzdi5DU1ZSZWNvcmRSZWFkZXI7CmltcG9ydCBvcmcuZGF0YXZlYy5hcGkudHJhbnNmb3JtLlRyYW5zZm9ybVByb2Nlc3M7CmltcG9ydCBvcmcuZGF0YXZlYy5hcGkudXRpbC5DbGFzc1BhdGhSZXNvdXJjZTsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS53cml0YWJsZS5Xcml0YWJsZTsKaW1wb3J0IG9yZy5kYXRhdmVjLnNwYXJrLnRyYW5zZm9ybS5TcGFya1RyYW5zZm9ybUV4ZWN1dG9yOwppbXBvcnQgb3JnLmRhdGF2ZWMuc3BhcmsudHJhbnNmb3JtLm1pc2MuU3RyaW5nVG9Xcml0YWJsZXNGdW5jdGlvbjsKaW1wb3J0IG9yZy5kYXRhdmVjLmFwaS50cmFuc2Zvcm0uc2NoZW1hLlNjaGVtYTsKCmltcG9ydCBvcmcuZGF0YXZlYy5zcGFyay50cmFuc2Zvcm0ubWlzYy5Xcml0YWJsZXNUb1N0cmluZ0Z1bmN0aW9uOwo=</text>
@@ -290,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hadoop</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>hadoop</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>schema</last-replace>
       <last-substitute>inputDataSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -300,8 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>datavec:datavec</entry>
-        <entry>datavec-spark</entry>
         <entry>codec</entry>
         <entry>datavec-api</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</entry>
@@ -320,6 +318,8 @@
         <entry>spark-core</entry>
         <entry>spark</entry>
         <entry>hadoop</entry>
+        <entry>csv</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rpc21pc3Npc19kYXkvZHJnX21haW4vZw==</entry>
