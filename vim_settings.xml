@@ -85,6 +85,11 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/257/pom.xml" timestamp="1492088549614">
         <mark key="'" line="110" column="25" />
         <mark key="[" line="18" column="0" />
@@ -98,12 +103,6 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1492534541793">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1492089655188">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492536629662">
         <mark key="'" line="0" column="0" />
@@ -174,12 +173,6 @@
       </file>
       <file name="/fragment.java" timestamp="1492089668090">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/AutoEncoder.java" timestamp="1491920227077">
-        <mark key="'" line="21" column="35" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_etl.py" timestamp="1492538170349">
         <mark key="[" line="0" column="0" />
