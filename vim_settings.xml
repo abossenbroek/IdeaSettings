@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/hot_encoder.py" timestamp="1492776146551">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="/Python Console" timestamp="1492766041619">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,17 +82,12 @@
         <mark key="^" line="74" column="74" />
         <mark key="." line="74" column="74" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/etl.py" timestamp="1492544114738">
-        <mark key="'" line="21" column="60" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/etl.py" timestamp="1492776047477">
+        <mark key="'" line="19" column="60" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" timestamp="1492532090287">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="128" column="41" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" timestamp="1492536214732">
         <mark key="a" line="44" column="34" />
@@ -220,43 +221,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import tqdm</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>import tqdm</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXlzX292ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdTdG9yZSBjbGFpbXMgdG8gY3N2IGZpbGUnKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IE9uZUhvdEVuY29kZXIKZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IExhYmVsRW5jb2Rlcgpmcm9tIHNrbGVhcm4udXRpbHMgaW1wb3J0IGNvbHVtbl9vcl8xZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGhvdF9sYWJlbF9lbmNvZGVyKGRhdGEpOgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Rk9STUFUID0gJyUoYXNjdGltZSktMTVzICUobWVzc2FnZSlzJwpsb2dnaW5nLmJhc2ljQ29uZmlnKGZvcm1hdD1GT1JNQVQpCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdEUkdfZGF0YV9nZW5lcmF0b3InKQo=</text>
+        <text encoding="base64">ZGVmIGhvdF9sYWJlbF9lbmNvZGVyKGRhdGEpOgogICAgaG90X2VuYyA9IE9uZUhvdEVuY29kZXIoc3BhcnNlPUZhbHNlKQogICAgbGFiZWxfZW5jID0gTGFiZWxFbmNvZGVyKCkKICAgIHhfbGFiZWwgPSBsYWJlbF9lbmMuZml0X3RyYW5zZm9ybShjb2x1bW5fb3JfMWQoZGF0YSkpCiAgICB4X2xhYmVsID0geF9sYWJlbC5yZXNoYXBlKC0xLCAxKQogICAgeF9lbmMgPSBob3RfZW5jLmZpdF90cmFuc2Zvcm0oeF9sYWJlbCwgeF9sYWJlbCkKCiAgICByZXR1cm4gW3hfZW5jLCBob3RfZW5jLCBsYWJlbF9lbmNdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Rk9STUFUID0gJyUoYXNjdGltZSktMTVzICUobWVzc2FnZSlzJwpsb2dnaW5nLmJhc2ljQ29uZmlnKGZvcm1hdD1GT1JNQVQpCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdEUkdfZGF0YV9nZW5lcmF0b3InKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoZGlzbWlzc19kYXkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoZHVyYXRpb24pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoY29zdHMpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUoZGlzbWlzc19kYXkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoZHJnKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUoZHVyYXRpb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
