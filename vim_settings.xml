@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" timestamp="1492781297057">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" timestamp="1493043052658">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/hot_encoder.py" timestamp="1492776185210">
         <mark key="'" line="17" column="0" />
@@ -37,11 +40,6 @@
       <file name="/a.dummy" timestamp="1492777797997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/pom.xml" timestamp="1491921002177">
-        <mark key="'" line="65" column="26" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="59" column="27" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
@@ -61,11 +59,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" timestamp="1492785613571">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" timestamp="1493042380016">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -107,6 +104,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493043072729">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/unsupervised/deepbelief/DeepAutoEncoderExample.java" timestamp="1491919544331">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="40" column="83" />
@@ -121,9 +124,6 @@
         <mark key="^" line="47" column="45" />
         <mark key="." line="47" column="45" />
       </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples/datavec-examples/pom.xml" timestamp="1492530694008">
-        <mark key="'" line="23" column="32" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1492768704745">
         <mark key="'" line="74" column="4" />
         <mark key="[" line="74" column="74" />
@@ -137,6 +137,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" timestamp="1490629072887">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -159,6 +164,10 @@
         <mark key="^" line="137" column="24" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/train_fraud_detection_model.py" timestamp="1493042236196">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="81" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" timestamp="1492536214732">
         <mark key="a" line="44" column="34" />
         <mark key="'" line="23" column="54" />
@@ -166,11 +175,6 @@
         <mark key="[" line="18" column="8" />
         <mark key="]" line="20" column="48" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/dataexamples/CSVExample.java" timestamp="1492534736645">
-        <mark key="'" line="36" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model.py" timestamp="1487881756072">
         <mark key="'" line="162" column="0" />
@@ -195,12 +199,6 @@
       <file name="C:/tools/Anaconda3/envs/theano35/Lib/site-packages/sklearn/utils/validation.py" timestamp="1492542198838" />
     </filemarks>
     <jumps>
-      <jump line="94" column="48" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="190" column="0" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="215" column="31" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="48" column="6" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="40" column="22" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="114" column="47" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="121" column="13" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="18" column="32" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
@@ -293,45 +291,53 @@
       <jump line="2" column="13" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator.py" />
       <jump line="30" column="13" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/etl.py" />
       <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="1" column="3" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="16" column="28" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="0" column="16" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Generating</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Generating</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>disd_oh</text>
+        <text encoding="base64">XDxucFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ19mYWNpbGl0eS5kZWJ1ZygnR2VuZXJhdGluZyBFVEwnKQo=</text>
+      <register name="0" type="4">
+        <text>from keras.models import Sequential
+from keras.layers import Dense, Merge, Activation, Dropout
+from keras.callbacks import TensorBoard, EarlyStopping, ModelCheckpoint, CSVLogger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ19mYWNpbGl0eS5kZWJ1ZygnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdGVzdCA9IE5vbmUK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGV0bCA9IGFlLkVUTEZyYXVkKCkKICAgIGV0bC5wcm9jZXNzKGRhdGEsIHsnaG9zcGl0YWwnOiAnSG9zcGl0YWwnLAogICAgICAgICAgICAgICAgICAgICAgICdkcmcnOiAnRFJHJywKICAgICAgICAgICAgICAgICAgICAgICAnZHVyYXRpb24nOiAnU3RheV9kdXJhdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgJ2Rpc21pc3NhbF9kYXknOiAnRGlzbWlzc2FsX2RheScsCiAgICAgICAgICAgICAgICAgICAgICAgJ2Nvc3RzJzogJ0Nvc3RzJywKICAgICAgICAgICAgICAgICAgICAgICAnb3ZlcnN0YXknOiAnRGF5c19vdmVyJ30pCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJhaW4gPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV0bCA9IGFlLkVUTEZyYXVkKCkK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBwZC5yZWFkX2NzdignLi5cXGRhdGFcXGNsYWltc19nZW5lcmF0ZWQuY3N2JykK</text>
+        <text encoding="base64">ICAgIGNsYXNzIHNodWZmbGVUZXN0VHJhaW46Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnTG9hZGluZyB0aGUgY3N2JykK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdEUkdfZGF0YV9nZW5lcmF0b3InKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disd_oh</last-search>
+      <last-search encoding="base64">XDxucFw+</last-search>
       <last-offset />
-      <last-pattern>disd_oh</last-pattern>
+      <last-pattern encoding="base64">XDxucFw+</last-pattern>
       <last-replace>dismissal_day</last-replace>
       <last-substitute>disd_oh</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scala.binary</entry>
         <entry>dismissal_day</entry>
         <entry encoding="base64">XDxkaXNzbWlzYWxfZGF5XD4=</entry>
         <entry>dismissal</entry>
@@ -371,6 +376,7 @@
         <entry>hosp_oh</entry>
         <entry>drg_oh</entry>
         <entry>disd_oh</entry>
+        <entry encoding="base64">XDxucFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5hZGQoLyA9IC9n</entry>
