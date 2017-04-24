@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" timestamp="1493043502393">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" timestamp="1493044419169">
+        <mark key="'" line="62" column="36" />
         <mark key="[" line="62" column="36" />
         <mark key="]" line="62" column="37" />
         <mark key="." line="62" column="37" />
@@ -106,11 +106,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493044031843">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="3" column="78" />
-        <mark key="." line="3" column="78" />
-        <mark key="^" line="3" column="78" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493045310924">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="43" column="89" />
+        <mark key="]" line="43" column="86" />
+        <mark key="^" line="43" column="86" />
+        <mark key="." line="43" column="86" />
       </file>
       <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/unsupervised/deepbelief/DeepAutoEncoderExample.java" timestamp="1491919544331">
         <mark key="[" line="30" column="0" />
@@ -196,14 +197,6 @@
       <file name="C:/tools/Anaconda3/envs/theano35/Lib/site-packages/sklearn/utils/validation.py" timestamp="1492542198838" />
     </filemarks>
     <jumps>
-      <jump line="18" column="32" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="21" column="46" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="110" column="25" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
-      <jump line="71" column="44" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
-      <jump line="18" column="33" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
-      <jump line="47" column="20" filename="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
       <jump line="63" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
       <jump line="86" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
       <jump line="66" column="34" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
@@ -288,7 +281,6 @@
       <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" />
       <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
       <jump line="61" column="4" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
       <jump line="1" column="3" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
       <jump line="16" column="28" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
       <jump line="0" column="16" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
@@ -296,68 +288,71 @@
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="10" column="50" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="62" column="36" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="13" column="57" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="33" column="47" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="40" column="4" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: ETLFraud</text>
+        <text encoding="base64">c2VsZi5fZXRsOiBFVExGcmF1ZCwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxucFw+</text>
+        <text>etl</text>
       </register>
-      <register name="0" type="4">
-        <text>normalized_costs = claims['Costs'].apply(lambda x: (x - claims.Costs.mean()) / claims.Costs.std())
-
-costs_branch = Sequential(name='Normalisiert_Kosten')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25hbCA9IGNvbmNhdGVuYXRlKFtob3NwaXRhbCwgZHJnLCBjb3N0cywgZHVyYXRpb24sIGRpc21pc3NhbF9kYXldLCBhaXhzPTEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0cyA9IElucHV0KGJhdGNoX3NoYXBlPShiYXRjaF9zaXplLCBkYXRhLmNvc3RzX2xlbmd0aCksIG5hbWU9J0Nvc3RzJykK</text>
+        <text encoding="base64">ZnJvbSAuaG90X2VuY29kZXIgaW1wb3J0IEhvdEVuY29kZXIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAjIENvbmRpdGlvbmFsIHBhcnQKICAgICAgICBob3NwaXRhbCA9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub3JtYWxpemVkX2Nvc3RzID0gZGF0YS5jb3N0cy5hcHBseShsYW1iZGEgeDogKHggLSBjbGFpbXMuQ29zdHMubWVhbigpKSAvIGNsYWltcy5Db3N0cy5zdGQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX2xlbmd0aCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIGNvbmRpdGlvbmFsX3ZhcmlhYmxlKHNlbGYsIGRhdGE6IEVUTEZyYXVkLCBiYXRjaF9zaXplOiBpbnQpOgogICAgICAgIGhvc3BpdGFsID0gSW5wdXQoYmF0Y2hfc2hhcGU9KGJhdGNoX3NpemUsIGRhdGEuaG9zcGl0YWxfbGVuZ3RoKSwgbmFtZT0nSG9zcGl0YWwgaW5wdXQnKQogICAgICAgIGRyZyA9IElucHV0KGJhdGNoX3NoYXBlPShiYXRjaF9zaXplLCBkYXRhLmRyZ19sZW5ndGgpLCBuYW1lPSdEUkcgaW5wdXQnKQogICAgICAgICA9IElucHV0KGJhdGNoX3NoYXBlPShiYXRjaF9zaXplLCBkYXRhLmRyZ19sZW5ndGgpLCBuYW1lPSdEUkcgaW5wdXQnKQogICAgICAgIGR1cmF0aW9uID0gSW5wdXQoYmF0Y2hfc2hhcGU9KGJhdGNoX3NpemUsIGRhdGEuZHVyYXRpb25fbGVuZ3RoKSwgbmFtZT0nRHVyYXRpb24gaW5wdXQnKQogICAgICAgIGR1cmF0aW9uID0gTGFtYmRhKGxhbWJkYSB4OiAoeCAtIGRhdGEuZHVyYXRpb24ubWVhbigpKSAvIGRhdGEuZHVyYXRpb24uc3RkKCksCiAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0nRHVyYXRpb24gbm9ybWFsaXphdGlvbicpKGR1cmF0aW9uKQogICAgICAgIGNvc3RzID0gSW5wdXQoYmF0Y2hfc2hhcGU9KGJhdGNoX3NpemUsIGRhdGEuY29zdHNfbGVuZ3RoKSwgbmFtZT0nQ29zdHMgaW5wdXQnKQogICAgICAgIGNvc3RzID0gTGFtYmRhKGxhbWJkYSB4OiAoeCAtIGRhdGEuY29zdHMubWVhbigpKSAvIGRhdGEuY29zdHMuc3RkKCksCiAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0nQ29zdHMgbm9ybWFsaXphdGlvbicpKGNvc3RzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdGVzdCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBkcmcgPSBJbnB1dChiYXRjaF9zaGFwZT0oYmF0Y2hfc2l6ZSwgZGF0YS5kcmdfbGVuZ3RoKSwgbmFtZT0nRFJHIGlucHV0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJhaW4gPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAjY29zdHMgPSBMYW1iZGEobGFtYmRhIHg6ICh4IC0gZGF0YS5jb3N0cy5tZWFuKCkpIC8gZGF0YS5jb3N0cy5zdGQoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjY29zdHMgPSBJbnB1dChiYXRjaF9zaGFwZT0oYmF0Y2hfc2l6ZSwgZGF0YS5jb3N0c19sZW5ndGgpLCBuYW1lPSdDb3N0cycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxucFw+</last-search>
+      <last-search>etl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxucFw+</last-pattern>
-      <last-replace>dismissal_day</last-replace>
-      <last-substitute>disd_oh</last-substitute>
+      <last-pattern>etl</last-pattern>
+      <last-replace>self._etl</last-replace>
+      <last-substitute>etl</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dismissal_day</entry>
-        <entry encoding="base64">XDxkaXNzbWlzYWxfZGF5XD4=</entry>
-        <entry>dismissal</entry>
-        <entry encoding="base64">XDxkaXNzbWlzYWxEYXlcPg==</entry>
         <entry>dismissalDay</entry>
         <entry encoding="base64">XDxudW1MaW5lc1RvU2tpcFw+</entry>
         <entry>numLines</entry>
@@ -374,12 +369,12 @@ costs_branch = Sequential(name='Normalisiert_Kosten')</text>
         <entry>drg_oh</entry>
         <entry>disd_oh</entry>
         <entry encoding="base64">XDxucFw+</entry>
+        <entry encoding="base64">XDxkcmdfbGVuZ3RoXD4=</entry>
+        <entry>costs</entry>
+        <entry>data</entry>
+        <entry>etl</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy5hZGQoLyA9IC9n</entry>
-        <entry encoding="base64">JzwsJz5zL2ZyYXVkX21vZGVsL2ZyYXVkL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0Rpc21pc3NhbF9kYXkvRFJHX01haW5fY2xhc3MvZw==</entry>
-        <entry>%s/mul/dot/g</entry>
         <entry>%s/mul/concat/g</entry>
         <entry encoding="base64">JzwsJz5zL2Nvc3RzL2hvc3BpdGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RyZ19tYWluL2Nvc3RzL2c=</entry>
@@ -395,6 +390,10 @@ costs_branch = Sequential(name='Normalisiert_Kosten')</text>
         <entry>%s/drg_oh/_drg/g</entry>
         <entry>%s/disd_oh/dismissal_day/g</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL2Nvc3RzL2R1cmF0aW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz4lcy9kYXRhL2V0bC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGEvc2VsZi5fZXRsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2V0bC9zZWxmLl9ldGwvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
