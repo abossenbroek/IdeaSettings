@@ -106,12 +106,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493049079896">
-        <mark key="'" line="59" column="45" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493050261341">
+        <mark key="'" line="73" column="54" />
+        <mark key="[" line="73" column="56" />
+        <mark key="]" line="73" column="56" />
+        <mark key="." line="73" column="56" />
+        <mark key="^" line="73" column="56" />
       </file>
       <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/unsupervised/deepbelief/DeepAutoEncoderExample.java" timestamp="1491919544331">
         <mark key="[" line="30" column="0" />
@@ -197,7 +197,6 @@
       <file name="C:/tools/Anaconda3/envs/theano35/Lib/site-packages/sklearn/utils/validation.py" timestamp="1492542198838" />
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
       <jump line="78" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
       <jump line="7" column="42" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" />
@@ -297,6 +296,7 @@
       <jump line="47" column="7" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
       <jump line="7" column="36" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
       <jump line="57" column="45" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
+      <jump line="73" column="54" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -306,7 +306,7 @@
         <text encoding="base64">YmF0Y2hfc2l6ZSwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY29zdHNcPg==</text>
+        <text encoding="base64">XDxvcmdpbmFsX2RpbVw+</text>
       </register>
       <register name="0" type="4">
         <text>epsilon_std</text>
@@ -343,9 +343,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY29zdHNcPg==</last-search>
+      <last-search encoding="base64">XDxvcmdpbmFsX2RpbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY29zdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvcmdpbmFsX2RpbVw+</last-pattern>
       <last-replace>self._etl</last-replace>
       <last-substitute>etl</last-substitute>
       <last-dir>1</last-dir>
@@ -353,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>numLines</entry>
         <entry>CSV</entry>
         <entry encoding="base64">XDxkZWxpbWl0ZXJcPg==</entry>
         <entry>Spark ver</entry>
@@ -373,6 +372,7 @@
         <entry>etl</entry>
         <entry encoding="base64">XDxfZGlzbWlzc2FsX2RheVw+</entry>
         <entry encoding="base64">XDxfY29zdHNcPg==</entry>
+        <entry encoding="base64">XDxvcmdpbmFsX2RpbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mul/concat/g</entry>
