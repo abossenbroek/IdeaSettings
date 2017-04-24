@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" timestamp="1493043052658">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" timestamp="1493043502393">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="86" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/hot_encoder.py" timestamp="1492776185210">
         <mark key="'" line="17" column="0" />
@@ -59,10 +60,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" timestamp="1493042380016">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" timestamp="1493043523205">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -104,11 +106,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493043072729">
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493044031843">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="3" column="78" />
+        <mark key="." line="3" column="78" />
+        <mark key="^" line="3" column="78" />
       </file>
       <file name="$USER_HOME$/Tutorials/dl4j-examples/dl4j-examples/src/main/java/org/deeplearning4j/examples/unsupervised/deepbelief/DeepAutoEncoderExample.java" timestamp="1491919544331">
         <mark key="[" line="30" column="0" />
@@ -138,11 +140,6 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/fraud_detection.py" timestamp="1490629072887">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
         <mark key="[" line="56" column="23" />
@@ -164,9 +161,9 @@
         <mark key="^" line="137" column="24" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/train_fraud_detection_model.py" timestamp="1493042236196">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="81" />
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/train_fraud_detection_model.py" timestamp="1493043657820">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/pom.xml" timestamp="1492536214732">
         <mark key="a" line="44" column="34" />
@@ -199,8 +196,6 @@
       <file name="C:/tools/Anaconda3/envs/theano35/Lib/site-packages/sklearn/utils/validation.py" timestamp="1492542198838" />
     </filemarks>
     <jumps>
-      <jump line="114" column="47" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
-      <jump line="121" column="13" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="18" column="32" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="21" column="46" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
       <jump line="110" column="25" filename="$USER_HOME$/PycharmProjects/257/pom.xml" />
@@ -299,48 +294,50 @@
       <jump line="0" column="16" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
       <jump line="9" column="8" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/ETLFraud.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>: ETLFraud</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxucFw+</text>
       </register>
       <register name="0" type="4">
-        <text>from keras.models import Sequential
-from keras.layers import Dense, Merge, Activation, Dropout
-from keras.callbacks import TensorBoard, EarlyStopping, ModelCheckpoint, CSVLogger</text>
+        <text>normalized_costs = claims['Costs'].apply(lambda x: (x - claims.Costs.mean()) / claims.Costs.std())
+
+costs_branch = Sequential(name='Normalisiert_Kosten')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdGVzdCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBjb3N0cyA9IElucHV0KGJhdGNoX3NoYXBlPShiYXRjaF9zaXplLCBkYXRhLmNvc3RzX2xlbmd0aCksIG5hbWU9J0Nvc3RzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJhaW4gPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3JtYWxpemVkX2Nvc3RzID0gZGF0YS5jb3N0cy5hcHBseShsYW1iZGEgeDogKHggLSBjbGFpbXMuQ29zdHMubWVhbigpKSAvIGNsYWltcy5Db3N0cy5zdGQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIHNodWZmbGVUZXN0VHJhaW46Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX2xlbmd0aCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdGVzdCA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJhaW4gPSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
