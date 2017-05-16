@@ -128,6 +128,9 @@
         <mark key="^" line="47" column="45" />
         <mark key="." line="47" column="45" />
       </file>
+      <file name="/R Console" timestamp="1494948791281">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1492768704745">
         <mark key="'" line="74" column="4" />
         <mark key="[" line="74" column="74" />
@@ -174,6 +177,11 @@
         <mark key="[" line="18" column="8" />
         <mark key="]" line="20" column="48" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp/00_install_dependencies.R" timestamp="1494948699318">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model.py" timestamp="1487881756072">
         <mark key="'" line="162" column="0" />
@@ -299,8 +307,8 @@
       <jump line="48" column="42" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygnbWxyJywgZGVwZW5kZW5jaWVzID0gVFJVRSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -309,7 +317,7 @@
         <text encoding="base64">XDxjb25kaXRpb25hbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
+        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygnbWxyJywgZGVwZW5kZW5jaWVzID0gVFJVRSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
