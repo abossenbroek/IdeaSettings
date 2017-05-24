@@ -90,7 +90,7 @@
         <mark key="." line="84" column="65" />
         <mark key="^" line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator.py" timestamp="1495619616099">
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator.py" timestamp="1495621336374">
         <mark key="'" line="94" column="91" />
         <mark key="[" line="50" column="4" />
         <mark key="]" line="52" column="52" />
@@ -134,12 +134,12 @@
       <file name="/R Console" timestamp="1494948791281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1495617757004">
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1495621789342">
         <mark key="'" line="74" column="4" />
-        <mark key="[" line="74" column="75" />
-        <mark key="]" line="76" column="3" />
-        <mark key="^" line="76" column="3" />
-        <mark key="." line="76" column="3" />
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="78" column="122" />
+        <mark key="." line="78" column="21" />
+        <mark key="^" line="78" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/etl.py" timestamp="1492777788966">
         <mark key="'" line="30" column="13" />
@@ -302,8 +302,8 @@
       <jump line="94" column="91" filename="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygnJywgZGVwZW5kZW5jaWVzID0gVFJVRSkK</text>
+      <register name="&quot;" type="4">
+        <text>(mapping_table.loc[mapping_table['DRG'] == drg_code, 'Multiplication_factor']).values[0] * cost_factr</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -311,35 +311,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBwaW5nX3RhYmxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygnbWxyJywgZGVwZW5kZW5jaWVzID0gVFJVRSkK</text>
+      <register name="0" type="4">
+        <text>(mapping_table.loc[mapping_table['DRG'] == drg_code, 'Multiplication_factor']).values[0] * cost_factr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygnJywgZGVwZW5kZW5jaWVzID0gVFJVRSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4dHJhX2Nvc3QgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwK</text>
+        <text encoding="base64">aW5zdGFsbC5wYWNrYWdlcygnJywgZGVwZW5kZW5jaWVzID0gVFJVRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgTW9kZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBrZXJhcy5tb2RlbHMgaW1wb3J0IFNlcXVlbnRpYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gNTAK</text>
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgTW9kZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0cyA9IExhbWJkYQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gNTAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3N0cyA9IExhbWJkYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
