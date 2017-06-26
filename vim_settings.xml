@@ -9,17 +9,16 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498507632678">
-        <mark key="a" line="110" column="75" />
-        <mark key="'" line="110" column="75" />
-        <mark key="[" line="108" column="29" />
-        <mark key="]" line="108" column="35" />
-        <mark key="." line="108" column="35" />
-        <mark key="^" line="108" column="35" />
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498510246831">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="144" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498506787727">
-        <mark key="[" line="119" column="12" />
-        <mark key="]" line="120" column="24" />
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498510147200">
+        <mark key="'" line="109" column="8" />
+        <mark key="[" line="157" column="8" />
+        <mark key="]" line="157" column="16" />
         <mark key="." line="115" column="37" />
         <mark key="^" line="115" column="37" />
       </file>
@@ -47,40 +46,50 @@
       <jump line="168" column="120" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="67" column="12" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="110" column="75" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="65" column="12" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="143" column="12" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="149" column="18" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="157" column="8" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="2" column="18" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="35" column="26" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="109" column="8" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NESTEROVS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NESTEROVS</text>
+        <text>trainingData</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bHN0bUxheWVyU2l6ZSA=</text>
+        <text>log.info(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLnVwZGF0ZXIoVXBkYXRlci5ORVNURVJPVlMpLm1vbWVudHVtKDAuMDkpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5maXQoaXRlcik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlY29yZFJlYWRlci5pbml0aWFsaXplKG5ldyBGaWxlU3BsaXQobmV3IENsYXNzUGF0aFJlc291cmNlKCJJcmlzRGF0YS9pcmlzX3dpdGhfbmFtZXMuY3N2IikuZ2V0RmlsZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IGFkZCByaWdodCBjb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIENyZWF0ZSBhIHdlYiBiYXNlZCBVSSBzZXJ2ZXIgdG8gc2hvdyBwcm9ncmVzcyBhcyB0aGUgbmV0d29yayB0cmFpbnMKICAgICAgICBUaGUgTGlzdGVuZXJzIGZvciB0aGUgbW9kZWwgYXJlIHNldCBoZXJlIGFzIHdlbGwKICAgICAgICBPbmUgbGlzdGVuZXIgdG8gcGFzcyBzdGF0cyB0byB0aGUgVUkKICAgICAgICBhbmQgYSBMaXN0ZW5lciB0byBwYXNzIHByb2dyZXNzIGluZm8gdG8gdGhlIGNvbnNvbGUKICAgICAgICAgKi8KCiAgICAgICAgVUlTZXJ2ZXIgdWlTZXJ2ZXIgPSBVSVNlcnZlci5nZXRJbnN0YW5jZSgpOwogICAgICAgIFN0YXRzU3RvcmFnZSBzdGF0c1N0b3JhZ2UgPSBuZXcgSW5NZW1vcnlTdGF0c1N0b3JhZ2UoKTsKICAgICAgICBtb2RlbC5zZXRMaXN0ZW5lcnMobmV3IFN0YXRzTGlzdGVuZXIoc3RhdHNTdG9yYWdlKSxuZXcgU2NvcmVJdGVyYXRpb25MaXN0ZW5lcigxKSk7CiAgICAgICAgdWlTZXJ2ZXIuYXR0YWNoKHN0YXRzU3RvcmFnZSk7Cg==</text>
+        <text encoding="base64">KQoJCQkJCQkJ</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIENyZWF0ZSBhIHdlYiBiYXNlZCBVSSBzZXJ2ZXIgdG8gc2hvdyBwcm9ncmVzcyBhcyB0aGUgbmV0d29yayB0cmFpbnMKICAgICAgICBUaGUgTGlzdGVuZXJzIGZvciB0aGUgbW9kZWwgYXJlIHNldCBoZXJlIGFzIHdlbGwKICAgICAgICBPbmUgbGlzdGVuZXIgdG8gcGFzcyBzdGF0cyB0byB0aGUgVUkKICAgICAgICBhbmQgYSBMaXN0ZW5lciB0byBwYXNzIHByb2dyZXNzIGluZm8gdG8gdGhlIGNvbnNvbGUKICAgICAgICAgKi8KCiAgICAgICAgVUlTZXJ2ZXIgdWlTZXJ2ZXIgPSBVSVNlcnZlci5nZXRJbnN0YW5jZSgpOwogICAgICAgIFN0YXRzU3RvcmFnZSBzdGF0c1N0b3JhZ2UgPSBuZXcgSW5NZW1vcnlTdGF0c1N0b3JhZ2UoKTsKICAgICAgICBtb2RlbC5zZXRMaXN0ZW5lcnMobmV3IFN0YXRzTGlzdGVuZXIoc3RhdHNTdG9yYWdlKSxuZXcgU2NvcmVJdGVyYXRpb25MaXN0ZW5lcigxKSk7CiAgICAgICAgdWlTZXJ2ZXIuYXR0YWNoKHN0YXRzU3RvcmFnZSk7CiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLnVwZGF0ZXIoVXBkYXRlci5ORVNURVJPVlMpLm1vbWVudHVtKDAuMDkpIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -93,9 +102,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -110,6 +119,9 @@
         <entry>ADA</entry>
         <entry encoding="base64">XDxudW1JbnB1dHNcPg==</entry>
         <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
+        <entry>lstm</entry>
+        <entry encoding="base64">XDx0cmFpbmluZ0RhdGFcPg==</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
