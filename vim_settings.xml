@@ -9,12 +9,16 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498501938746">
-        <mark key="'" line="50" column="12" />
-        <mark key="[" line="54" column="58" />
-        <mark key="]" line="54" column="58" />
-        <mark key="." line="54" column="58" />
-        <mark key="^" line="54" column="103" />
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498505425351">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="55" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" timestamp="1498504676768">
+        <mark key="'" line="85" column="25" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="65" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -22,31 +26,40 @@
       <jump line="101" column="8" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
       <jump line="50" column="12" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="55" column="8" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="59" column="8" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="54" column="15" filename="$USER_HOME$/Documents/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="69" column="27" filename="$USER_HOME$/Documents/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="85" column="25" filename="$USER_HOME$/Documents/Tutorials/dl4j-examples/datavec-examples/src/main/java/org/datavec/transform/basic/BasicDataVecExample.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
+      <jump line="44" column="29" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJlY29yZFJlYWRlci5pbml0aWFsaXplKG5ldyBGaWxlU3BsaXQobmV3IENsYXNzUGF0aFJlc291cmNlKCJJcmlzRGF0YS9pcmlzX3dpdGhfbmFtZXMuY3N2IikuZ2V0RmlsZSgpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text>seed:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYWJlbEluZGV4XD4=</text>
+        <text>shuffle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlY29yZFJlYWRlci5pbml0aWFsaXplKG5ldyBGaWxlU3BsaXQobmV3IENsYXNzUGF0aFJlc291cmNlKCJpcmlzLnR4dCIpLmdldEZpbGUoKSkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBTY2hlbWEgaW5wdXREYXRhU2NoZW1hID0gbmV3IFNjaGVtYS5CdWlsZGVyKCkKICAgICAgICAgICAgLy9XZSBjYW4gZGVmaW5lIGEgc2luZ2xlIGNvbHVtbgogICAgICAgICAgICAuYWRkQ29sdW1uU3RyaW5nKCJEYXRlVGltZVN0cmluZyIpCiAgICAgICAgICAgIC8vT3IgZm9yIGNvbnZlbmllbmNlIGRlZmluZSBtdWx0aXBsZSBjb2x1bW5zIG9mIHRoZSBzYW1lIHR5cGUKICAgICAgICAgICAgLmFkZENvbHVtbnNTdHJpbmcoIkN1c3RvbWVySUQiLCAiTWVyY2hhbnRJRCIpCiAgICAgICAgICAgIC8vV2UgY2FuIGRlZmluZSBkaWZmZXJlbnQgY29sdW1uIHR5cGVzIGZvciBkaWZmZXJlbnQgdHlwZXMgb2YgZGF0YToKICAgICAgICAgICAgLmFkZENvbHVtbkludGVnZXIoIk51bUl0ZW1zSW5UcmFuc2FjdGlvbiIpCiAgICAgICAgICAgIC5hZGRDb2x1bW5DYXRlZ29yaWNhbCgiTWVyY2hhbnRDb3VudHJ5Q29kZSIsIEFycmF5cy5hc0xpc3QoIlVTQSIsIkNBTiIsIkZSIiwiTVgiKSkKICAgICAgICAgICAgLy9Tb21lIGNvbHVtbnMgaGF2ZSByZXN0cmljdGlvbnMgb24gdGhlIGFsbG93YWJsZSB2YWx1ZXMsIHRoYXQgd2UgY29uc2lkZXIgdmFsaWQ6CiAgICAgICAgICAgIC5hZGRDb2x1bW5Eb3VibGUoIlRyYW5zYWN0aW9uQW1vdW50VVNEIiwwLjAsbnVsbCxmYWxzZSxmYWxzZSkgICAvLyQwLjAgb3IgbW9yZSwgbm8gbWF4aW11bSBsaW1pdCwgbm8gTmFOIGFuZCBubyBJbmZpbml0ZSB2YWx1ZXMKICAgICAgICAgICAgLmFkZENvbHVtbkNhdGVnb3JpY2FsKCJGcmF1ZExhYmVsIiwgQXJyYXlzLmFzTGlzdCgiRnJhdWQiLCJMZWdpdCIpKQogICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJlY29yZFJlYWRlci5pbml0aWFsaXplKG5ldyBGaWxlU3BsaXQobmV3IENsYXNzUGF0aFJlc291cmNlKCJJcmlzRGF0YS9pcmlzX3dpdGhfbmFtZXMuY3N2IikuZ2V0RmlsZSgpKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxEYXRhCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAvKgogICAgICAgIENyZWF0ZSBhIHdlYiBiYXNlZCBVSSBzZXJ2ZXIgdG8gc2hvdyBwcm9ncmVzcyBhcyB0aGUgbmV0d29yayB0cmFpbnMKICAgICAgICBUaGUgTGlzdGVuZXJzIGZvciB0aGUgbW9kZWwgYXJlIHNldCBoZXJlIGFzIHdlbGwKICAgICAgICBPbmUgbGlzdGVuZXIgdG8gcGFzcyBzdGF0cyB0byB0aGUgVUkKICAgICAgICBhbmQgYSBMaXN0ZW5lciB0byBwYXNzIHByb2dyZXNzIGluZm8gdG8gdGhlIGNvbnNvbGUKICAgICAgICAgKi8KCiAgICAgICAgVUlTZXJ2ZXIgdWlTZXJ2ZXIgPSBVSVNlcnZlci5nZXRJbnN0YW5jZSgpOwogICAgICAgIFN0YXRzU3RvcmFnZSBzdGF0c1N0b3JhZ2UgPSBuZXcgSW5NZW1vcnlTdGF0c1N0b3JhZ2UoKTsKICAgICAgICBtb2RlbC5zZXRMaXN0ZW5lcnMobmV3IFN0YXRzTGlzdGVuZXIoc3RhdHNTdG9yYWdlKSxuZXcgU2NvcmVJdGVyYXRpb25MaXN0ZW5lcigxKSk7CiAgICAgICAgdWlTZXJ2ZXIuYXR0YWNoKHN0YXRzU3RvcmFnZSk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAvKgogICAgICAgIENyZWF0ZSBhIHdlYiBiYXNlZCBVSSBzZXJ2ZXIgdG8gc2hvdyBwcm9ncmVzcyBhcyB0aGUgbmV0d29yayB0cmFpbnMKICAgICAgICBUaGUgTGlzdGVuZXJzIGZvciB0aGUgbW9kZWwgYXJlIHNldCBoZXJlIGFzIHdlbGwKICAgICAgICBPbmUgbGlzdGVuZXIgdG8gcGFzcyBzdGF0cyB0byB0aGUgVUkKICAgICAgICBhbmQgYSBMaXN0ZW5lciB0byBwYXNzIHByb2dyZXNzIGluZm8gdG8gdGhlIGNvbnNvbGUKICAgICAgICAgKi8KCiAgICAgICAgVUlTZXJ2ZXIgdWlTZXJ2ZXIgPSBVSVNlcnZlci5nZXRJbnN0YW5jZSgpOwogICAgICAgIFN0YXRzU3RvcmFnZSBzdGF0c1N0b3JhZ2UgPSBuZXcgSW5NZW1vcnlTdGF0c1N0b3JhZ2UoKTsKICAgICAgICBtb2RlbC5zZXRMaXN0ZW5lcnMobmV3IFN0YXRzTGlzdGVuZXIoc3RhdHNTdG9yYWdlKSxuZXcgU2NvcmVJdGVyYXRpb25MaXN0ZW5lcigxKSk7CiAgICAgICAgdWlTZXJ2ZXIuYXR0YWNoKHN0YXRzU3RvcmFnZSk7CiA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -55,32 +68,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBudW1MaW5lc1RvU2tpcCA9IDA7Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYWJlbEluZGV4XD4=</last-search>
+      <last-search>shuffle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYWJlbEluZGV4XD4=</last-pattern>
+      <last-pattern>shuffle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxsYWJlbEluZGV4XD4=</entry>
+        <entry>seed</entry>
+        <entry encoding="base64">XDxEYXRhU2V0XD4=</entry>
+        <entry encoding="base64">XDxpbnB1dERhdGFTY2hlbWFcPg==</entry>
+        <entry encoding="base64">XDx0cFw+</entry>
+        <entry>shuffle</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
