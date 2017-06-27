@@ -9,13 +9,13 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498512208410">
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498568585543">
         <mark key="a" line="123" column="54" />
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="78" column="24" />
-        <mark key="]" line="78" column="26" />
+        <mark key="[" line="136" column="55" />
+        <mark key="]" line="136" column="55" />
         <mark key="^" line="78" column="26" />
-        <mark key="." line="78" column="26" />
+        <mark key="." line="136" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
         <mark key="'" line="157" column="8" />
@@ -73,10 +73,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>00</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
         <text>apache</text>
