@@ -20,13 +20,12 @@
         <mark key="^" line="75" column="29" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/UCISequenceClassificationExample.java" timestamp="1498592154857">
-        <mark key="a" line="119" column="63" />
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="110" column="75" />
-        <mark key="]" line="110" column="75" />
-        <mark key="^" line="109" column="76" />
-        <mark key="." line="110" column="75" />
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/UCISequenceClassificationExample.java" timestamp="1498592997200">
+        <mark key="a" line="120" column="63" />
+        <mark key="'" line="290" column="0" />
+        <mark key="]" line="164" column="48" />
+        <mark key="^" line="164" column="48" />
+        <mark key="." line="164" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
         <mark key="'" line="157" column="8" />
