@@ -3,19 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1498580764517">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/demos/SimplestNetwork.java" timestamp="1498506132323">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="109" />
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498578659646">
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498580232386">
         <mark key="a" line="123" column="54" />
         <mark key="'" line="79" column="24" />
-        <mark key="[" line="126" column="47" />
-        <mark key="]" line="126" column="50" />
-        <mark key="^" line="126" column="50" />
-        <mark key="." line="126" column="50" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="29" />
+        <mark key="^" line="75" column="29" />
+        <mark key="." line="75" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
         <mark key="'" line="157" column="8" />
@@ -81,10 +84,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RELU</text>
+        <text>32</text>
       </register>
       <register name="-" type="4">
-        <text>RELU</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudW1FcG9jaHNcPg==</text>
