@@ -41,6 +41,13 @@
       <file name="$USER_HOME$/Documents/Cases/Belcorp/modeling/pilot_mlr_models.R" timestamp="1494949676759">
         <mark key="'" line="443" column="0" />
       </file>
+      <file name="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498584831745">
+        <mark key="'" line="164" column="40" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
+        <mark key="^" line="75" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1492777797997">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,7 +206,8 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Tutorials/class_labs/pom.xml" timestamp="1498584535744">
+      <file name="$USER_HOME$/Tutorials/class_labs/pom.xml" timestamp="1498585239364">
+        <mark key="'" line="11" column="73" />
         <mark key="[" line="12" column="62" />
         <mark key="]" line="12" column="65" />
         <mark key="." line="12" column="62" />
@@ -268,16 +276,20 @@
       <jump line="70" column="22" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="164" column="40" filename="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="12" column="64" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="13" column="28" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="11" column="73" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LS0+</text>
+        <text>64</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS0+</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
-        <text>apache</text>
+        <text>cuda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBCYXNpY0NvbmZpZ3VyYXRvci5jb25maWd1cmUoKTsK</text>
@@ -314,15 +326,14 @@
       </register>
     </registers>
     <search>
-      <last-search>apache</last-search>
+      <last-search>cuda</last-search>
       <last-offset />
-      <last-pattern>apache</last-pattern>
+      <last-pattern>cuda</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drg</entry>
         <entry encoding="base64">XDxkYXlzX292ZXJcPg==</entry>
         <entry>hosp_oh</entry>
         <entry>drg_oh</entry>
@@ -342,6 +353,7 @@
         <entry>mapping</entry>
         <entry encoding="base64">XDxtYXBwaW5nX3RhYmxlXD4=</entry>
         <entry encoding="base64">XDxjb3N0X2ZhY3RyXD4=</entry>
+        <entry>cuda</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mul/concat/g</entry>
