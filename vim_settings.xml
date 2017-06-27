@@ -168,6 +168,13 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
+      <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="47" column="6" />
+        <mark key="^" line="51" column="23" />
+        <mark key="." line="47" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/etl.py" timestamp="1492777788966">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="55" column="0" />
@@ -206,11 +213,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Tutorials/class_labs/pom.xml" timestamp="1498585239364">
-        <mark key="'" line="11" column="73" />
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="12" column="65" />
-        <mark key="." line="12" column="62" />
+      <file name="$USER_HOME$/Tutorials/class_labs/pom.xml" timestamp="1498586539395">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
         <mark key="^" line="12" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp/00_install_dependencies.R" timestamp="1494949679873">
@@ -229,7 +236,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1498511847274">
+      <file name="/fragment.java" timestamp="1498586158775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_etl.py" timestamp="1492538170349">
@@ -277,19 +284,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="164" column="40" filename="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="12" column="64" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
       <jump line="13" column="28" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="11" column="73" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="42" column="16" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="64" column="45" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="71" column="9" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="4" column="31" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="83" column="11" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="67" column="9" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
+      <jump line="49" column="25" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
+      <jump line="11" column="98" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="12" column="32" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
+      <jump line="48" column="25" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>64</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>cuda</text>
+        <text>dependency</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBCYXNpY0NvbmZpZ3VyYXRvci5jb25maWd1cmUoKTsK</text>
@@ -326,20 +343,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cuda</last-search>
+      <last-search>dependency</last-search>
       <last-offset />
-      <last-pattern>cuda</last-pattern>
+      <last-pattern>dependency</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXlzX292ZXJcPg==</entry>
-        <entry>hosp_oh</entry>
-        <entry>drg_oh</entry>
-        <entry>disd_oh</entry>
-        <entry encoding="base64">XDxucFw+</entry>
-        <entry encoding="base64">XDxkcmdfbGVuZ3RoXD4=</entry>
         <entry>costs</entry>
         <entry>data</entry>
         <entry>etl</entry>
@@ -354,6 +365,12 @@
         <entry encoding="base64">XDxtYXBwaW5nX3RhYmxlXD4=</entry>
         <entry encoding="base64">XDxjb3N0X2ZhY3RyXD4=</entry>
         <entry>cuda</entry>
+        <entry>artif</entry>
+        <entry>dependencies</entry>
+        <entry>artifac</entry>
+        <entry>CUDA</entry>
+        <entry>native-platform</entry>
+        <entry>dependency</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mul/concat/g</entry>
