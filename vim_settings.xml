@@ -9,13 +9,13 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498568585543">
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498575684494">
         <mark key="a" line="123" column="54" />
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="136" column="55" />
-        <mark key="]" line="136" column="55" />
-        <mark key="^" line="78" column="26" />
-        <mark key="." line="136" column="55" />
+        <mark key="'" line="210" column="28" />
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="25" />
+        <mark key="^" line="78" column="24" />
+        <mark key="." line="78" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
         <mark key="'" line="157" column="8" />
@@ -68,57 +68,62 @@
       <jump line="150" column="62" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="157" column="8" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" />
       <jump line="70" column="22" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="139" column="7" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="209" column="31" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
+      <jump line="210" column="28" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>00</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>apache</text>
+        <text>numEpochs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBCYXNpY0NvbmZpZ3VyYXRvci5jb25maWd1cmUoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8qCiAgICAgICAgQ3JlYXRlIGEgd2ViIGJhc2VkIFVJIHNlcnZlciB0byBzaG93IHByb2dyZXNzIGFzIHRoZSBuZXR3b3JrIHRyYWlucwogICAgICAgIFRoZSBMaXN0ZW5lcnMgZm9yIHRoZSBtb2RlbCBhcmUgc2V0IGhlcmUgYXMgd2VsbAogICAgICAgIE9uZSBsaXN0ZW5lciB0byBwYXNzIHN0YXRzIHRvIHRoZSBVSQogICAgICAgIGFuZCBhIExpc3RlbmVyIHRvIHBhc3MgcHJvZ3Jlc3MgaW5mbyB0byB0aGUgY29uc29sZQogICAgICAgICAqLwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouQmFzaWNDb25maWd1cmF0b3I7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBVSVNlcnZlciB1aVNlcnZlciA9IFVJU2VydmVyLmdldEluc3RhbmNlKCk7CiAgICAgICAgU3RhdHNTdG9yYWdlIHN0YXRzU3RvcmFnZSA9IG5ldyBJbk1lbW9yeVN0YXRzU3RvcmFnZSgpOwogICAgICAgIG1vZGVsLnNldExpc3RlbmVycyhuZXcgU3RhdHNMaXN0ZW5lcihzdGF0c1N0b3JhZ2UpLG5ldyBTY29yZUl0ZXJhdGlvbkxpc3RlbmVyKDEpKTsKICAgICAgICB1aVNlcnZlci5hdHRhY2goc3RhdHNTdG9yYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5maXQoaXRlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouQmFzaWNDb25maWd1cmF0b3I7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IGFkZCByaWdodCBjb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5maXQoaXRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KQoJCQkJCQkJ</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IGFkZCByaWdodCBjb2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLnVwZGF0ZXIoVXBkYXRlci5ORVNURVJPVlMpLm1vbWVudHVtKDAuMDkpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>apache</last-search>
+      <last-search>numEpochs</last-search>
       <last-offset />
-      <last-pattern>apache</last-pattern>
+      <last-pattern>numEpochs</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -138,11 +143,14 @@
         <entry>log</entry>
         <entry>for</entry>
         <entry>apache</entry>
+        <entry>numEpochs</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
