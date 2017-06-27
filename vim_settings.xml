@@ -20,12 +20,17 @@
         <mark key="^" line="75" column="29" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/UCISequenceClassificationExample.java" timestamp="1498592997200">
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/UCISequenceClassificationExample.java" timestamp="1498594250429">
         <mark key="a" line="120" column="63" />
         <mark key="'" line="290" column="0" />
-        <mark key="]" line="164" column="48" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="84" column="125" />
         <mark key="^" line="164" column="48" />
         <mark key="." line="164" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/PhysionetMultivariateTimeSeriesClassificationBasic.java" timestamp="1498594252180">
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="74" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
         <mark key="'" line="157" column="8" />
@@ -125,7 +130,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NeuralNetConfiguration().Builder()</text>
+        <text encoding="base64">ICAgICAgICBTZXF1ZW5jZVJlY29yZFJlYWRlciB0cmFpbkZlYXR1cmVzID0gbmV3IENTVlNlcXVlbmNlUmVjb3JkUmVhZGVyKCk7CiAgICAgICAgdHJhaW5GZWF0dXJlcy5pbml0aWFsaXplKG5ldyBOdW1iZXJlZEZpbGVJbnB1dFNwbGl0KFVDSURhdGEuZmVhdHVyZXNEaXJUcmFpbi5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJWQuY3N2IiwgMCwgNDQ5KSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NeuralNetConfiguration().Builder()</text>
@@ -134,7 +139,7 @@
         <text encoding="base64">XDxOZXVyYWxOZXRDb25maWd1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>NeuralNetConfiguration.Builder()</text>
+        <text encoding="base64">ICAgICAgICBTZXF1ZW5jZVJlY29yZFJlYWRlciB0cmFpbkZlYXR1cmVzID0gbmV3IENTVlNlcXVlbmNlUmVjb3JkUmVhZGVyKCk7CiAgICAgICAgdHJhaW5GZWF0dXJlcy5pbml0aWFsaXplKG5ldyBOdW1iZXJlZEZpbGVJbnB1dFNwbGl0KFVDSURhdGEuZmVhdHVyZXNEaXJUcmFpbi5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJWQuY3N2IiwgMCwgNDQ5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -164,7 +169,7 @@
         <text encoding="base64">ICAgICAgICBEYXRhU2V0SXRlcmF0b3IgdHJhaW5EYXRhID0gbmV3IFNlcXVlbmNlUmVjb3JkUmVhZGVyRGF0YVNldEl0ZXJhdG9yKHRyYWluRmVhdHVyZXMsIHRyYWluTGFiZWxzLCBtaW5pQmF0Y2hTaXplLAogICAgICAgICAgICAgICAgbnVtTGFiZWxDbGFzc2VzLCBmYWxzZSwgU2VxdWVuY2VSZWNvcmRSZWFkZXJEYXRhU2V0SXRlcmF0b3IuQWxpZ25tZW50TW9kZS5BTElHTl9FTkQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -200,11 +205,11 @@
         <entry encoding="base64">XDxOZXVyYWxOZXRDb25maWd1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0ZlYXR1cmVzL0xhYmVscy9n</entry>
         <entry>s/train/test/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYWluL3Rlc3QvZw==</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
