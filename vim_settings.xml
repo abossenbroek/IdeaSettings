@@ -59,12 +59,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500529732308">
-        <mark key="'" line="43" column="28" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500532740048">
+        <mark key="'" line="50" column="45" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
@@ -323,65 +323,69 @@
       <jump line="40" column="82" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="12" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="41" column="28" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="60" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="30" column="5" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="54" column="18" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="61" column="45" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>as rinterface</text>
+        <text>model_data</text>
       </register>
       <register name="/" type="4">
-        <text>ForecastModel</text>
+        <text encoding="base64">XDxmZWF0dXJlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>session.query(ForecastModelData).filter_by(country=country).filter(ForecastModelData.cod_cuc.in_(sku)).all()</text>
+        <text encoding="base64">bGFtYmRhIG06IG0ubW9kZWxfZGF0YSwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBkZWYgZ2V0X2ludmVyc2UobSk6CiAgICAgICAgICAgIHJldHVybiBtLmludmVyc2VfdHJhbnNmb3JtCgogICAgICAgIGRlZiBnZXRfY29kX2N1YyhtKToKICAgICAgICAgICAgcmV0dXJuIG0uY29kX2N1YwoKICAgICAgICBkZWYgZ2V0X21vZGVsX2RhdGEobSk6CiAgICAgICAgICAgIHJldHVybiAKCiAgICAgICAgZGVmIGdldF9mZWF0dXJlcyhtKToKICAgICAgICAgICAgcmV0dXJuIG0uZmVhdHVyZXNbMF0uc3BsaXQoJywnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSByb2JqZWN0cy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByaW50ZXJmYWNlLmVuZHIoKQo=</text>
+        <text encoding="base64">cnB5Mi5yaW50ZXJmYWNlLnNldF9pbml0b3B0aW9ucygoJ3JweTInLCAnLS12ZXJib3NlJywgJy0tbm8tc2F2ZScpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBwcmludChsZW4oZmMxKSkK</text>
+        <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSByb2JqZWN0cy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ForecastModel</last-search>
+      <last-search encoding="base64">XDxmZWF0dXJlc1w+</last-search>
       <last-offset />
-      <last-pattern>ForecastModel</last-pattern>
-      <last-replace>ForecastModelData</last-replace>
-      <last-substitute>ForecastModel</last-substitute>
+      <last-pattern encoding="base64">XDxmZWF0dXJlc1w+</last-pattern>
+      <last-replace>features</last-replace>
+      <last-substitute>model_data</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY29zdHNcPg==</entry>
-        <entry encoding="base64">XDxvcmdpbmFsX2RpbVw+</entry>
-        <entry encoding="base64">XDxiYXRjaF9zaXplXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVfaW5wdXRcPg==</entry>
         <entry>log_sigma</entry>
         <entry encoding="base64">XDxjb25kaXRpb25hbFw+</entry>
@@ -399,11 +403,11 @@
         <entry>Base</entry>
         <entry>Table</entry>
         <entry>ForecastModel</entry>
+        <entry>cod_cuc</entry>
+        <entry>model_data</entry>
+        <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RyZ19tYWluL2Nvc3RzL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsX3dpdGhfZnJhdWQvaG9zcGl0YWxzX3dfZnJhdWQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2VuY29kZXIvZW5jL2c=</entry>
         <entry>%s/Convolution2D/Conv2D/g</entry>
         <entry>%s/W_re/kernel_re/g</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0RGF0YVNjaGVtYS9zY2hlbWEvZw==</entry>
@@ -420,6 +424,9 @@
         <entry encoding="base64">JzwsJz5zL2V0bC9zZWxmLl9ldGwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h5cGVyX3BhcmFtcy9mZWF0dXJlcy9n</entry>
         <entry>%s/ForecastModel/ForecastModelData/g</entry>
+        <entry encoding="base64">JzwsJz5jb2RfY3VjL21vZGVsX2RhdGEvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NvZF9jdWMvbW9kZWxfZGF0YS9n</entry>
+        <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
