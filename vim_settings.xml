@@ -17,7 +17,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1500490684785">
+      <file name="/Python Console" timestamp="1500507334332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1490627996938">
@@ -58,6 +58,13 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500508458179">
+        <mark key="'" line="43" column="22" />
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
@@ -179,12 +186,11 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" timestamp="1500504018902">
-        <mark key="'" line="72" column="48" />
-        <mark key="[" line="75" column="34" />
-        <mark key="]" line="75" column="32" />
-        <mark key="." line="75" column="32" />
-        <mark key="^" line="75" column="32" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" timestamp="1500505543941">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -297,82 +303,77 @@
       <jump line="88" column="0" filename="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="55" column="25" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="61" column="44" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="66" column="51" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="4" column="69" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="72" column="48" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="76" column="10" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
+      <jump line="12" column="70" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="32" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="15" column="19" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="40" column="22" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>performane</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBNZXRhRGF0YSwgVGFibGUK</text>
       </register>
       <register name="-" type="4">
-        <text>performane</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>hyper_params</text>
+        <text>ForecastModel</text>
       </register>
       <register name="0" type="4">
-        <text>features = Column('features', JSONB)</text>
+        <text>session.query(ForecastModelData).filter_by(country=country).filter(ForecastModelData.cod_cuc.in_(sku)).all()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBNZXRhRGF0YSwgVGFibGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgTW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICBmYzEgPSBzZXNzaW9uLnF1ZXJ5KEZvcmVjYXN0TW9kZWxEYXRhKS5maWx0ZXJfYnkoY291bnRyeT0ndGVzdCcpLmZpbHRlcihGb3JlY2FzdE1vZGVsRGF0YS5jb2RfY3VjLmluXyhza3VzKSkuYWxsKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghcmVzdWx0cykgOgo=</text>
+        <text encoding="base64">I0ZvcmVjYXN0TW9kZWxEYXRhRGF0YSA9IFRhYmxlKCdkYXRhX29uX3JlY2VudF9tb2RlbHMnLCBtZXRhZGF0YSwgYXV0b2xvYWQ9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I21ldGFkYXRhID0gTWV0YURhdGEoYmluZD1lbmdpbmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>'''SELECT DISTINCT vars_in
-FROM
-  (
-    SELECT
-      country,
-      cod_cuc,
-      vars_in
-    FROM
-      data_on_recent_models,
-          jsonb_array_elements_text(variables_in) AS vars_in
-    WHERE 
-      country = \'%s\' AND cod_cuc = \'%s\'
-  ) AS t1;
-'''</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICBfX21hcHBlcl9hcmdzX18gPSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdwcmltYXJ5X2tleSc6W2RhdGFfb25fcmVjZW50X21vZGVscy5jLmNvdW50cnksIGRhdGFfb25fcmVjZW50X21vZGVscy5jLl0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2h5cGVyX3BhcmFtcy9mZWF0dXJlcy9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hyper_params</last-search>
+      <last-search>ForecastModel</last-search>
       <last-offset />
-      <last-pattern>hyper_params</last-pattern>
-      <last-replace>features</last-replace>
-      <last-substitute>hyper_params</last-substitute>
+      <last-pattern>ForecastModel</last-pattern>
+      <last-replace>ForecastModelData</last-replace>
+      <last-substitute>ForecastModel</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>etl</entry>
-        <entry encoding="base64">XDxfZGlzbWlzc2FsX2RheVw+</entry>
         <entry encoding="base64">XDxfY29zdHNcPg==</entry>
         <entry encoding="base64">XDxvcmdpbmFsX2RpbVw+</entry>
         <entry encoding="base64">XDxiYXRjaF9zaXplXD4=</entry>
@@ -390,9 +391,11 @@ FROM
         <entry>native-platform</entry>
         <entry>dependency</entry>
         <entry>hyper_params</entry>
+        <entry>Base</entry>
+        <entry>Table</entry>
+        <entry>ForecastModel</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Nvc3RzL2hvc3BpdGFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RyZ19tYWluL2Nvc3RzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsX3dpdGhfZnJhdWQvaG9zcGl0YWxzX3dfZnJhdWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2VuY29kZXIvZW5jL2c=</entry>
@@ -410,8 +413,9 @@ FROM
         <entry encoding="base64">JzwsJz4lcy9kYXRhL2V0bC9n</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvc2VsZi5fZXRsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2V0bC9zZWxmLl9ldGwvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2h5cGVyX3BhcmFtcy9mZWF0dXJlcy9n</entry>
+        <entry>%s/ForecastModel/ForecastModelData/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
