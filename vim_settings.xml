@@ -59,12 +59,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500527543887">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="42" column="106" />
-        <mark key="]" line="42" column="137" />
-        <mark key="." line="42" column="137" />
-        <mark key="^" line="42" column="137" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500528304769">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
@@ -322,13 +322,14 @@
       <jump line="39" column="22" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="40" column="82" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="12" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="41" column="28" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HOMEDRIVE&quot;), os.environ.get(&quot;HOMEDIR&quot;), &quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>HOMEDRIVE&quot;), os.environ.get(&quot;HOMEDIR&quot;), &quot;</text>
+        <text>as rinterface</text>
       </register>
       <register name="/" type="4">
         <text>ForecastModel</text>
@@ -337,25 +338,25 @@
         <text>session.query(ForecastModelData).filter_by(country=country).filter(ForecastModelData.cod_cuc.in_(sku)).all()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSByb2JqZWN0cy4K</text>
+        <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSByb2JqZWN0cy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByaW50ZXJmYWNlLmVuZHIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBwcmludChsZW4oZmMxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByaW50ZXJmYWNlLmVuZHIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBwcmludChsZW4oZmMxKSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
