@@ -59,12 +59,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500508458179">
-        <mark key="'" line="43" column="22" />
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-        <mark key="." line="43" column="26" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500526142164">
+        <mark key="'" line="39" column="7" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="8" />
+        <mark key="." line="39" column="8" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
@@ -318,13 +318,17 @@
       <jump line="32" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="15" column="19" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="40" column="22" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="38" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="9" column="35" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="46" column="19" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="39" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBNZXRhRGF0YSwgVGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>rinterface.initr()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rinterface.initr()</text>
       </register>
       <register name="/" type="4">
         <text>ForecastModel</text>
@@ -333,10 +337,10 @@
         <text>session.query(ForecastModelData).filter_by(country=country).filter(ForecastModelData.cod_cuc.in_(sku)).all()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBNZXRhRGF0YSwgVGFibGUK</text>
+        <text encoding="base64">ICAgICAgICByaW50ZXJmYWNlLmVuZHIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICBmYzEgPSBzZXNzaW9uLnF1ZXJ5KEZvcmVjYXN0TW9kZWxEYXRhKS5maWx0ZXJfYnkoY291bnRyeT0ndGVzdCcpLmZpbHRlcihGb3JlY2FzdE1vZGVsRGF0YS5jb2RfY3VjLmluXyhza3VzKSkuYWxsKCkK</text>
+        <text encoding="base64">ICAgICBwcmludChsZW4oZmMxKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,19 +349,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I0ZvcmVjYXN0TW9kZWxEYXRhRGF0YSA9IFRhYmxlKCdkYXRhX29uX3JlY2VudF9tb2RlbHMnLCBtZXRhZGF0YSwgYXV0b2xvYWQ9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I21ldGFkYXRhID0gTWV0YURhdGEoYmluZD1lbmdpbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMgPSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBfX21hcHBlcl9hcmdzX18gPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICdwcmltYXJ5X2tleSc6W2RhdGFfb25fcmVjZW50X21vZGVscy5jLmNvdW50cnksIGRhdGFfb25fcmVjZW50X21vZGVscy5jLl0K</text>
+        <text encoding="base64">ICAgICAgICBpZiB0eXBlKHNrdSkgaXMgbGlzdDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
