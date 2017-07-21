@@ -204,12 +204,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1500661255989">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1500679344989">
+        <mark key="'" line="25" column="22" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
         <mark key="[" line="7" column="34" />
@@ -303,15 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="22" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="164" column="40" filename="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="13" column="28" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="42" column="16" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="64" column="45" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="71" column="9" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
       <jump line="4" column="31" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
       <jump line="83" column="11" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
@@ -397,64 +388,73 @@
       <jump line="110" column="52" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
       <jump line="42" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="36" column="13" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="44" column="17" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="49" column="18" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="4" column="35" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="21" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="55" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="58" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="61" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="52" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="26" column="22" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>flask_sqlalchemy</text>
+        <text>, only=tables)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmdpbmVcPg==</text>
+        <text encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Zmxhc2tfc3FsYWxjaGVteQo=</text>
+        <text>db.session</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dGFibGVzID0gWydkYXRhX29uX3JlY2VudF9tb2RlbHMnXQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">c2Vzc2lvbiA9U2Vzc2lvbihlbmdpbmUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGIuc2Vzc2lvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QmFzZSA9IGF1dG9tYXBfYmFzZSgpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>#Configuration of application, see configuration.py, choose one and uncomment.
 #app.config.from_object('configuration.ProductionConfig')
 app.config.from_object('app.configuration.DevelopmentConfig')
 #app.config.from_object('configuration.TestingConfig')</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IG1vZGVsCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">U1FMQUxDSEVNWV9EQVRBQkFTRV9VUkk9XAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXBwLmNvbmZpZy5mcm9tX29iamVjdCgnY29uZmlnJykKYXBwLmNvbmZpZy5mcm9tX3B5ZmlsZSgnY29uZmlnLnB5JykKCmFwcC5ydW4oZGVidWc9VHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U1FMQUxDSEVNWV9EQVRBQkFTRV9VUkk9XAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmdpbmVcPg==</last-search>
+      <last-search encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmdpbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</last-pattern>
       <last-replace>countries</last-replace>
       <last-substitute>cod_cucs</last-substitute>
       <last-dir>1</last-dir>
@@ -462,10 +462,6 @@ app.config.from_object('app.configuration.DevelopmentConfig')
     </search>
     <history>
       <history-search>
-        <entry>model_data</entry>
-        <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
-        <entry>inverse_transforms</entry>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry encoding="base64">XDxyZXNcPg==</entry>
         <entry>inverse_transform</entry>
         <entry encoding="base64">XDxudW1weV9PX3B5MnJpXD4=</entry>
@@ -482,6 +478,10 @@ app.config.from_object('app.configuration.DevelopmentConfig')
         <entry encoding="base64">XDxwZFw+</entry>
         <entry>Base</entry>
         <entry encoding="base64">XDxlbmdpbmVcPg==</entry>
+        <entry encoding="base64">XDxhdXRvbWFwX2Jhc2VcPg==</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
+        <entry>session</entry>
+        <entry encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RyZy9kaXNtaXNzX2RheS9n</entry>
