@@ -17,7 +17,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1500583445623">
+      <file name="/Python Console" timestamp="1500610456996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1490627996938">
@@ -59,12 +59,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500591475393">
-        <mark key="'" line="79" column="57" />
-        <mark key="[" line="79" column="66" />
-        <mark key="]" line="79" column="67" />
-        <mark key="." line="79" column="67" />
-        <mark key="^" line="79" column="67" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" timestamp="1500610615852">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="67" column="14" />
+        <mark key="]" line="67" column="20" />
+        <mark key="." line="67" column="20" />
+        <mark key="^" line="67" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
@@ -323,7 +323,6 @@
       <jump line="12" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="41" column="28" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="60" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="30" column="5" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="61" column="45" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
@@ -341,63 +340,63 @@
       <jump line="78" column="30" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="8" column="21" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="79" column="57" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>np.array</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>cod_cucs</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bnVtcHkycmkKICAgICAgICA=</text>
+        <text>demand_deployment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnVtcHkycmkK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0cyA9IGltcG9ydHIoInN0YXRzIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnVtcHkycmkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNrdSA9IHNrdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvdW50cnkgPSBjb3VudHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnZfdHJfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBpbnZlcnNlX3RyYW5zZm9ybXMgPSBsaXN0KG1hcChsYW1iZGEgbTogbS5pbnZlcnNlX3RyYW5zZm9ybSwgc2VsZi5tb2RlbF9kYXRhKSkKICAgICAgICAjaW52ZXJzZV90cmFuc2Zvcm1zID0gemlwKGNvZF9jdWNzLCBpbnZlcnNlX3RyYW5zZm9ybXMpCgogICAgICAgIGJpbl9tb2RlbF9kYXRhID0gbGlzdChtYXAobGFtYmRhIG06IG0ubW9kZWxfZGF0YSwgc2VsZi5tb2RlbF9kYXRhKSkKICAgICAgICAjYmluX21vZGVsX2RhdGEgPSB6aXAoY29kX2N1Y3MsIGJpbl9tb2RlbF9kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjcl9pbnZlcnNlX3RyYW5zZm9ybSA9IHJpLlNleHBWZWN0b3IoaW52ZXJzZV90cmFuc2Zvcm1zLCAyNCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjcl9pbnZlcnNlX3RyYW5zZm9ybSA9IHJpLlNleHBWZWN0b3IoaW52ZXJzZV90cmFuc2Zvcm1zLCByYXcpCg==</text>
+        <text encoding="base64">ICAgICAgICByX2Jpbl9tb2RlbF9kYXRhID0gbnAuYXJyYXkoYmluX21vZGVsX2RhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByX2ludmVyc2VfdHJhbnNmb3JtID0gcmkuU2V4cFZlY3RvcihpbnZlcnNlX3RyYW5zZm9ybXMsIHJhdykK</text>
+        <text encoding="base64">ICAgICAgICByX2ludmVyc2VfdHJhbnNmb3JtID0gcmkuQnl0ZVNleHBWZWN0b3IoaW52ZXJzZV90cmFuc2Zvcm1zWzBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>cod_cucs</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
-      <last-replace>bin_model_data</last-replace>
-      <last-substitute>inverse_transform</last-substitute>
+      <last-pattern>cod_cucs</last-pattern>
+      <last-replace>countries</last-replace>
+      <last-substitute>cod_cucs</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dependencies</entry>
         <entry>artifac</entry>
         <entry>CUDA</entry>
         <entry>native-platform</entry>
@@ -417,10 +416,9 @@
         <entry encoding="base64">XDxudW1weV9PX3B5MnJpXD4=</entry>
         <entry encoding="base64">XDxudW1weTJyaVw+</entry>
         <entry>debug</entry>
+        <entry>cod_cucs</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2lucHV0RGF0YVNjaGVtYS9zY2hlbWEvZw==</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL2hvc3BpdGFsL2RyZy9n</entry>
         <entry encoding="base64">JzwsJz5zL2RyZy9kaXNtaXNzX2RheS9n</entry>
         <entry>%s/hosp_oh/hospital/g</entry>
@@ -438,6 +436,8 @@
         <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3Jtcy9tb2RlbF9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3JtL2Jpbl9tb2RlbF9kYXRhL2c=</entry>
+        <entry encoding="base64">JzwsJz5jL2NvZF9jdWNzL2NvdW50cnkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NvZF9jdWNzL2NvdW50cmllcy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
