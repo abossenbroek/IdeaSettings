@@ -38,7 +38,7 @@
         <mark key="^" line="119" column="46" />
         <mark key="." line="119" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1500657216167">
+      <file name="/a.dummy" timestamp="1500683207903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/__init__.py" timestamp="1492777817215">
@@ -81,14 +81,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498568585543">
-        <mark key="a" line="123" column="54" />
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="136" column="55" />
-        <mark key="]" line="136" column="55" />
-        <mark key="^" line="78" column="26" />
-        <mark key="." line="136" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1495639423974">
         <mark key="'" line="56" column="0" />
@@ -138,11 +130,11 @@
         <mark key="." line="19" column="8" />
         <mark key="^" line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/configuration.py" timestamp="1500661028466">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="14" column="17" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/configuration.py" timestamp="1500683614415">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model.py" timestamp="1487881756072">
         <mark key="'" line="162" column="0" />
@@ -151,14 +143,13 @@
         <mark key="." line="131" column="11" />
         <mark key="^" line="131" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" timestamp="1500659734287">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" timestamp="1500683099063">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1500618457920">
+      <file name="/Python Console" timestamp="1500683302376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1500617023791">
@@ -204,31 +195,22 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1500679344989">
-        <mark key="'" line="25" column="22" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="26" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1500683678075">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/__init__.py" timestamp="1500661194826">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/FraudDetector.py" timestamp="1493132405111">
-        <mark key="a" line="108" column="17" />
-        <mark key="'" line="48" column="42" />
-        <mark key="[" line="48" column="53" />
-        <mark key="]" line="48" column="53" />
-        <mark key="." line="48" column="53" />
-        <mark key="^" line="48" column="41" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/__init__.py" timestamp="1500683596691">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1494948355061">
         <mark key="[" line="0" column="0" />
@@ -274,6 +256,12 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="47" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/views.py" timestamp="1500683753792">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" timestamp="1500655663674">
         <mark key="'" line="64" column="11" />
         <mark key="[" line="12" column="0" />
@@ -295,7 +283,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/run.py" timestamp="1500659665533">
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/run.py" timestamp="1500682156276">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="6" column="37" />
         <mark key="." line="6" column="37" />
@@ -303,18 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="4" column="31" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="83" column="11" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="67" column="9" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
-      <jump line="49" column="25" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
-      <jump line="11" column="98" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="12" column="32" filename="$USER_HOME$/Tutorials/class_labs/pom.xml" />
-      <jump line="48" column="25" filename="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" />
-      <jump line="99" column="20" filename="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="55" column="25" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="66" column="51" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="4" column="69" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="72" column="48" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
@@ -403,58 +379,67 @@
       <jump line="61" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="52" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="26" column="22" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
+      <jump line="17" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
+      <jump line="19" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
+      <jump line="102" column="40" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, only=tables)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</text>
+        <text>conf</text>
       </register>
       <register name="0" type="4">
-        <text>db.session</text>
+        <text encoding="base64">UkRBVEFCQVNFX1VSSSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFibGVzID0gWydkYXRhX29uX3JlY2VudF9tb2RlbHMnXQo=</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2Vzc2lvbiA9U2Vzc2lvbihlbmdpbmUpCg==</text>
+        <text encoding="base64">I2VuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoICdwb3N0Z3Jlc3FsK3BzeWNvcGcyOi8vcG9zdGdyZXM6cG9zdGdyZXNAbG9jYWxob3N0L21vZGVsX3Jlc3VsdHMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGIuc2Vzc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QmFzZSA9IGF1dG9tYXBfYmFzZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHZpZXdzCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>#Configuration of application, see configuration.py, choose one and uncomment.
-#app.config.from_object('configuration.ProductionConfig')
-app.config.from_object('app.configuration.DevelopmentConfig')
-#app.config.from_object('configuration.TestingConfig')</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IG1vZGVsCg==</text>
+        <text encoding="base64">ICAgICIiImZvcmVjYXN0IGdpdmVuIGEgc3BlY2lmaWMgY291bnRyeS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U1FMQUxDSEVNWV9EQVRBQkFTRV9VUkk9XAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IAogICAgICAgIHRyeSB7CiAgICAgICAgCiAgICAgICAgfSBjYXRjaChlcg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</last-search>
+      <last-search>conf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</last-pattern>
+      <last-pattern>conf</last-pattern>
       <last-replace>countries</last-replace>
       <last-substitute>cod_cucs</last-substitute>
       <last-dir>1</last-dir>
@@ -462,11 +447,6 @@ app.config.from_object('app.configuration.DevelopmentConfig')
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNcPg==</entry>
-        <entry>inverse_transform</entry>
-        <entry encoding="base64">XDxudW1weV9PX3B5MnJpXD4=</entry>
-        <entry encoding="base64">XDxudW1weTJyaVw+</entry>
-        <entry>brows</entry>
         <entry>brow</entry>
         <entry encoding="base64">XDxCYXNlXD4=</entry>
         <entry>Debug</entry>
@@ -482,6 +462,11 @@ app.config.from_object('app.configuration.DevelopmentConfig')
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</entry>
+        <entry>forecast</entry>
+        <entry encoding="base64">XDx2YXJpYWJsZXNfaW5cPg==</entry>
+        <entry>rcon</entry>
+        <entry>configur</entry>
+        <entry>conf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RyZy9kaXNtaXNzX2RheS9n</entry>
