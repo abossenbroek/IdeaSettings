@@ -10,12 +10,21 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" timestamp="1500683099063">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/hot_encoder.py" timestamp="1492776185210">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1501104143710">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1490627996938">
         <mark key="'" line="72" column="24" />
@@ -30,6 +39,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="41" column="7" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1500617023791">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tutorials/class_labs/training-labs/src/main/java/ai/skymind/training/labs/GravesLSTMCharModellingWeatherForecasts.java" timestamp="1498593522606">
         <mark key="'" line="88" column="0" />
@@ -54,6 +66,12 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="12" column="0" />
@@ -61,12 +79,63 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" timestamp="1493043523205">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/detect_fraud.py" timestamp="1487784833932">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="77" column="24" />
+        <mark key="." line="77" column="24" />
+        <mark key="^" line="74" column="50" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" timestamp="1488207649323">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="64" />
+        <mark key="]" line="84" column="65" />
+        <mark key="." line="84" column="65" />
+        <mark key="^" line="47" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/demandforecast/ForecastModel.py" timestamp="1500655965458">
         <mark key="'" line="99" column="6" />
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator.py" timestamp="1495621336374">
+        <mark key="'" line="94" column="91" />
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="52" column="52" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1500683678075">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/__init__.py" timestamp="1500683596691">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/demandforecast/Belcorp_RESTapi.py" timestamp="1500656928846">
         <mark key="'" line="6" column="0" />
@@ -82,6 +151,43 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1494948355061">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
+        <mark key="'" line="157" column="8" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="115" column="37" />
+        <mark key="^" line="115" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app.py" timestamp="1500656166774">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500495622441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492536629662">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="45" />
+        <mark key="^" line="47" column="45" />
+        <mark key="." line="47" column="45" />
+      </file>
+      <file name="/R Console" timestamp="1494948791281">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1495639423974">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="78" column="128" />
@@ -89,12 +195,32 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
+      <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="47" column="6" />
+        <mark key="^" line="51" column="23" />
+        <mark key="." line="47" column="6" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/autoencoder/etl.py" timestamp="1492777788966">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/views.py" timestamp="1500683753792">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" timestamp="1500655663674">
+        <mark key="'" line="64" column="11" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -136,143 +262,17 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp/00_install_dependencies.R" timestamp="1494949679873">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/train_fraud_detection_model.py" timestamp="1487881756072">
         <mark key="'" line="162" column="0" />
         <mark key="[" line="131" column="6" />
         <mark key="]" line="131" column="11" />
         <mark key="." line="131" column="11" />
         <mark key="^" line="131" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" timestamp="1500683099063">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1500683302376">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1500617023791">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_conversion.py" timestamp="1493043523205">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/detect_fraud.py" timestamp="1487784833932">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="77" column="24" />
-        <mark key="." line="77" column="24" />
-        <mark key="^" line="74" column="50" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" timestamp="1488207649323">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="64" />
-        <mark key="]" line="84" column="65" />
-        <mark key="." line="84" column="65" />
-        <mark key="^" line="47" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator.py" timestamp="1495621336374">
-        <mark key="'" line="94" column="91" />
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="52" column="52" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1500683678075">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/__init__.py" timestamp="1500683596691">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1494948355061">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
-        <mark key="'" line="157" column="8" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="38" />
-        <mark key="." line="115" column="37" />
-        <mark key="^" line="115" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app.py" timestamp="1500656166774">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500495622441">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492536629662">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="45" />
-        <mark key="^" line="47" column="45" />
-        <mark key="." line="47" column="45" />
-      </file>
-      <file name="/R Console" timestamp="1494948791281">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
-        <mark key="'" line="48" column="25" />
-        <mark key="[" line="47" column="6" />
-        <mark key="]" line="47" column="6" />
-        <mark key="^" line="51" column="23" />
-        <mark key="." line="47" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/views.py" timestamp="1500683753792">
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" timestamp="1500655663674">
-        <mark key="'" line="64" column="11" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="6" column="40" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp/00_install_dependencies.R" timestamp="1494949679873">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1498586158775">
         <mark key="[" line="0" column="0" />
