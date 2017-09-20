@@ -93,13 +93,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1505923527722">
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1505925811576">
         <mark key="a" line="40" column="23" />
-        <mark key="'" line="36" column="34" />
-        <mark key="[" line="36" column="67" />
-        <mark key="]" line="36" column="67" />
-        <mark key="^" line="36" column="41" />
-        <mark key="." line="36" column="67" />
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="19" column="116" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" timestamp="1505921013700">
         <mark key="'" line="69" column="14" />
@@ -122,12 +122,12 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1505922126227">
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1505925473358">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="7" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -337,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="32" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
@@ -437,63 +436,64 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="36" column="34" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
+      <jump line="16" column="29" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, plugin=&quot;freeimage&quot;, as_grey=False</text>
+        <text>wildcard</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>img_wildcard</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGltZ19kaXIgPSBvcy5wYXRoLmpvaW4oIi4iLCAidGVzdF9kYXRhIikKICAgIGltZ3MgPSBsb2FkX2ltYWdlcyhpbWdfZGlyLCAiKi50aWZbZl0iKQogICAgZXFfKHR5cGUoaW1ncykgaXMgbnAubmRhcnJheSwgVHJ1ZSkKICAgIGVxXyhpbWdzLnNoYXBlWzBdLCA3KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2dnaW5nLmdldExvLmdldEVmZmVjdGl2ZUxldmVsKCkgPT0gbG9nZ2luZy5ERUJVRygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9tc2cgPSAiY291bGQgbm90IGxvYWQgdGlmZiBmaWxlcyIK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBucC5hcnJheShbbnAucmVzaGFwZShpbWcsIFtpbWcuc2hhcGVbMV0sIGltZy5zaGFwZVsyXSwgaW1nLnNoYXBlWzBdXSkgZm9yIGltZyBpbiBpbWFnZXNdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVxXyh0eXBlKGltZ3MpIGlzIG5wLm5kYXJyYXksIFRydWUpCg==</text>
+      <register name="5" type="4">
+        <text>for fname, img in zip(img_fnames, images):
+            logging.debug(&quot;file %s has dimension %s&quot; % (fname, img.shape))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltZwo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9tc2cgPSAiY291bGQgbm90IGxvYWQgaW1hZ2VzIGZyb20gJXMgd2l0aCB3aWxkY2FyZCAlcyIgJSAoaW1nX2RpciwgaW1nX3dpbGRjYXJkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVxXyh0eXBlKGltZ3MpKQo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9tc2cgPSAiY291bGQgbm90IGxvYWQgaW1hZ2VzIGZyb20gJXMgd2l0aCB3aWxkY2FyZCAlcyIgJSAoaW1nX2RpciwgaW1nX3dpbGRjYXJkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2dnaW5nLmdldExvLmdldEVmZmVjdGl2ZUxldmVsKCkgPT0gbG9nZ2luZy5ERUJVRygpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzc2VyYWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9tc2cgPSAiY291bGQgbm90IGxvYWQgdGlmZiBmaWxlcyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>img_wildcard</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
-      <last-replace>countries</last-replace>
-      <last-substitute>cod_cucs</last-substitute>
+      <last-pattern>img_wildcard</last-pattern>
+      <last-replace>fname_pattern</last-replace>
+      <last-substitute>img_wildcard</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>brow</entry>
         <entry encoding="base64">XDxCYXNlXD4=</entry>
         <entry>Debug</entry>
         <entry>debug</entry>
@@ -513,9 +513,9 @@
         <entry>rcon</entry>
         <entry>configur</entry>
         <entry>conf</entry>
+        <entry>img_wildcard</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/hosp_oh/hospital/g</entry>
         <entry>%s/drg_oh/_drg/g</entry>
         <entry>%s/disd_oh/dismissal_day/g</entry>
         <entry encoding="base64">JzwsJz5zL2Nvc3RzL2R1cmF0aW9uL2c=</entry>
@@ -534,6 +534,7 @@
         <entry>w:w</entry>
         <entry>q</entry>
         <entry>.,.+1w</entry>
+        <entry>%s/img_wildcard/fname_pattern/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
