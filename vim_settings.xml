@@ -93,6 +93,20 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1505913493771">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="54" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="20" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" timestamp="1505913575187">
+        <mark key="'" line="67" column="14" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="59" column="7" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1495639423974">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="78" column="128" />
@@ -107,11 +121,11 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1505911033758">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1505913532221">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -309,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="69" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="72" column="48" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="76" column="10" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
@@ -409,13 +421,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="0" column="17" filename="/Dummy.txt" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
+      <jump line="68" column="14" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>load_images(img_dir, &quot;*.tif[f]&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
@@ -424,31 +438,31 @@
         <text>model-db-dev.ckmlvhvfd33n.us-east-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJEQVRBQkFTRV9VUkkgPSAnZGJDb25uZWN0KFBvc3RncmVTUUwoKSwgdXNlcj0icG9zdGdyZXMiLCBwYXNzd29yZD0icG9zdGdyZXMiLCBkYm5hbWUgPSAibW9kZWxfcmVzdWx0cyIpJwo=</text>
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJEQVRBQkFTRV9VUkkgPSAnZGJDb25uZWN0KFBvc3RncmVTUUwoKSwgdXNlcj0icG9zdGdyZXMiLCBwYXNzd29yZD0icG9zdGdyZXMiLCBkYm5hbWUgPSAibW9kZWxfcmVzdWx0cyIpJwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPOiBhZGQgdmFyaWFibGUgdXNlciBuYW1lLCBwYXNzd29yZCBhbmQgZGJuYW1lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2VuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoICdwb3N0Z3Jlc3FsK3BzeWNvcGcyOi8vcG9zdGdyZXM6cG9zdGdyZXNAbG9jYWxob3N0L21vZGVsX3Jlc3VsdHMnKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBUT0RPOiBhZGQgdmFyaWFibGUgdXNlciBuYW1lLCBwYXNzd29yZCBhbmQgZGJuYW1lCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2VuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoICdwb3N0Z3Jlc3FsK3BzeWNvcGcyOi8vcG9zdGdyZXM6cG9zdGdyZXNAbG9jYWxob3N0L21vZGVsX3Jlc3VsdHMnKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHZpZXdzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAiIiIK</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHZpZXdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
