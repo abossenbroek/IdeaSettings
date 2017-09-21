@@ -93,13 +93,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1506020926991">
-        <mark key="a" line="87" column="34" />
-        <mark key="'" line="84" column="12" />
-        <mark key="[" line="91" column="11" />
-        <mark key="]" line="91" column="11" />
-        <mark key="." line="91" column="11" />
-        <mark key="^" line="91" column="40" />
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1506021891633">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="88" column="66" />
+        <mark key="]" line="88" column="66" />
+        <mark key="^" line="88" column="66" />
+        <mark key="." line="88" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" timestamp="1506013330602">
         <mark key="'" line="49" column="48" />
@@ -122,13 +121,13 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1506021370159">
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1506022236707">
         <mark key="a" line="45" column="10" />
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
+        <mark key="'" line="11" column="19" />
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -183,10 +182,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1506021385078">
+      <file name="/Python Console" timestamp="1506022125526">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1506021418909">
+      <file name="/fragment.py" timestamp="1506022159069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -341,8 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="66" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="40" column="18" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="74" column="13" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="81" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
@@ -441,66 +438,64 @@
       <jump line="2" column="48" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="42" column="4" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
+      <jump line="11" column="19" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>border_right</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVxXyhpbWdzLmR0eXBlLCAidW5pdDgiKQo=</text>
+        <text encoding="base64">ICAgIGVxXyh0eXBlKGltZ3MpIGlzIG5wLm5kYXJyYXksIFRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnAuY29uY2F0ZW5hdGUoaW1hZ2VzX3Jlc2NhbGVkLCBheGlzPTApLnNoYXBlCg==</text>
+        <text encoding="base64">ICAgIGVxXyhpbWdzLmR0eXBlLCAidWludDgiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb2MgPSBkb2NbbnAubmV3YXhpc10K</text>
+        <text encoding="base64">aW1ncy5kdHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3Jlc2NhbGVkID0K</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoInJlc2NhbGVkIGltYWdlcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyX3ggPSBtYXRoLmNlaWwoKGltZ193aWR0aCAtIHNjYWxpbmcgKiB3aWR0aCkgLyAyKQogICAgICAgICAgICBib3JkZXJfdG9wLCBib3JkZXJfYm90dG9tID0gYm9yZGVyX3gsIC0oYm9yZGVyX3ggLSByb3VuZChib3JkZXJfeCAqIDIgKyBzY2FsaW5nICogd2lkdGgpICUgaW1nX3dpZHRoKQogICAgICAgICAgICBib3JkZXJfbGVmdCwgYm9yZGVyX3JpZ2h0ID0gMCwgaW1nX3dpZHRoIC0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXNfcmVzY2FsZWQgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyX3RvcCwgYm9yZGVyX2JvdHRvbSA9IDAsIGltZ19oZWlnaHQgLSAxCiAgICAgICAgICAgIGJvcmRlcl95ID0gbWF0aC5jZWlsKChpbWdfaGVpZ2h0IC0gc2NhbGluZyAqIGhlaWdodCkgLyAyKQogICAgICAgICAgICBib3JkZXJfbGVmdCwgYm9yZGVyX3JpZ2h0ID0gYm9yZGVyX3ksIC0oYm9yZGVyX3kgLSByb3VuZChib3JkZXJfeSAqIDIgKyBzY2FsaW5nICogd2lkdGgpICUgaW1nX2hlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW1nIGluIGltYWdlczogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyX3RvcCwgYm9yZGVyX2JvdHRvbSA9IDAsIGltZ19oZWlnaHQgLSAxCiAgICAgICAgICAgIGJvcmRlcl95ID0gbWF0aC5jZWlsKChpbWdfaGVpZ2h0IC0gc2NhbGluZyAqIGhlaWdodCkgLyAyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>cv2.copyMakeBorder(rescaled, border_top, border_bottom, border_left, border_right,
-                                                 cv2.BORDER_CONSTANT, value=[255, 255, 255])</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXNfcmVzY2FsZWQgPSBbXQogICAgICAgICMgZWFjaCBpbWFnZSBpcyBzdG9yZWQgYXMgW25wYWdlLCB4LCB5XS4gbG9vayBvdmVyIGVhY2ggcGFnZS4KICAgICAgICBmb3IgaW1nIGluIGltYWdlczo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygicmVzY2FsZWQgZGltICVzLCAlcyIgJSByZXNjYWxlZC5zaGFwZSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBpbWFnZXNfcmVzY2FsZWQgPSBbXQogICAgICAgICMgZWFjaCBpbWFnZSBpcyBzdG9yZWQgYXMgW25wYWdlLCB4LCB5XS4gbG9vayBvdmVyIGVhY2ggcGFnZS4KICAgICAgICBmb3IgaW1nIGluIGltYWdlczo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiT3V0cHV0IGRpbSAlcywgJXMiICUgZG9jW3BhZ2UsIDosIDpdLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>border_right</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>border_right</last-pattern>
-      <last-replace>brd_btm</last-replace>
-      <last-substitute>border_right</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmdpbmVcPg==</entry>
-        <entry encoding="base64">XDxhdXRvbWFwX2Jhc2VcPg==</entry>
-        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxkYXRhX29uX3JlY2VudF9tb2RlbHNcPg==</entry>
         <entry>forecast</entry>
@@ -518,10 +513,11 @@
         <entry>border_bottom</entry>
         <entry>border_left</entry>
         <entry>border_right</entry>
+        <entry>sdf</entry>
+        <entry>asdfadsfda</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2V0bC9zZWxmLl9ldGwvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2h5cGVyX3BhcmFtcy9mZWF0dXJlcy9n</entry>
         <entry>%s/ForecastModel/ForecastModelData/g</entry>
         <entry encoding="base64">JzwsJz5jb2RfY3VjL21vZGVsX2RhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvZF9jdWMvbW9kZWxfZGF0YS9n</entry>
@@ -539,6 +535,8 @@
         <entry>%s/border_bottom/brd_rght/g</entry>
         <entry>%s/border_left/brd_top/g</entry>
         <entry>%s/border_right/brd_btm/g</entry>
+        <entry encoding="base64">JzwsJz5zL14vXHQv</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAgIC8=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
