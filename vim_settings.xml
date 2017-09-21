@@ -93,13 +93,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1506015401504">
-        <mark key="a" line="73" column="27" />
-        <mark key="'" line="86" column="12" />
-        <mark key="[" line="81" column="47" />
-        <mark key="]" line="81" column="47" />
-        <mark key="." line="81" column="47" />
-        <mark key="^" line="80" column="98" />
+      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" timestamp="1506018308834">
+        <mark key="a" line="87" column="34" />
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="21" />
+        <mark key="." line="68" column="21" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" timestamp="1506013330602">
         <mark key="'" line="49" column="48" />
@@ -182,10 +182,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1506014289930">
+      <file name="/Python Console" timestamp="1506017032779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1500617023791">
+      <file name="/fragment.py" timestamp="1506017047179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
@@ -338,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="41" column="28" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="30" column="5" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
@@ -438,46 +437,48 @@
       <jump line="49" column="48" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" />
       <jump line="72" column="10" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="83" column="12" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>border_x, border_y</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdfcmVzY2FsZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyX2xlZnQsIGJvcmRlcl9yaWdodCA9IGJvcmRlcl95LCBib3JkZXJfeSAtIChib3JkZXJfeSAqIDIgKyBzY2FsaW5nICogaGVpZ2h0KSAlIGltZ19oZWlnaHQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZG9jID0gbnAuemVyb3MoW2ltZy5zaGFwZVswXSwgaW1nX3dpZHRoLCBpbWdfaGVpZ2h0XSwgZHR5cGU9InVpbnQ4IikKCiAgICAgICAgd2lkdGgsIGhlaWdodCA9IGltZ1swLCA6LCA6XS5zaGFwZQogICAgICAgIGlmIChpbWdfd2lkdGggLyB3aWR0aCkgPCAoaW1nX2hlaWdodCAvIGhlaWdodCk6CiAgICAgICAgICAgIHNjYWxpbmcgPSBpbWdfd2lkdGggLyB3aWR0aAogICAgICAgICAgICBib3JkZXJfdG9wLCBib3JkZXJfYm90dG9tID0gMCwgMAogICAgICAgICAgICBib3JkZXJfeSA9IG1hdGguY2VpbCgoaW1nX2hlaWdodCAtIHNjYWxpbmcgKiBoZWlnaHQpIC8gMikKICAgICAgICAgICAgYm9yZGVyX2xlZnQsIGJvcmRlcl9yaWdodCA9IGJvcmRlcl95LCBib3JkZXJfeSAtIHJvdW5kKGJvcmRlcl95ICogMiArIHNjYWxpbmcgKiBoZWlnaHQpICUgaW1nX2hlaWdodAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNjYWxpbmcgPSBpbWdfaGVpZ2h0IC8gaGVpZ2h0CiAgICAgICAgICAgIGJvcmRlcl94ID0gbWF0aC5jZWlsKChpbWdfd2lkdGggLSBzY2FsaW5nICogd2lkdGgpIC8gMikKICAgICAgICAgICAgYm9yZGVyX3RvcCwgYm9yZGVyX2JvdHRvbSA9IGJvcmRlcl94LCBib3JkZXJfeCAtIHJvdW5kKGJvcmRlcl94ICogMiArIHNjYWxpbmcgKiB3aWR0aCkgJSBpbWdfd2lkdGgKICAgICAgICAgICAgYm9yZGVyX2xlZnQsIGJvcmRlcl9yaWdodCA9IDAsIDAKCiAgICAgICAgbG9nZ2luZy5kZWJ1ZygiT3JpZ2luYWwgZGltZW5zaW9uICVzLCAlcyByZXF1aXJlZCBzY2FsaW5nOiAlcyB3aXRoIGJvcmRlcnMgKCVzLCAlcywgJXMsICVzKSIgJQogICAgICAgICAgICAgICAgICAgICAgKHdpZHRoLCBoZWlnaHQsIHNjYWxpbmcsIGJvcmRlcl90b3AsIGJvcmRlcl9ib3R0b20sIGJvcmRlcl9sZWZ0LCBib3JkZXJfcmlnaHQpKQoKICAgICAgICAjaW1nX3Jlc2NhbGVkID0gbnAuemVyb3MoaW1nLnNoYXBlWzBdLCB3aWR0aCwgaGVpZ2h0LCkKICAgICAgICBmb3IgcGFnZSBpbiByYW5nZShpbWcuc2hhcGVbMF0pOgogICAgICAgICAgICByZXNjYWxlZCA9IGN2Mi5yZXNpemUoaW1nW3BhZ2UsIDosIDpdLCBOb25lLCBmeD1zY2FsaW5nLCBmeT1zY2FsaW5nLCBpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQykKICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygicmVzY2FsZWQgZGltICVzLCAlcyIgJSByZXNjYWxlZC5zaGFwZSkKICAgICAgICAgICAgZG9jW3BhZ2UsIDosIDpdID0gY3YyLmNvcHlNYWtlQm9yZGVyKHJlc2NhbGVkLCBib3JkZXJfdG9wLCBib3JkZXJfYm90dG9tLCBib3JkZXJfbGVmdCwgYm9yZGVyX3JpZ2h0LCBjdjIuQk9SREVSX0NPTlNUQU5ULAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9WzI1NSwgMjU1LCAyNTVdKQogICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCJPdXRwdXQgZGltICVzLCAlcyIgJSBkb2NbcGFnZSwgOiwgOl0uc2hhcGUpCgogICAgICAgIGltYWdlc19yZXNjYWxlZC5hcHBlbmQobnAuaHN0YWNrKGRvYykpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyX3kgPSAK</text>
+      <register name="1" type="4">
+        <text>cv2.copyMakeBorder(rescaled, border_top, border_bottom, border_left, border_right,
+                                                 cv2.BORDER_CONSTANT, value=[255, 255, 255])</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygicmVzY2FsZWQgZGltICVzLCAlcyIgJSByZXNjYWxlZC5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiT3V0cHV0IGRpbSAlcywgJXMiICUgZG9jW3BhZ2UsIDosIDpdLnNoYXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjaW1nX3Jlc2NhbGVkID0gbnAuemVyb3MoaW1nLnNoYXBlWzBdLCB3aWR0aCwgaGVpZ2h0LCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX3Jlc2NhbGVkCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZXNjYWxlX3BhZF9zaW5nbGVfZG9jKGRvYyk6Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICB3aWR0aCwgaGVpZ2h0ID0gaW1nW3BhZ2UsIDosIDpdLnNoYXBlCiAgICAgICAgICAgIGlmIHdpZHRoID4gaGVpZ2h0OgogICAgICAgICAgICAgICAgc2NhbGluZyA9IGltZ193aWR0aCAvIHdpZHRoCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzY2FsaW5nID0gaW1nX2hlaWdodCAvIGhlaWdodAoKICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiT3JpZ2luYWwgZGltZW5zaW9uICVzLCAlcyByZXF1aXJlZCBzY2FsaW5nOiAlcyIgJSAod2lkdGgsIGhlaWdodCwgc2NhbGluZykpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzdF9oZWlnaHQgPSBpbWdfaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLmFwcGVuZChpbWdfcmVzY2FsZWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzdF9oZWlnaHQgPSBpbWdfd2lkdGggLyB3aWR0aCAqIGhlaWdodAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZyhpbWdfcmVzY2FsZWQuZHR5cGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
