@@ -223,11 +223,13 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1507922984135">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1507926121218">
+        <mark key="a" line="71" column="52" />
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="71" column="66" />
+        <mark key="]" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
         <mark key="[" line="7" column="34" />
@@ -439,7 +441,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
