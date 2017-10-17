@@ -175,13 +175,13 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1508209278174">
+      <file name="/Python Console" timestamp="1508213349042">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1508209570191">
+      <file name="/fragment.py" timestamp="1508213379497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
         <mark key="[" line="5" column="39" />
@@ -223,13 +223,10 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1508209263636">
-        <mark key="a" line="74" column="31" />
-        <mark key="'" line="74" column="31" />
-        <mark key="[" line="73" column="25" />
-        <mark key="]" line="73" column="42" />
-        <mark key="." line="73" column="42" />
-        <mark key="^" line="73" column="42" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" timestamp="1508213424652">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
         <mark key="[" line="7" column="34" />
@@ -441,7 +438,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r_serialized</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -450,31 +447,31 @@
         <text encoding="base64">cnBvc2dyZXNxbCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByX3NlcmlhbGl6ZWQgPSBycG9zZ3Jlc3FsLnBvc3RncmVzcWxVbmVzY2FwZUJ5dGVhKCkK</text>
+        <text encoding="base64">ICAgICAgICByX21vZCA9IHJvLnJpbnRlcmZhY2UoJ3Vuc2VyaWFsaXplJykoc2VsZi5yX21vZGVsX2RhdGFbMF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByX3Vuc2VyaWFsaXplID0gcm8ucignJydmID0gZnVuY3Rpb24oeCkge2xhcHBseSh4LCB1bnNlcmlhbGl6ZSl9JycnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly5naXRpZ25vcmUK</text>
+        <text encoding="base64">ICAgICAgICByX3NlcmlhbGl6ZWQgPSBycG9zZ3Jlc3FsLnBvc3RncmVzcWxVbmVzY2FwZUJ5dGVhKCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">NCBmaWxlIGNoYW5nZXMgaW4gd29ya2luZyBkaXJlY3RvcnkKVmlldyBjaGFuZ2VzCmNvbW1pdDo2MmE1ZTcK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly5naXRpZ25vcmUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVxXyhpbWdzLmR0eXBlLCAidWludDgiKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">NCBmaWxlIGNoYW5nZXMgaW4gd29ya2luZyBkaXJlY3RvcnkKVmlldyBjaGFuZ2VzCmNvbW1pdDo2MmE1ZTcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1ncy5kdHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoInJlc2NhbGVkIGltYWdlcyIpCg==</text>
+        <text encoding="base64">ICAgIGVxXyhpbWdzLmR0eXBlLCAidWludDgiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXNfcmVzY2FsZWQgPSBbXQo=</text>
+        <text encoding="base64">aW1ncy5kdHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
