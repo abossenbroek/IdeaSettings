@@ -291,12 +291,12 @@
       <file name="/R Console" timestamp="1494948791281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508372359006">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="40" column="53" />
-        <mark key="^" line="40" column="53" />
-        <mark key="." line="40" column="53" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508379487785">
+        <mark key="'" line="54" column="12" />
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="30" column="72" />
+        <mark key="^" line="30" column="72" />
+        <mark key="." line="30" column="72" />
       </file>
       <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
         <mark key="'" line="48" column="25" />
@@ -362,10 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="85" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="68" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="61" column="17" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="73" column="18" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="24" column="24" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
@@ -462,65 +458,66 @@
       <jump line="30" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="42" column="11" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="55" column="12" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cacheModels</text>
+        <text>r_mod, data)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29uXD4=</text>
+        <text>connectDb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ1JJbnRlcmZhY2UucmVmcmVzaENhY2hlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByby5yWycnXShzZWxmLnBnX2NvbikK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRCSSA9IGltcG9ydHIoIkRCSSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByby5yWydkYkRpc2Nvbm5lY3QnXSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlID0gc2VsZi5kZW1hbmRfZGVwbG95bWVudC5jYWNoZU1vZGVscyhzZWxmLnBnX2NvbiwgaW52YWxpZGF0ZT1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgbG9nLmRlYnVnKCdPcGVuaW5nIFIgY29ubmVjdGlvbiB0byBQb3N0Z3JlU1FMJykKICAgICAgICBzZWxmLnBnX2NvbiA9IHJvLnIoYXBwLmNvbmZpZ1snUkRBVEFCQVNFX1VSSSddKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICBsb2cuZGVidWcoJ09wZW5pbmcgUiBjb25uZWN0aW9uIHRvIFBvc3RncmVTUUwnKQogICAgICAgIHNlbGYucGdfY29uID0gcm8ucihhcHAuY29uZmlnWydSREFUQUJBU0VfVVJJJ10pCiAgICAgICAgc2VsZi5jYWNoZSA9IHNlbGYuZGVtYW5kX2RlcGxveW1lbnQuY2FjaGVNb2RlbHMoc2VsZi5wZ19jb24sIGludmFsaWRhdGU9VHJ1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IHJweTIucm9iamVjdHMgYXMgcm8KZnJvbSBycHkyLnJvYmplY3RzLnBhY2thZ2VzIGltcG9ydCBpbXBvcnRyCmZyb20gcnB5Mi5yb2JqZWN0cyBpbXBvcnQgcGFuZGFzMnJpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERFQlVHID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByby5yWycnXShzZWxmLnBnX2NvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLkZpbGVIYW5kbGVyKGZpbGVuYW1lPScvdmFyL2xvZy9weXRob25fYXBwLmxvZycpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkRCSSA9IGltcG9ydHIoIkRCSSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc29uXD4=</last-search>
+      <last-search>connectDb</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
-      <last-replace encoding="base64">ICAgIA==</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>connectDb</last-pattern>
+      <last-replace>connect_db</last-replace>
+      <last-substitute>connectDb</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>forecast</entry>
-        <entry encoding="base64">XDx2YXJpYWJsZXNfaW5cPg==</entry>
-        <entry>rcon</entry>
         <entry>configur</entry>
         <entry>conf</entry>
         <entry>img_wildcard</entry>
@@ -538,11 +535,11 @@
         <entry>^</entry>
         <entry>ro.r</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
+        <entry>refreshCache</entry>
+        <entry>disconnectDb</entry>
+        <entry>connectDb</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ForecastModel/ForecastModelData/g</entry>
-        <entry encoding="base64">JzwsJz5jb2RfY3VjL21vZGVsX2RhdGEvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2NvZF9jdWMvbW9kZWxfZGF0YS9n</entry>
         <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3Jtcy9tb2RlbF9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3JtL2Jpbl9tb2RlbF9kYXRhL2c=</entry>
@@ -559,6 +556,9 @@
         <entry>%s/border_right/brd_btm/g</entry>
         <entry encoding="base64">JzwsJz5zL14vXHQv</entry>
         <entry encoding="base64">JzwsJz5zL14vICAgIC8=</entry>
+        <entry>%s/refreshCache/refresh_cache/g</entry>
+        <entry>%s/disconnectDb/disconnect_db/g</entry>
+        <entry>%s/connectDb/connect_db/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
