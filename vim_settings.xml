@@ -67,8 +67,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1508369229778">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1508387699403">
+        <mark key="'" line="44" column="49" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -291,12 +291,13 @@
       <file name="/R Console" timestamp="1494948791281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508379487785">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="30" column="72" />
-        <mark key="^" line="30" column="72" />
-        <mark key="." line="30" column="72" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508388130152">
+        <mark key="a" line="33" column="11" />
+        <mark key="'" line="35" column="27" />
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="27" />
+        <mark key="^" line="35" column="27" />
+        <mark key="." line="35" column="27" />
       </file>
       <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
         <mark key="'" line="48" column="25" />
@@ -305,13 +306,12 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" timestamp="1508367035022">
-        <mark key="a" line="73" column="0" />
-        <mark key="'" line="71" column="23" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" timestamp="1508388203550">
+        <mark key="'" line="20" column="26" />
+        <mark key="[" line="77" column="27" />
+        <mark key="]" line="77" column="45" />
+        <mark key="^" line="77" column="45" />
+        <mark key="." line="77" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" timestamp="1508368283663">
         <mark key="[" line="20" column="0" />
@@ -362,22 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="18" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="24" column="24" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="53" column="52" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="69" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="71" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="0" column="47" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="2" column="17" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="75" column="9" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
-      <jump line="6" column="26" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="64" column="11" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="99" column="6" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/demandforecast/ForecastModel.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/run.py" />
@@ -455,62 +439,78 @@
       <jump line="86" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/run.py" />
       <jump line="19" column="72" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" />
-      <jump line="30" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="42" column="11" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="34" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
+      <jump line="101" column="40" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
+      <jump line="20" column="26" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
+      <jump line="85" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="24" column="53" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="26" column="31" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="28" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="29" column="29" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="36" column="34" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="44" column="49" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="32" column="30" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="33" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="37" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="18" column="17" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
+      <jump line="35" column="27" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r_mod, data)</text>
+        <text>Calling R interface for forecast</text>
       </register>
       <register name="/" type="4">
-        <text>connectDb</text>
+        <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ1JJbnRlcmZhY2UucmVmcmVzaENhY2hlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCdDYWxsaW5nIFIgaW50ZXJmYWNlIGZvciBmb3JlY2FzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFkZCBleGNlcHRpb24gaGFuZGxlcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2V0KHNlbGYuZmVhdHVyZXMpLmlzc3Vic2V0KGxpc3QocmRhdGEuY29sbmFtZXMpKToKICAgICAgICAgICAgbG9nLmV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICdub3Qgc2V0KHNlbGYuZmVhdHVyZXMpLmlzc3Vic2V0KGxpc3QocmRhdGEuY29sbmFtZXMpKScpCiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZGF0YSA9IGRlbWFuZF9mb3JlY2FzdGluZy50cmFuc2xhdGVGcm9tU3BhbmlzaChkYXRhKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW1wb3J0IHJweTIucm9iamVjdHMgYXMgcm8KZnJvbSBycHkyLnJvYmplY3RzLnBhY2thZ2VzIGltcG9ydCBpbXBvcnRyCmZyb20gcnB5Mi5yb2JqZWN0cyBpbXBvcnQgcGFuZGFzMnJpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByby5yWycnXShzZWxmLnBnX2NvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRCSSA9IGltcG9ydHIoIkRCSSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>connectDb</last-search>
+      <last-search>try</last-search>
       <last-offset />
-      <last-pattern>connectDb</last-pattern>
+      <last-pattern>try</last-pattern>
       <last-replace>connect_db</last-replace>
       <last-substitute>connectDb</last-substitute>
       <last-dir>1</last-dir>
@@ -518,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>configur</entry>
         <entry>conf</entry>
         <entry>img_wildcard</entry>
         <entry>all</entry>
@@ -538,6 +537,7 @@
         <entry>refreshCache</entry>
         <entry>disconnectDb</entry>
         <entry>connectDb</entry>
+        <entry>try</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
