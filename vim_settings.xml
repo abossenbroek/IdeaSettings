@@ -291,13 +291,12 @@
       <file name="/R Console" timestamp="1494948791281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508369216809">
-        <mark key="a" line="34" column="7" />
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-        <mark key="." line="34" column="7" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508372359006">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
       </file>
       <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
         <mark key="'" line="48" column="25" />
@@ -363,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
       <jump line="85" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/ForecastModel.py" />
       <jump line="68" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Belcorp_RESTapi.py" />
@@ -463,46 +461,47 @@
       <jump line="19" column="72" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>cacheModels</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>LocalHostDevelopmentConfig</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoJ1JJbnRlcmZhY2UucmVmcmVzaENhY2hlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERFQlVHID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByby5yWycnXShzZWxmLnBnX2NvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLkZpbGVIYW5kbGVyKGZpbGVuYW1lPScvdmFyL2xvZy9weXRob25fYXBwLmxvZycpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkRCSSA9IGltcG9ydHIoIkRCSSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExPR0dJTkdfRklMRV9OQU1FID0gJycK</text>
+        <text encoding="base64">ICAgICAgICByby5yWydkYkRpc2Nvbm5lY3QnXSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExPR0dJTkdfRklMRV9OQU1FID0gJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlID0gc2VsZi5kZW1hbmRfZGVwbG95bWVudC5jYWNoZU1vZGVscyhzZWxmLnBnX2NvbiwgaW52YWxpZGF0ZT1UcnVlKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgbG9nLmRlYnVnKCdPcGVuaW5nIFIgY29ubmVjdGlvbiB0byBQb3N0Z3JlU1FMJykKICAgICAgICBzZWxmLnBnX2NvbiA9IHJvLnIoYXBwLmNvbmZpZ1snUkRBVEFCQVNFX1VSSSddKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb2RfY3Vjcywgc2VsZi5jb3VudHJpZXMsIHBnX2NvbikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBsb2cuZGVidWcoJ09wZW5pbmcgUiBjb25uZWN0aW9uIHRvIFBvc3RncmVTUUwnKQogICAgICAgIHNlbGYucGdfY29uID0gcm8ucihhcHAuY29uZmlnWydSREFUQUJBU0VfVVJJJ10pCiAgICAgICAgc2VsZi5jYWNoZSA9IHNlbGYuZGVtYW5kX2RlcGxveW1lbnQuY2FjaGVNb2RlbHMoc2VsZi5wZ19jb24sIGludmFsaWRhdGU9VHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByX21vZCA9IGRlbWFuZF9kZXBsb3ltZW50LnJldHJpZXZlTW9kZWxzKAo=</text>
+        <text encoding="base64">ICAgIERFQlVHID0gVHJ1ZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICByX21vZCA9IGRlbWFuZF9kZXBsb3ltZW50LnJldHJpZXZlTW9kZWxzKAogICAgICAgICAgICBzZWxmLmNvZF9jdWNzLCBzZWxmLmNvdW50cmllcywgcGdfY29uKQogICAgICAgIGZjID0gZGVtYW5kX2RlcGxveW1lbnQucHJlZGljdF9CYWluREJSZXRyaWV2ZWRTa3VNb2RlbHMocl9tb2QsIGRhdGEpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLkZpbGVIYW5kbGVyKGZpbGVuYW1lPScvdmFyL2xvZy9weXRob25fYXBwLmxvZycpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
