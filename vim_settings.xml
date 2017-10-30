@@ -307,11 +307,11 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" timestamp="1508368283663">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="17" column="49" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" timestamp="1509404849499">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/views.py" timestamp="1507923293639">
         <mark key="[" line="56" column="0" />
@@ -326,7 +326,6 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/cv/tests/test_extract_features.py" timestamp="1508917301826" />
       <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/environment.yml" timestamp="1506012812216">
         <mark key="'" line="15" column="17" />
         <mark key="[" line="14" column="22" />
@@ -472,31 +471,32 @@
         <text encoding="base64">ICAgICAgICBpZiAnY291bnRyeScgbm90IGluIGRmLmNvbHVtbnM6CiAgICAgICAgICAgIGxvZy53YXJuaW5nKCciY291bnRyeSIgbm90IGluIGRmLmNvbHVtbnMnKQogICAgICAgICAgICBhYm9ydCg0MDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhWydjb3VudHJ5J10gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlY2FzdHMgPSBtb2RlbHMuZm9yZWNhc3QoZGYpCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG1vZGVscyA9IEZvcmVjYXN0TW9kZWwoY291bnRyeSwgc2t1cykKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgbG9nLmV4Y2VwdGlvbignVmFsdWVFcnJvciwgYWJvcnQgNDA0JykKICAgICAgICAgICAgYWJvcnQoNDA0KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://postgres:postgres@localhost/model_results'
+    RDATABASE_URI = 'dbConnect(PostgreSQL(), user=&quot;postgres&quot;, password=&quot;postgres&quot;, dbname = &quot;model_results&quot;)'</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhWydjb3VudHJ5J10gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlY2FzdHMgPSBtb2RlbHMuZm9yZWNhc3QoZGYpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG1vZGVscyA9IEZvcmVjYXN0TW9kZWwoY291bnRyeSwgc2t1cykKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgbG9nLmV4Y2VwdGlvbignVmFsdWVFcnJvciwgYWJvcnQgNDA0JykKICAgICAgICAgICAgYWJvcnQoNDA0KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2xkX2NhY2hlX3JldHJpZXZhbCA9IHNlbGYuY2FjaGVbJ2NhY2hlLnJldHJpZXZhbC5kYXRlJ10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmNhY2hlIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
