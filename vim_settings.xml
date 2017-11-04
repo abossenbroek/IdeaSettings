@@ -257,13 +257,13 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1509830184734">
-        <mark key="a" line="52" column="19" />
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="71" column="40" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1509832840459">
+        <mark key="a" line="55" column="19" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="79" column="76" />
+        <mark key="]" line="79" column="77" />
+        <mark key="^" line="78" column="40" />
+        <mark key="." line="79" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
         <mark key="[" line="0" column="0" />
@@ -364,12 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="58" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="61" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="52" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="26" column="22" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
       <jump line="17" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
       <jump line="19" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
@@ -464,55 +458,61 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
       <jump line="20" column="46" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="67" column="3" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="35" column="67" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="63" column="61" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="79" column="76" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9zaXRpb25zID0g</text>
+        <text>-1</text>
       </register>
       <register name="/" type="4">
-        <text>spanish</text>
+        <text encoding="base64">XDxjb3VudGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>d[0] + grid_pos[0]</text>
+        <text>[init[0]][init[1]] = -1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkX2Nvc3QgKz0gY29zdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQoKICAgIHJldHVybiBwYXRoCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdyaWRbaW5pdFswXV1baW5pdFsxXV0gPSAtMQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IAogICAgaWYgcmVzID09ICdmYWlsJzoKICAgICAgICAjIFNjYW4gZW50cmllcyBpbiBtYXRyaXggYW5kIHNldA==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGhhc19tb3JlX29wdGlvbnMgPSBUcnVlCiAgICBvcGVuID0gbGlzdChpbml0KQogICAgd2hpbGUgKGhhc19tb3JlX29wdGlvbnMpOgo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkX2Nvc3QgKz0gY29zdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvOgo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spanish</last-search>
+      <last-search encoding="base64">XDxjb3VudGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>spanish</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudGVyXD4=</last-pattern>
       <last-replace>connect_db</last-replace>
       <last-substitute>connectDb</last-substitute>
       <last-dir>1</last-dir>
@@ -520,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>border_bottom</entry>
-        <entry>border_left</entry>
         <entry>border_right</entry>
         <entry>sdf</entry>
         <entry>asdfadsfda</entry>
@@ -540,6 +538,8 @@
         <entry>models</entry>
         <entry encoding="base64">XDxmb3JlY2FzdFw+</entry>
         <entry>spanish</entry>
+        <entry encoding="base64">XDxzZWFyY2hfcmVjdXJzaXZlXD4=</entry>
+        <entry encoding="base64">XDxjb3VudGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
