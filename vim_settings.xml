@@ -182,10 +182,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1508396826420">
+      <file name="/Python Console" timestamp="1509828575286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1508395505292">
+      <file name="/fragment.py" timestamp="1509828086547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -257,12 +257,13 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1509825342273">
-        <mark key="a" line="50" column="19" />
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="67" column="39" />
-        <mark key="^" line="67" column="39" />
-        <mark key="." line="67" column="39" />
+      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1509830184734">
+        <mark key="a" line="52" column="19" />
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="71" column="40" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
         <mark key="[" line="0" column="0" />
@@ -363,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="55" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="58" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="61" column="33" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
@@ -463,13 +463,14 @@
       <jump line="92" column="27" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
       <jump line="20" column="46" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text encoding="base64">cG9zaXRpb25zID0g</text>
       </register>
       <register name="/" type="4">
         <text>spanish</text>
@@ -478,31 +479,31 @@
         <text>d[0] + grid_pos[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQoKICAgIHJldHVybiBwYXRoCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW10K</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkX2Nvc3QgKz0gY29zdAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQoKICAgIHJldHVybiBwYXRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGhhc19tb3JlX29wdGlvbnMgPSBUcnVlCiAgICBvcGVuID0gbGlzdChpbml0KQogICAgd2hpbGUgKGhhc19tb3JlX29wdGlvbnMpOgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZCkK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBpbnNlcnQgY29kZSBoZXJlCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=</text>
+        <text encoding="base64">ICAgIGhhc19tb3JlX29wdGlvbnMgPSBUcnVlCiAgICBvcGVuID0gbGlzdChpbml0KQogICAgd2hpbGUgKGhhc19tb3JlX29wdGlvbnMpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIGRvOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
