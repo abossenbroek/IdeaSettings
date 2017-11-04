@@ -257,6 +257,13 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1509825219618">
+        <mark key="a" line="50" column="19" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -462,38 +469,38 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>LocalHost</text>
+        <text encoding="base64">bmV3X3Bvc2l0aW9ucyA=</text>
       </register>
       <register name="/" type="4">
         <text>spanish</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2FwcC5jb25maWcuZnJvbV9vYmplY3QoJ3Jlc3RhcGkuY29uZmlndXJhdGlvbi5Mb2NhbEhvc3REZXZlbG9wbWVudENvbmZpZycpCg==</text>
+      <register name="0" type="4">
+        <text>d[0] + grid_pos[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZCkK</text>
       </register>
       <register name="3" type="4">
-        <text>SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://postgres:postgres@localhost/model_results'
-    RDATABASE_URI = 'dbConnect(PostgreSQL(), user=&quot;postgres&quot;, password=&quot;postgres&quot;, dbname = &quot;model_results&quot;)'</text>
+        <text encoding="base64">ICAgIGhhc19tb3JlX29wdGlvbnMgPSBUcnVlCiAgICBvcGVuID0gbGlzdChpbml0KQogICAgd2hpbGUgKGhhc19tb3JlX29wdGlvbnMpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRvOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBpbnNlcnQgY29kZSBoZXJlCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhWydjb3VudHJ5J10gCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlY2FzdHMgPSBtb2RlbHMuZm9yZWNhc3QoZGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG1vZGVscyA9IEZvcmVjYXN0TW9kZWwoY291bnRyeSwgc2t1cykKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgbG9nLmV4Y2VwdGlvbignVmFsdWVFcnJvciwgYWJvcnQgNDA0JykKICAgICAgICAgICAgYWJvcnQoNDA0KQo=</text>
+        <text>SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://postgres:postgres@localhost/model_results'
+    RDATABASE_URI = 'dbConnect(PostgreSQL(), user=&quot;postgres&quot;, password=&quot;postgres&quot;, dbname = &quot;model_results&quot;)'</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
