@@ -67,6 +67,13 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1510094864074">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/.gitignore" timestamp="1507924749583">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -114,12 +121,11 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" timestamp="1509405692116">
-        <mark key="'" line="19" column="46" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" timestamp="1510094025647">
+        <mark key="'" line="16" column="46" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1506022236707">
         <mark key="a" line="45" column="10" />
@@ -315,11 +321,11 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" timestamp="1509404849499">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="5" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" timestamp="1510094886287">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/views.py" timestamp="1507923293639">
         <mark key="[" line="56" column="0" />
@@ -364,9 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
-      <jump line="19" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
       <jump line="73" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/model.py" />
       <jump line="102" column="40" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
       <jump line="101" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/ForecastModel.py" />
@@ -464,46 +467,49 @@
       <jump line="63" column="61" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="79" column="76" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-1</text>
+        <text>model_predict.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>[init[0]][init[1]] = -1</text>
+        <text>model_predict.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbF9wcmVkaWN0LmZvcmVjYXN0IGltcG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdyaWRbaW5pdFswXV1baW5pdFsxXV0gPSAtMQo=</text>
+        <text encoding="base64">ZnJvbSAuRm9yZWNhc3RNb2RlbCBpbXBvcnQgRm9yZWNhc3RNb2RlbCwgRm9yZWNhc3RNb2RlbEVuY29kZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgaWYgcmVzID09ICdmYWlsJzoKICAgICAgICAjIFNjYW4gZW50cmllcyBpbiBtYXRyaXggYW5kIHNldA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkX2Nvc3QgKz0gY29zdAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGlmICdDb2RDVUMnIG5vdCBpbiBkZi5jb2x1bW5zOgogICAgICAgIGxvZy53YXJuaW5nKCciQ29kQ1VDIiBub3QgaW4gZGYuY29sdW1ucycpCiAgICAgICAgYWJvcnQoNDAwKQoKICAgIGlmICdjb3VudHJ5JyBub3QgaW4gZGYuY29sdW1uczoKICAgICAgICBsb2cud2FybmluZygnImNvdW50cnkiIG5vdCBpbiBkZi5jb2x1bW5zJykKICAgICAgICBhYm9ydCg0MDApCgogICAgaWYgJ05DYW1wYWlnbicgbm90IGluIGRmLmNvbHVtbnM6CiAgICAgICAgbG9nLndhcm5pbmcoJyJOQ2FtcGFpZ24iIG5vdCBpbiBkZi5jb2x1bW5zJykKICAgICAgICBhYm9ydCg0MDApCgogICAgc2t1cyA9IHNldChkZi5Db2RDVUMpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IGxpc3QoKGluaXQsIDApKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygnZm9yZWNhc3QgY291bnRyeToge30nLmZvcm1hdChjb3VudHJ5KSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygnZm9yZWNhc3QgY291bnRyeToge30nLmZvcm1hdChjb3VudHJ5KSkK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGlmIGxlbihjb3VudHJ5KSA9PSAwOgogICAgICAgIGxvZy53YXJuaW5nKCdsZW4oY291bnRyeSkgPT0gMCcpCiAgICAgICAgYWJvcnQoNDAwKQog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
