@@ -188,7 +188,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1510439307590">
+      <file name="/Python Console" timestamp="1510439845777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1509828086547">
@@ -263,12 +263,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1510439390024">
+      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1510440130143">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="76" column="21" />
-        <mark key="]" line="76" column="22" />
-        <mark key="^" line="76" column="22" />
-        <mark key="." line="76" column="22" />
+        <mark key="[" line="74" column="31" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="114" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
         <mark key="[" line="0" column="0" />
@@ -482,7 +482,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>results</text>
+        <text>movements</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</text>
@@ -494,25 +494,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBwb3NpdGlvbnNbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBwb3NpdGlvbnNbcCArIDFdCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBwb3NpdGlvbnNbMF0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgOgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWxzZToKcmVzdWx0cyA9IHNlYXJjaF9yZWN1cnNpdmUobmV3X3Bvc2l0aW9ucywgZ29hbCkKIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiByYW5nZShsZW4ocG9zaXRpb25zKSAtIDEpOgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAjIFNvcnQgdGhlbSBieSBhc2NlbmRpbmcgb3JkZXIuCiAgICAgICAgcG9zaXRpb25zID0gc29ydGVkKHBvc2l0aW9ucywga2V5PWxhbWJkYSBwOiBwWzFdKQogICAgICAgICMgS2VlcCBvbmx5IHRoZSBwb3NpdGlvbnMgdGhhdCBsZWFkIHVzIHRvIHRoZSBnb2FsLgogICAgICAgIHBvc2l0aW9ucyA9IFtwIGZvciBwIGluIHBvc2l0aW9ucyBpZiBwWzZdXQogICAgICAgIGkgPSAwCiAgICAgICAgIyBSZW1vdmUgdGllcwogICAgICAgIHdoaWxlIGkgPCBsZW4ocG9zaXRpb25zKToKICAgICAgICAgICAgaiA9IGkgKyAxCiAgICAgICAgICAgIHdoaWxlIGogPCBsZW4ocG9zaXRpb25zKToKICAgICAgICAgICAgICAgIGlmIHBvc2l0aW9uc1tpXVsxXSA9PSBwb3NpdGlvbnNbal1bMV06CiAgICAgICAgICAgICAgICAgICAgZGVsIHBvc2l0aW9uc1tqXQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBqICs9IDEKICAgICAgICAgICAgaSArPSAxCgogICAgICAgIHJlc3VsdHMgPSBwb3NpdGlvbnNbMF0KICAgIGVsc2U6CiAgICAgICAgcmVzdWx0cyA9IHNlYXJjaF9yZWN1cnNpdmUobmV3X3Bvc2l0aW9ucywgZ29hbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIHByaW50KGRvdWJsZV9tYXRyaXgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiJXMgLSAlczogJXMgJXMiICUgKGluaXQsICBtLCBtb3ZlbWVudF9tYXBbbV1bMF0sICBtb3ZlbWVudF9tYXBbbV1bMV0pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbF9wb3NpdGlvbnMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
