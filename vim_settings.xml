@@ -188,7 +188,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1510435535323">
+      <file name="/Python Console" timestamp="1510439307590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1509828086547">
@@ -263,13 +263,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1510435525113">
-        <mark key="a" line="87" column="14" />
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="96" column="16" />
-        <mark key="]" line="96" column="18" />
-        <mark key="." line="96" column="18" />
-        <mark key="^" line="96" column="18" />
+      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1510439390024">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="22" />
+        <mark key="^" line="76" column="22" />
+        <mark key="." line="76" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
         <mark key="[" line="0" column="0" />
@@ -377,9 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
-      <jump line="36" column="34" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="16" column="29" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="15" column="17" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/environment.yml" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" />
@@ -456,7 +452,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
       <jump line="20" column="46" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="67" column="3" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="63" column="61" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="79" column="76" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
@@ -475,57 +470,61 @@
       <jump line="53" column="20" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="36" column="20" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="37" column="4" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="38" column="4" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="35" column="50" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="97" column="30" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="96" column="56" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="39" column="8" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new_positions</text>
+        <text>results</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdfcG9zaXRpb25zXD4=</text>
+        <text encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vdmVtZW50cy5hcHBlbmQoZF9uKQo=</text>
+      <register name="0" type="4">
+        <text>= filter(lambda p: p[7] is True, results)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb3ZlbWVudHMuYXBwZW5kKGRfbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBwb3NpdGlvbnNbcCArIDFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdyaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJjYWxsaW5nIHJlY3Vyc2l2ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiByYW5nZShsZW4ocG9zaXRpb25zKSAtIDEpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vdmVtZW50cy5hcHBlbmQoZF9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb3ZlbWVudHMuYXBwZW5kKGRfbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWFyY2hfcmVjdXJzaXZlKGdyaWQsIG5ld19wb3NpdGlvbnMsIGdvYWwsIGNvc3QsIHNlYXJjaF9sb2NhdGlvbiwgY291bnRlciwgbW92ZW1lbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbF9wb3NpdGlvbnMgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdfcG9zaXRpb25zXD4=</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdfcG9zaXRpb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</last-pattern>
       <last-replace>connect_db</last-replace>
       <last-substitute>connectDb</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refreshCache</entry>
         <entry>disconnectDb</entry>
         <entry>connectDb</entry>
         <entry>try</entry>
@@ -553,6 +551,7 @@
         <entry encoding="base64">XDxwb3NpdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hfcmVjdXJzaXZlXD4=</entry>
         <entry encoding="base64">XDxuZXdfcG9zaXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
