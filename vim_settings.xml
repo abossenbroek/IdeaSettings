@@ -188,7 +188,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1509828575286">
+      <file name="/Python Console" timestamp="1510433232523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1509828086547">
@@ -263,13 +263,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1510432398853">
-        <mark key="a" line="78" column="14" />
+      <file name="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" timestamp="1510433735613">
+        <mark key="a" line="81" column="14" />
         <mark key="'" line="50" column="31" />
-        <mark key="[" line="78" column="15" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="44" />
-        <mark key="^" line="78" column="14" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/instance/config.py" timestamp="1500659716201">
         <mark key="[" line="0" column="0" />
@@ -483,40 +482,40 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>movements.pop()</text>
       </register>
       <register name="/" type="4">
         <text>push_back</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaF9sb2NhdGlvbiA9IFtbLTEgZm9yIF8gaW4gcmFuZ2UobGVuKGdyaWRbMF0pKV0gZm9yIF8gaW4gcmFuZ2UobGVuKGdyaWQpKV0K</text>
+      <register name="0" type="4">
+        <text>+ movement_map[m][0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlbWVudHMucG9wKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlbWVudHMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyaWRbaW5pdFswXV1baW5pdFsxXV0gPSAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdyaWRbaW5pdFswXV1baW5pdFsxXV0gPSAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGdyaWRbaW5pdFswXV1baW5pdFsxXV0gPSAtMQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHNlYXJjaF9sb2NhdGlvbiA9IGNvcHkuZGVlcGNvcHkoZ3JpZCkKICAgIGZvciBpIGluIHJhbmdlKGxlbihzZWFyY2hfbG9jYXRpb24pKToKICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oc2VhcmNoX2xvY2F0aW9uW2ldKSk6CiAgICAgICAgICAgIHNlYXJjaF9sb2NhdGlvbltpXVtqXSA9IC0xCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGdyaWRbaW5pdFswXV1baW5pdFsxXV0gPSAtMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIHItZHBseXI9MC43LjQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
