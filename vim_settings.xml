@@ -67,6 +67,14 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1510759065656">
+        <mark key="a" line="119" column="35" />
+        <mark key="'" line="22" column="46" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/.gitignore" timestamp="1507924749583">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -369,9 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="12" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="44" column="10" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
-      <jump line="2" column="48" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="42" column="4" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
@@ -469,19 +474,22 @@
       <jump line="107" column="56" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="115" column="32" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="183" column="21" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="22" column="46" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>USER</text>
+        <text encoding="base64">XDxEZXZlbG9wbWVudENvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9kaWN0W1VTRVJfS0VZXSA9IHVzZXIK</text>
+        <text encoding="base64">ICAgIElEQ0FMTF9LRVkgPSAiSWRDYWxsIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -515,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>USER</last-search>
+      <last-search encoding="base64">XDxEZXZlbG9wbWVudENvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern>USER</last-pattern>
+      <last-pattern encoding="base64">XDxEZXZlbG9wbWVudENvbmZpZ1w+</last-pattern>
       <last-replace>IDCALL</last-replace>
       <last-substitute>USER</last-substitute>
       <last-dir>1</last-dir>
@@ -525,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyX2ludGVyZmFjZVw+</entry>
         <entry>refresh</entry>
         <entry encoding="base64">XDxyXD4=</entry>
         <entry encoding="base64">XDxza3VzXD4=</entry>
@@ -545,6 +552,7 @@
         <entry>models_forecast</entry>
         <entry encoding="base64">XDxzdGFydF90aW1lXD4=</entry>
         <entry>USER</entry>
+        <entry encoding="base64">XDxEZXZlbG9wbWVudENvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3JtL2Jpbl9tb2RlbF9kYXRhL2c=</entry>
