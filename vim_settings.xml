@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="84" column="12" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="44" column="10" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
       <jump line="2" column="48" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
@@ -469,6 +468,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="107" column="56" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="115" column="32" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="183" column="21" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
