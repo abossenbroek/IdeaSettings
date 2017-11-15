@@ -67,12 +67,13 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1510096933221">
-        <mark key="'" line="22" column="36" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="36" column="51" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1510746579656">
+        <mark key="a" line="104" column="23" />
+        <mark key="'" line="116" column="32" />
+        <mark key="[" line="113" column="53" />
+        <mark key="]" line="114" column="3" />
+        <mark key="." line="114" column="3" />
+        <mark key="^" line="114" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/.gitignore" timestamp="1507924749583">
         <mark key="[" line="132" column="0" />
@@ -376,16 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="29" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="15" column="17" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/environment.yml" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="78" column="45" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="49" column="48" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify.py" />
-      <jump line="72" column="10" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="83" column="12" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="84" column="12" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/image_processing.py" />
       <jump line="44" column="10" filename="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" />
@@ -402,14 +393,12 @@
       <jump line="78" column="16" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
       <jump line="71" column="23" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/ForecastModel.py" />
-      <jump line="1" column="7" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="65" column="23" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="86" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/run.py" />
       <jump line="19" column="72" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="42" column="11" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
@@ -436,7 +425,6 @@
       <jump line="61" column="9" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="12" column="41" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="47" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="53" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
@@ -476,66 +464,75 @@
       <jump line="96" column="56" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="39" column="8" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Courses/CarND-routing-algorithm/routing_algorithm.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="40" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="72" column="46" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="48" column="38" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="66" column="64" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="107" column="56" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
+      <jump line="115" column="32" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>movements</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</text>
+        <text>USER</text>
       </register>
-      <register name="0" type="4">
-        <text>= filter(lambda p: p[7] is True, results)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdF9kaWN0W1VTRVJfS0VZXSA9IHVzZXIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBwb3NpdGlvbnNbMF0K</text>
+        <text encoding="base64">ICAgIHJlc3VsdF9kaWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBwb3NpdGlvbnNbMF0K</text>
+        <text encoding="base64">ICAgICAgICBsb2cud2FybmluZygnIklkQ2FsbCIgbm90IGluIGpzb24nKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZWxzZToKcmVzdWx0cyA9IHNlYXJjaF9yZWN1cnNpdmUobmV3X3Bvc2l0aW9ucywgZ29hbCkKIA==</text>
+        <text encoding="base64">ICAgIGlmICJVc2VyIiBub3QgaW4gZmVhdHVyZV9kaWN0OgogICAgICAgIGxvZy53YXJuaW5nKCcie30iIG5vdCBpbiBqc29uJy5mb3JtYXQoU0tVX0tFWSkpCiAgICAgICAgYWJvcnQoNDAwKQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAjIFNvcnQgdGhlbSBieSBhc2NlbmRpbmcgb3JkZXIuCiAgICAgICAgcG9zaXRpb25zID0gc29ydGVkKHBvc2l0aW9ucywga2V5PWxhbWJkYSBwOiBwWzFdKQogICAgICAgICMgS2VlcCBvbmx5IHRoZSBwb3NpdGlvbnMgdGhhdCBsZWFkIHVzIHRvIHRoZSBnb2FsLgogICAgICAgIHBvc2l0aW9ucyA9IFtwIGZvciBwIGluIHBvc2l0aW9ucyBpZiBwWzZdXQogICAgICAgIGkgPSAwCiAgICAgICAgIyBSZW1vdmUgdGllcwogICAgICAgIHdoaWxlIGkgPCBsZW4ocG9zaXRpb25zKToKICAgICAgICAgICAgaiA9IGkgKyAxCiAgICAgICAgICAgIHdoaWxlIGogPCBsZW4ocG9zaXRpb25zKToKICAgICAgICAgICAgICAgIGlmIHBvc2l0aW9uc1tpXVsxXSA9PSBwb3NpdGlvbnNbal1bMV06CiAgICAgICAgICAgICAgICAgICAgZGVsIHBvc2l0aW9uc1tqXQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBqICs9IDEKICAgICAgICAgICAgaSArPSAxCgogICAgICAgIHJlc3VsdHMgPSBwb3NpdGlvbnNbMF0KICAgIGVsc2U6CiAgICAgICAgcmVzdWx0cyA9IHNlYXJjaF9yZWN1cnNpdmUobmV3X3Bvc2l0aW9ucywgZ29hbCkK</text>
+        <text encoding="base64">ICAgIGlmIFNLVV9LRVkgbm90IGluIGZlYXR1cmVfZGljdDoKICAgICAgICBsb2cud2FybmluZygnInt9IiBub3QgaW4ganNvbicuZm9ybWF0KFNLVV9LRVkpKQogICAgICAgIGFib3J0KDQwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHByaW50KGRvdWJsZV9tYXRyaXgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiJXMgLSAlczogJXMgJXMiICUgKGluaXQsICBtLCBtb3ZlbWVudF9tYXBbbV1bMF0sICBtb3ZlbWVudF9tYXBbbV1bMV0pKQo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGlmIFNLVV9LRVkgbm90IGluIGZlYXR1cmVfZGljdDoKICAgICAgICBsb2cud2FybmluZygnInt9IiBub3QgaW4ganNvbicuZm9ybWF0KFNLVV9LRVkpKQogICAgICAgIGFib3J0KDQwMCkKICAgIGlmIENPVVRSWV9LRVkgbm90IGluIGZlYXR1cmVfZGljdDoKICAgICAgICBsb2cud2FybmluZygnInt9IiBub3QgaW4ganNvbicuZm9ybWF0KENPVVRSWV9LRVkpKQogICAgICAgIGFib3J0KDQwMCkKICAgIGlmIENBVEVHT1JZX0tFWSBub3QgaW4gZmVhdHVyZV9kaWN0OgogICAgICAgIGxvZy53YXJuaW5nKCcie30iIG5vdCBpbiBqc29uJy5mb3JtYXQoQ0FURUdPUllfS0VZKSkKICAgICAgICBhYm9ydCg0MDApCiAgICBmb3IgZmVhdHVyZSBpbiBGRUFUVVJFUzoKICAgICAgICBpZiBmZWF0dXJlIG5vdCBpbiBmZWF0dXJlX2RpY3Q6CiAgICAgICAgICAgIGxvZy53YXJuaW5nKCcie30iIG5vdCBpbiBqc29uJy5mb3JtYXQoZmVhdHVyZSkpCiAgICAgICAgICAgIGFib3J0KDQwMCkKCiAgICBsb2cuaW5mbygnUHJlZGljdG9yIElEOiB7fScuZm9ybWF0KGlkKGFwcC5wcmVkaWN0b3IpKSkKICAgIGxvZy5pbmZvKCdQcmVkaWN0b3IgU0tVIGRpY3QgaWQ6IHt9Jy5mb3JtYXQoaWQoYXBwLnByZWRpY3Rvci5za3VfbW9kZWxzKSkpCiAgICByZXN1bHQgPSBOb25lCiAgICB0cnk6CiAgICAgICAgcmVzdWx0ID0gYXBwLnByZWRpY3Rvci5wcmVkaWN0KGZlYXR1cmVfZGljdCkKICAgIGV4Y2VwdCBVbnN1cHBvcnRlZFNLVSBhcyBleGM6CiAgICAgICAgbG9nLndhcm5pbmcoJ1Vuc3VwcG9ydGVkU0tVOiB7fSwgYWJvcnQgNDA0Jy5mb3JtYXQoZXhjKSkKICAgICAgICBhYm9ydCg0MDQpCiAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgIGxvZy5leGNlcHRpb24oJ1J1bnRpbWVFcnJvciwgYWJvcnQgNTAwJykKICAgICAgICBhYm9ydCg1MDApCgogICAgaWYgcmVzdWx0IGlzIE5vbmU6CiAgICAgICAgbG9nLmVycm9yKCdQcmVkaWN0aW9uIGlzIE5vbmUsIHNvbWV0aGluZyB3ZW50IHdyb25nLCBhYm9ydCA1MDAnKQogICAgICAgIGFib3J0KDUwMCkKCiAgICByZXN1bHRfZGljdCA9IHsKICAgICAgICAncHJlZGljdGlvbic6IHJlc3VsdCwKICAgICAgICBTS1VfS0VZOiBmZWF0dXJlX2RpY3RbU0tVX0tFWV0sCiAgICAgICAgQ09VVFJZX0tFWTogZmVhdHVyZV9kaWN0W0NPVVRSWV9LRVldLAogICAgICAgIENBVEVHT1JZX0tFWTogZmVhdHVyZV9kaWN0W0NBVEVHT1JZX0tFWV0KICAgIH0KICAgIGxvZy5pbmZvKCdUaW1lIHRvIHByb2Nlc3MgcmVxdWVzdDoge30nLmZvcm1hdCh0aW1lLnRpbWUoKSAtIHN0YXJ0X3RpbWUpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</last-search>
+      <last-search>USER</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</last-pattern>
-      <last-replace>connect_db</last-replace>
-      <last-substitute>connectDb</last-substitute>
+      <last-pattern>USER</last-pattern>
+      <last-replace>IDCALL</last-replace>
+      <last-substitute>USER</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>disconnectDb</entry>
-        <entry>connectDb</entry>
-        <entry>try</entry>
-        <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
         <entry encoding="base64">XDxyX2ludGVyZmFjZVw+</entry>
         <entry>refresh</entry>
         <entry encoding="base64">XDxyXD4=</entry>
@@ -552,10 +549,12 @@
         <entry encoding="base64">XDxzZWFyY2hfcmVjdXJzaXZlXD4=</entry>
         <entry encoding="base64">XDxuZXdfcG9zaXRpb25zXD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hfbG9jYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxwcmVkaWN0b3JcPg==</entry>
+        <entry>models_forecast</entry>
+        <entry encoding="base64">XDxzdGFydF90aW1lXD4=</entry>
+        <entry>USER</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL21vZGVsX2RhdGEvZmVhdHVyZXMvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3Jtcy9tb2RlbF9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ludmVyc2VfdHJhbnNmb3JtL2Jpbl9tb2RlbF9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5jL2NvZF9jdWNzL2NvdW50cnkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvZF9jdWNzL2NvdW50cmllcy9n</entry>
@@ -573,6 +572,8 @@
         <entry>%s/disconnectDb/disconnect_db/g</entry>
         <entry>%s/connectDb/connect_db/g</entry>
         <entry>q</entry>
+        <entry>%s/models_forecast/model_forecast/g</entry>
+        <entry encoding="base64">JzwsJz5zL1VTRVIvSURDQUxML2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
