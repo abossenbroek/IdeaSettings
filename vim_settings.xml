@@ -67,13 +67,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1510764014788">
+      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" timestamp="1510844187510">
         <mark key="a" line="120" column="35" />
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="123" column="11" />
-        <mark key="]" line="123" column="29" />
-        <mark key="." line="123" column="29" />
-        <mark key="^" line="123" column="29" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/.gitignore" timestamp="1507924749583">
         <mark key="[" line="132" column="0" />
@@ -483,40 +482,40 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>datetime.</text>
+        <text>forecast/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRldGltZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>'views.model_forecast_15'</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL21vZGVscy9hcGkvdjEuNS88c3RyaW5nOmNvdW50cnk+LzxzdHJpbmc6c2t1Pi9mb3JlY2FzdC8nLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCd2aWV3cy5tb2RlbF9mb3JlY2FzdF8xNTogcmVjZWl2ZWQgJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCd2aWV3cy5tb2RlbF9mb3JlY2FzdF8xNScpCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL21vZGVscy9hcGkvdjEuNS88c3RyaW5nOmNvdW50cnk+LzxzdHJpbmc6c2t1Pi9idWxrZm9yZWNhc3QvJywgbWV0aG9kcz1bJ1BPU1QnXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL21vZGVscy9hcGkvdjEuNS88c3RyaW5nOmNvdW50cnk+LzxzdHJpbmc6c2t1Pi9mb3JlY2FzdC8nLCBtZXRob2RzPVsnUE9TVCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCd2aWV3cy5tb2RlbF9mb3JlY2FzdF8xNTogcmVjZWl2ZWQgJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9kaWN0Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCd2aWV3cy5tb2RlbF9mb3JlY2FzdF8xNScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2FybmluZygnIklkQ2FsbCIgbm90IGluIGpzb24nKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGlmICJVc2VyIiBub3QgaW4gZmVhdHVyZV9kaWN0OgogICAgICAgIGxvZy53YXJuaW5nKCcie30iIG5vdCBpbiBqc29uJy5mb3JtYXQoU0tVX0tFWSkpCiAgICAgICAgYWJvcnQoNDAwKQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGlmIFNLVV9LRVkgbm90IGluIGZlYXR1cmVfZGljdDoKICAgICAgICBsb2cud2FybmluZygnInt9IiBub3QgaW4ganNvbicuZm9ybWF0KFNLVV9LRVkpKQogICAgICAgIGFib3J0KDQwMCkK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdF9kaWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cud2FybmluZygnIklkQ2FsbCIgbm90IGluIGpzb24nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
