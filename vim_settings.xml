@@ -378,12 +378,12 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1511374110769">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="25" column="72" />
-        <mark key="]" line="27" column="16" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="27" column="16" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1511375499118">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="65" />
+        <mark key="^" line="26" column="65" />
+        <mark key="." line="26" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/environment.yml" timestamp="1510097860599">
         <mark key="[" line="9" column="19" />
@@ -441,8 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="9" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
-      <jump line="12" column="41" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="47" column="3" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="53" column="15" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" />
@@ -541,13 +539,15 @@
       <jump line="17" column="14" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
       <jump line="67" column="2" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
+      <jump line="26" column="26" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>['product_category'] = plex_df['CodCUC'] + plex_df['CodPais']</text>
       </register>
       <register name="/" type="4">
         <text>0, 0</text>
