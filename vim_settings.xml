@@ -119,12 +119,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" timestamp="1511355128564">
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" timestamp="1511387242171">
         <mark key="'" line="17" column="14" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="5" column="5" />
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/README.md" timestamp="1511298680788">
         <mark key="[" line="4" column="63" />
@@ -220,7 +220,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1510439845777">
+      <file name="/Python Console" timestamp="1511387345107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1509828086547">
@@ -378,12 +378,12 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1511375499118">
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1511387341712">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="65" />
-        <mark key="^" line="26" column="65" />
-        <mark key="." line="26" column="65" />
+        <mark key="[" line="25" column="83" />
+        <mark key="]" line="25" column="83" />
+        <mark key="^" line="25" column="85" />
+        <mark key="." line="25" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/environment.yml" timestamp="1510097860599">
         <mark key="[" line="9" column="19" />
@@ -547,7 +547,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>['product_category'] = plex_df['CodCUC'] + plex_df['CodPais']</text>
+        <text>[,2]</text>
       </register>
       <register name="/" type="4">
         <text>0, 0</text>
@@ -556,7 +556,7 @@
         <text>&quot;200014172&quot;, &quot;200014172&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwbGV4X2RmWydwcm9kdWN0X2NhdGVnb3J5J10gPSBwbGV4X2RmWydDb2RDVUMnXSArIHBsZXhfZGZbJ0NvZFBhaXMnXQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -565,22 +565,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sKaW1wb3J0IHBkCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbCByZXFbXQo=</text>
+        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sKaW1wb3J0IHBkCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiRGF0ZVRpbWUiCg==</text>
+        <text encoding="base64">ICAgIGRlbCByZXFbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VVNFUl9LRVkgPQo=</text>
+        <text encoding="base64">ICAiRGF0ZVRpbWUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
+        <text encoding="base64">VVNFUl9LRVkgPQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGRlbXVsdGlwbGV4ZXIobXNnKToKICAgIHJlcSA9IG1zZ3BhY2sudW5wYWNrYihtc2cpCiAgICB1c2VyID0gcmVxWyJVc2VyIl0KICAgIGlkY2FsbCA9IHJlcVsiSWRDYWxsIl0KICAgIG51bV9pbnB1dHMgPSByZXFbIk51bWJlcl9vZl9pbnB1dHMiXQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
