@@ -242,12 +242,12 @@
       <file name="/Python Console" timestamp="1511477594771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1511477804663">
-        <mark key="'" line="25" column="31" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1511717736076">
+        <mark key="'" line="26" column="31" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1509828086547">
         <mark key="[" line="0" column="0" />
@@ -592,7 +592,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTM19CVUNLRVRcPg==</text>
@@ -600,32 +600,32 @@
       <register name="0" type="4">
         <text>datasource.S3Source(app.config.get('S3_BUCKET')), False)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y2xhc3MgU3VtU2VydmVyKG9iamVjdCk6CiAgICBkZWYgc3VtKHNlbGYsIHgsIHkpOgogICAgICAgIHJldHVybiB4ICsgeQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQuY2FsbCgic3VtIiwgMSwgMikpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5wcmVkaWN0b3IgPSBQcmVkaWN0b3IoZGF0YXNvdXJjZS5TM1NvdXJjZShjb25maWd1cmF0aW9uLlMzX0JVQ0tFVCksIEZhbHNlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXQoc2VsZik6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSUENTZXJ2ZXIuX19pbml0X18oc2VsZikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnZXZlbnQuc2VydmVyIGltcG9ydCBTdHJlYW1TZXJ2ZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZWRpY3RvciA9IFByZWRpY3RvcihkYXRhc291cmNlLlMzU291cmNlKGNvbmZpZ3VyYXRpb24uUzNfQlVDS0VUKSwgRmFsc2UpCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBSUENTZXJ2ZXIuX19pbml0X18oc2VsZikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXQoc2VsZik6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZWRpY3RvciA9IFByZWRpY3RvcihkYXRhc291cmNlLlMzU291cmNlKGNvbmZpZ3VyYXRpb24uUzNfQlVDS0VUKSwgRmFsc2UpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Y2xhc3MgU3VtU2VydmVyKG9iamVjdCk6CiAgICBkZWYgc3VtKHNlbGYsIHgsIHkpOgogICAgICAgIHJldHVybiB4ICsgeQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQuY2FsbCgic3VtIiwgMSwgMikpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjc2VsZi5wcmVkaWN0b3IgPSBQcmVkaWN0b3IoZGF0YXNvdXJjZS5TM1NvdXJjZShjb25maWd1cmF0aW9uLlMzX0JVQ0tFVCksIEZhbHNlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXQoc2VsZik6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBSUENTZXJ2ZXIuX19pbml0X18oc2VsZikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
