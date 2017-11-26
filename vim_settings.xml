@@ -157,9 +157,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/__init__.py" timestamp="1511473649666">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/log_init.py" timestamp="1511473636983">
         <mark key="'" line="0" column="0" />
@@ -171,14 +168,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/e8sz-poc1/ocr/ocr_classify/ocr_classify/tests/test_image_processing.py" timestamp="1506022236707">
-        <mark key="a" line="45" column="10" />
-        <mark key="'" line="11" column="19" />
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator/rv_mapping.py" timestamp="1490627937442">
         <mark key="'" line="78" column="112" />
@@ -327,14 +316,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/plexer.py" timestamp="1511353856884">
-        <mark key="a" line="23" column="3" />
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="9" />
-        <mark key="." line="23" column="9" />
-        <mark key="^" line="23" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/__init__.py" timestamp="1511473660863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
@@ -395,14 +376,6 @@
       <file name="/R Console" timestamp="1494948791281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/RInterfacing.py" timestamp="1508396911638">
-        <mark key="a" line="55" column="15" />
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
-        <mark key="^" line="32" column="48" />
-      </file>
       <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="47" column="6" />
@@ -433,8 +406,6 @@
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/configuration.py" timestamp="1511474314548">
         <mark key="a" line="3" column="22" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="47" />
         <mark key="." line="3" column="50" />
         <mark key="^" line="3" column="50" />
       </file>
@@ -477,12 +448,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/run.py" timestamp="1510097210066">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
