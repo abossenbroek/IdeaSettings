@@ -128,13 +128,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" timestamp="1511793757629">
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" timestamp="1511795322574">
         <mark key="a" line="48" column="26" />
         <mark key="'" line="5" column="44" />
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/README.md" timestamp="1511298680788">
         <mark key="[" line="4" column="63" />
@@ -575,7 +575,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>USER_KEY, IDCALL_KEY, DATETIME_KEY</text>
+        <text>results</text>
       </register>
       <register name="/" type="4">
         <text>unique_key</text>
@@ -584,39 +584,31 @@
         <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0b19hcnJheSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgSW52YWxpZFByZWRpY3Rpb246CiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBnbXRpbWUsIHN0cmZ0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVqc29uLmVuY29kZShyZXN1bHRzKSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIiwgInRlc3RfcmVxdWVzdHMiLCAibXVsdGlfcmVxdWVzdC5qc29uIiksICJyIikgYXMgZjoKICAgICAgICB0ZXN0X2ZpbGUgPSB1anNvbi5sb2FkKGYpCiAgICAgICAgdGVzdF9tc2cgPSBtc2dwYWNrLnBhY2tiKHRlc3RfZmlsZSkKICAgICAgICBwcmludCh0ZXN0X21zZykKCgogICAgICAgIGNsaWVudCA9IFJQQ0NsaWVudChjb25maWd1cmF0aW9uLlJQQ19TRVJWRVIsIGNvbmZpZ3VyYXRpb24uUlBDX1BPUlQsIDEyMCkKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1anNvbi5lbmNvZGUocmVzdWx0cykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if len(predictions) != num_inputs:
-            raise InvalidPrediction
-
-        to_array = [l[i] for i in range(len(key_names)) for l in keys]
-        to_array = [to_array[x:x+len(key_names)] for x in range(0, len(to_array), len(key_names))]
-        results = {USER_KEY: user, IDCALL_KEY: idcall}
-        results.update({key_names[i]: to_array[i] for i in range(len(key_names))})
-        results.update({DATETIME_KEY: strftime(&quot;%Y-%m-%d %H:%M:%S&quot;, gmtime())})
-        results.update({&quot;Predictions&quot;: predictions})</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
