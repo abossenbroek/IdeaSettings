@@ -92,9 +92,9 @@
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1511807911431">
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1511809830541">
         <mark key="a" line="59" column="14" />
-        <mark key="'" line="63" column="36" />
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="60" column="25" />
         <mark key="]" line="60" column="38" />
         <mark key="^" line="60" column="38" />
@@ -250,12 +250,12 @@
       <file name="/Python Console" timestamp="1511804025339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1511737332805">
-        <mark key="'" line="26" column="31" />
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="33" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="33" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1511809838589">
+        <mark key="'" line="13" column="40" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="/fragment.py" timestamp="1511738540120">
         <mark key="[" line="0" column="0" />
@@ -460,9 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/df-plexer.py" />
-      <jump line="23" column="3" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/plexer.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/plexer.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/plexer.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/df-plexer.py" />
       <jump line="44" column="8" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
@@ -560,55 +557,58 @@
       <jump line="8" column="26" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="54" column="18" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
       <jump line="63" column="36" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="10" column="7" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="13" column="40" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>impor</text>
       </register>
       <register name="/" type="4">
-        <text>503</text>
+        <text encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjdHN0X3BhY2sgPSBtc2dwYWNrLnBhY2tiKHRlc3RfZmlsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcmVkaWN0LmZvcmVjYXN0LnByZWRpY3QgaW1wb3J0IFVuc3VwcG9ydGVkU0tVCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2UK</text>
+        <text encoding="base64">ZnJvbSBwcmVkaWN0LmZvcmVjYXN0LmZlYXR1cmVzIGltcG9ydCBGRUFUVVJFUywgU0tVLCBDT1VOVFJZX0NPREUsIENBVEVHT1JZLCBOQl9PRl9JTlBVVFMsIENBTVBBSUdOX0lECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiTl9SZWNvcmRzX1NLVSI6IFswLCAwLCAwLCAwXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiVXNlciI6ICJ1c2VyX3Rlc3QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0c3RfcGFjayA9IHRlc3RfZmlsZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBtZW1vcnlfdXNhZ2Uoc2VsZik6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiVXNlciI6ICJ1c2VyX3Rlc3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJhc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiTl9SZWNvcmRzX1NLVSI6IFswLCAwLCAwLCAwXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiVXNlciI6ICJ1c2VyX3Rlc3QiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>503</last-search>
+      <last-search encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>503</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -616,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry>0, 0</entry>
         <entry encoding="base64">XDxTM19CVUNLRVRcPg==</entry>
         <entry encoding="base64">XDx1bmlxdWVfa2V5XD4=</entry>
@@ -636,6 +635,7 @@
         <entry encoding="base64">XDxtdWx0aXBsZXhlclw+</entry>
         <entry>'</entry>
         <entry>503</entry>
+        <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/img_wildcard/fname_pattern/g</entry>
