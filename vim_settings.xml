@@ -236,6 +236,13 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511912179030">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="68" column="37" />
+        <mark key="^" line="68" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/configuration.py" timestamp="1502485612147">
         <mark key="[" line="4" column="117" />
         <mark key="]" line="4" column="170" />
@@ -287,6 +294,11 @@
         <mark key="]" line="5" column="39" />
         <mark key="." line="5" column="39" />
         <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" timestamp="1511911947036">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/__init__.py" timestamp="1511473654603">
         <mark key="[" line="0" column="0" />
@@ -496,12 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="31" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="84" column="8" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="89" column="16" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
       <jump line="101" column="22" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
       <jump line="28" column="7" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
       <jump line="75" column="30" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
@@ -596,40 +602,104 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
       <jump line="10" column="14" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
+      <jump line="52" column="19" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
+      <jump line="9" column="3" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
+      <jump line="68" column="31" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text>$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I3NlcnZlciA9IFN0cmVhbVNlcnZlcigoJzAuMC4wLjAnLCA2MDAwKSwgUHJlZGljdGlvblNlcnZlcigpKQo=</text>
+      <register name="0" type="4">
+        <text>PrecioOfertaPromInf&quot;: [0, 0, 0, 0],
+  &quot;PrecioOfertaMinInf&quot;: [0, 0, 0, 0],
+  &quot;PrecioOfertaMaxInf&quot;: [0, 0, 0, 0],
+  &quot;PrecioNormalMNInf&quot;: [0, 0, 0, 0],
+  &quot;NroTipoOfertas&quot;: [0, 0, 0, 0],
+  &quot;NroTipoOfertasCatalogo&quot;: [0, 0, 0, 0],
+  &quot;NroTipoOfertasRevista&quot;: [0, 0, 0, 0],
+  &quot;ExposicionMin&quot;: [0, 0, 0, 0],
+  &quot;ExposicionMax&quot;: [0, 0, 0, 0],
+  &quot;ExposicionTotal&quot;: [0, 0, 0, 0],
+  &quot;MaxDescuento&quot;: [0, 0, 0, 0],
+  &quot;FlagDescuentoMayor60&quot;: [0, 0, 0, 0],
+  &quot;FlagDescuentoMayor70&quot;: [0, 0, 0, 0],
+  &quot;MaxDescuentoRevista&quot;: [0, 0, 0, 0],
+  &quot;MaxDescuentoCatalogo&quot;: [0, 0, 0, 0],
+  &quot;FactorDemoCatalogo&quot;: [0, 0, 0, 0],
+  &quot;FlagMaxDescuentoRevista&quot;: [0, 0, 0, 0],
+  &quot;UbicacionCaratula&quot;: [0, 0, 0, 0],
+  &quot;UbicacionContracaratula&quot;: [0, 0, 0, 0],
+  &quot;UbicacionPoster&quot;: [0, 0, 0, 0],
+  &quot;UbicacionInserto&quot;: [0, 0, 0, 0],
+  &quot;UbicacionPrimeraPagina&quot;: [0, 0, 0, 0],
+  &quot;UbicacionOtros&quot;: [0, 0, 0, 0],
+  &quot;LadoDerecho&quot;: [0, 0, 0, 0],
+  &quot;LadoAmbos&quot;: [0, 0, 0, 0],
+  &quot;LadoIzquierdo&quot;: [0, 0, 0, 0],
+  &quot;NroPaginas&quot;: [0, 0, 0, 0],
+  &quot;FotoProducto&quot;: [0, 0, 0, 0],
+  &quot;FotoModelo&quot;: [0, 0, 0, 0],
+  &quot;FlagDiscover&quot;: [0, 0, 0, 0],
+  &quot;FlagTacticaMacro&quot;: [0, 0, 0, 0],
+  &quot;FlagTacticaDetallada&quot;: [0, 0, 0, 0],
+  &quot;FlagDiaPadre&quot;: [0, 0, 0, 0],
+  &quot;FlagDiaMadre&quot;: [0, 0, 0, 0],
+  &quot;FlagNavidad&quot;: [0, 0, 0, 0],
+  &quot;FlagC01&quot;: [0, 0, 0, 0],
+  &quot;FlagC02&quot;: [0, 0, 0, 0],
+  &quot;FlagRegalo&quot;: [0, 0, 0, 0],
+  &quot;TO_003_OfertaConsultora&quot;: [0, 0, 0, 0],
+  &quot;TO_007_Apoyados&quot;: [0, 0, 0, 0],
+  &quot;TO_008_Especiales&quot;: [0, 0, 0, 0],
+  &quot;TO_011_OfertasPrincipales&quot;: [0, 0, 0, 0],
+  &quot;TO_013_Especiales&quot;: [0, 0, 0, 0],
+  &quot;TO_014_BloquePosterContra&quot;: [0, 0, 0, 0],
+  &quot;TO_015_Especiales&quot;: [0, 0, 0, 0],
+  &quot;TO_017_Especiales&quot;: [0, 0, 0, 0],
+  &quot;TO_018_Especiales&quot;: [0, 0, 0, 0],
+  &quot;TO_019_RestoLinea&quot;: [0, 0, 0, 0],
+  &quot;TO_029_OfertaConsultora&quot;: [0, 0, 0, 0],
+  &quot;TO_033_PromocionPropia&quot;: [0, 0, 0, 0],
+  &quot;TO_035_FechasEspeciales&quot;: [0, 0, 0, 0],
+  &quot;TO_036_FechasEspeciales&quot;: [0, 0, 0, 0],
+  &quot;TO_043_Especiales&quot;: [0, 0, 0, 0],
+  &quot;TO_048_OfertaConsultora&quot;: [0, 0, 0, 0],
+  &quot;TO_049_OfertaConsultora&quot;: [0, 0, 0, 0],
+  &quot;TO_060_OfertaConsultora&quot;: [0, 0, 0, 0],
+  &quot;TO_106_Oferta1x2x3x&quot;: [0, 0, 0, 0],
+  &quot;TO_116_PromocionInsuperable&quot;: [0, 0, 0, 0],
+  &quot;TO_123_OfertaConsultora&quot;: [0, 0, 0, 0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3dhaXRyZXNzJykK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3dhaXRyZXNzJykK</text>
@@ -642,22 +712,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace encoding="base64">ID0g</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWdlX2l0ZXJhdG9yXD4=</entry>
-        <entry encoding="base64">XDxpZGNhbGxcPg==</entry>
-        <entry>idcall</entry>
-        <entry>unique_key</entry>
-        <entry encoding="base64">XDxSUENfU0VSVkVSXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVfZXJyb3JcPg==</entry>
         <entry>log_init</entry>
         <entry encoding="base64">XDxkZW11bHRpcGxleGVyXD4=</entry>
         <entry>req</entry>
@@ -672,15 +736,14 @@
         <entry>logger</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry>&quot;</entry>
+        <entry>:.*^</entry>
+        <entry>:.*$</entry>
+        <entry encoding="base64">XiAgICA=</entry>
+        <entry>^</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/img_wildcard/fname_pattern/g</entry>
-        <entry encoding="base64">JzwsJz5zL2hlaWdodF93aWR0aC9kc3RfaGVpZ2h0L2c=</entry>
-        <entry>%s/border_top/brd_lft/g</entry>
-        <entry>%s/border_bottom/brd_rght/g</entry>
-        <entry>%s/border_left/brd_top/g</entry>
-        <entry>%s/border_right/brd_btm/g</entry>
-        <entry encoding="base64">JzwsJz5zL14vXHQv</entry>
         <entry encoding="base64">JzwsJz5zL14vICAgIC8=</entry>
         <entry>%s/refreshCache/refresh_cache/g</entry>
         <entry>%s/disconnectDb/disconnect_db/g</entry>
@@ -693,6 +756,13 @@
         <entry>%s/unique_key/key_names/g</entry>
         <entry>q</entry>
         <entry>%s/'/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzouKl4vL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzouKiQvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL14gICAgL2RvdWJsZSAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL14vPSAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyQvPS9n</entry>
+        <entry encoding="base64">JzwsJz5zLyQvID0gL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
