@@ -236,12 +236,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511975063152">
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511976821800">
         <mark key="'" line="10" column="2" />
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/configuration.py" timestamp="1502485612147">
         <mark key="[" line="4" column="117" />
@@ -614,73 +614,18 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>N_Records_SKU = 1;</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="4">
-        <text>PrecioOfertaPromInf&quot;: [0, 0, 0, 0],
-  &quot;PrecioOfertaMinInf&quot;: [0, 0, 0, 0],
-  &quot;PrecioOfertaMaxInf&quot;: [0, 0, 0, 0],
-  &quot;PrecioNormalMNInf&quot;: [0, 0, 0, 0],
-  &quot;NroTipoOfertas&quot;: [0, 0, 0, 0],
-  &quot;NroTipoOfertasCatalogo&quot;: [0, 0, 0, 0],
-  &quot;NroTipoOfertasRevista&quot;: [0, 0, 0, 0],
-  &quot;ExposicionMin&quot;: [0, 0, 0, 0],
-  &quot;ExposicionMax&quot;: [0, 0, 0, 0],
-  &quot;ExposicionTotal&quot;: [0, 0, 0, 0],
-  &quot;MaxDescuento&quot;: [0, 0, 0, 0],
-  &quot;FlagDescuentoMayor60&quot;: [0, 0, 0, 0],
-  &quot;FlagDescuentoMayor70&quot;: [0, 0, 0, 0],
-  &quot;MaxDescuentoRevista&quot;: [0, 0, 0, 0],
-  &quot;MaxDescuentoCatalogo&quot;: [0, 0, 0, 0],
-  &quot;FactorDemoCatalogo&quot;: [0, 0, 0, 0],
-  &quot;FlagMaxDescuentoRevista&quot;: [0, 0, 0, 0],
-  &quot;UbicacionCaratula&quot;: [0, 0, 0, 0],
-  &quot;UbicacionContracaratula&quot;: [0, 0, 0, 0],
-  &quot;UbicacionPoster&quot;: [0, 0, 0, 0],
-  &quot;UbicacionInserto&quot;: [0, 0, 0, 0],
-  &quot;UbicacionPrimeraPagina&quot;: [0, 0, 0, 0],
-  &quot;UbicacionOtros&quot;: [0, 0, 0, 0],
-  &quot;LadoDerecho&quot;: [0, 0, 0, 0],
-  &quot;LadoAmbos&quot;: [0, 0, 0, 0],
-  &quot;LadoIzquierdo&quot;: [0, 0, 0, 0],
-  &quot;NroPaginas&quot;: [0, 0, 0, 0],
-  &quot;FotoProducto&quot;: [0, 0, 0, 0],
-  &quot;FotoModelo&quot;: [0, 0, 0, 0],
-  &quot;FlagDiscover&quot;: [0, 0, 0, 0],
-  &quot;FlagTacticaMacro&quot;: [0, 0, 0, 0],
-  &quot;FlagTacticaDetallada&quot;: [0, 0, 0, 0],
-  &quot;FlagDiaPadre&quot;: [0, 0, 0, 0],
-  &quot;FlagDiaMadre&quot;: [0, 0, 0, 0],
-  &quot;FlagNavidad&quot;: [0, 0, 0, 0],
-  &quot;FlagC01&quot;: [0, 0, 0, 0],
-  &quot;FlagC02&quot;: [0, 0, 0, 0],
-  &quot;FlagRegalo&quot;: [0, 0, 0, 0],
-  &quot;TO_003_OfertaConsultora&quot;: [0, 0, 0, 0],
-  &quot;TO_007_Apoyados&quot;: [0, 0, 0, 0],
-  &quot;TO_008_Especiales&quot;: [0, 0, 0, 0],
-  &quot;TO_011_OfertasPrincipales&quot;: [0, 0, 0, 0],
-  &quot;TO_013_Especiales&quot;: [0, 0, 0, 0],
-  &quot;TO_014_BloquePosterContra&quot;: [0, 0, 0, 0],
-  &quot;TO_015_Especiales&quot;: [0, 0, 0, 0],
-  &quot;TO_017_Especiales&quot;: [0, 0, 0, 0],
-  &quot;TO_018_Especiales&quot;: [0, 0, 0, 0],
-  &quot;TO_019_RestoLinea&quot;: [0, 0, 0, 0],
-  &quot;TO_029_OfertaConsultora&quot;: [0, 0, 0, 0],
-  &quot;TO_033_PromocionPropia&quot;: [0, 0, 0, 0],
-  &quot;TO_035_FechasEspeciales&quot;: [0, 0, 0, 0],
-  &quot;TO_036_FechasEspeciales&quot;: [0, 0, 0, 0],
-  &quot;TO_043_Especiales&quot;: [0, 0, 0, 0],
-  &quot;TO_048_OfertaConsultora&quot;: [0, 0, 0, 0],
-  &quot;TO_049_OfertaConsultora&quot;: [0, 0, 0, 0],
-  &quot;TO_060_OfertaConsultora&quot;: [0, 0, 0, 0],
-  &quot;TO_106_Oferta1x2x3x&quot;: [0, 0, 0, 0],
-  &quot;TO_116_PromocionInsuperable&quot;: [0, 0, 0, 0],
-  &quot;TO_123_OfertaConsultora&quot;: [0, 0, 0, 0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByZXBlYXRlZCBzdHJpbmcgY29sdW1ucyA9IDE7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>double PrecioOfertaPromInf = 2;
   double PrecioOfertaMinInf = 3;
   double PrecioOfertaMaxInf = 4;
@@ -741,29 +686,26 @@
   double TO_116_PromocionInsuperable = 59;
   double TO_123_OfertaConsultora = 60;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3dhaXRyZXNzJykK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
