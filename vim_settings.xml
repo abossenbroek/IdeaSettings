@@ -236,12 +236,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511912179030">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="68" column="35" />
-        <mark key="]" line="68" column="37" />
-        <mark key="." line="68" column="37" />
-        <mark key="^" line="68" column="37" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511914296885">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/configuration.py" timestamp="1502485612147">
         <mark key="[" line="4" column="117" />
@@ -508,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="22" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
       <jump line="28" column="7" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
       <jump line="75" column="30" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="113" column="44" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
@@ -608,13 +607,14 @@
       <jump line="10" column="4" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="68" column="31" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>N_Records_SKU = 1;</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
