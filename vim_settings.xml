@@ -30,6 +30,12 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/waitress_serve.py" timestamp="1511995109459">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_certain_weekdays_generator.py" timestamp="1490627996938">
         <mark key="'" line="72" column="24" />
         <mark key="[" line="77" column="0" />
@@ -57,7 +63,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511811452645">
+      <file name="/a.dummy" timestamp="1511994778304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" timestamp="1511735094060">
@@ -80,6 +86,12 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="restClient/response0.txt" timestamp="1511996483578">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="12" column="0" />
@@ -92,18 +104,12 @@
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1511893750823">
-        <mark key="a" line="61" column="14" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1511998524974">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="11" column="77" />
-        <mark key="]" line="11" column="77" />
-        <mark key="^" line="11" column="76" />
-        <mark key="." line="11" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/.gitignore" timestamp="1507924749583">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/demandforecast/ForecastModel.py" timestamp="1500655965458">
         <mark key="'" line="99" column="6" />
@@ -132,14 +138,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" timestamp="1511798664203">
-        <mark key="a" line="48" column="26" />
-        <mark key="'" line="5" column="44" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="29" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/README.md" timestamp="1511298680788">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="6" column="4" />
@@ -153,19 +151,26 @@
         <mark key="^" line="88" column="66" />
         <mark key="." line="88" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/waitress_serve.py" timestamp="1511811259588">
-        <mark key="'" line="8" column="28" />
+      <file name="restClient/response33.txt" timestamp="1511996930699">
+        <mark key="[" line="0" column="1089" />
+        <mark key="]" line="0" column="1090" />
+        <mark key="." line="0" column="1090" />
+        <mark key="^" line="0" column="1090" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/waitress_serve.py" timestamp="1511994726168">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="8" column="30" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" timestamp="1511894233736">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="14" />
-        <mark key="^" line="27" column="14" />
-        <mark key="." line="27" column="14" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" timestamp="1511993936705">
+        <mark key="a" line="24" column="39" />
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/DRG_mock_data_generator/rv_mapping.py" timestamp="1495639423974">
         <mark key="'" line="56" column="0" />
@@ -230,11 +235,11 @@
         <mark key="." line="19" column="8" />
         <mark key="^" line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/configuration.py" timestamp="1511893252966">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/configuration.py" timestamp="1511997466497">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511978229821">
         <mark key="'" line="11" column="2" />
@@ -266,16 +271,12 @@
       <file name="/Python Console" timestamp="1511804025339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1511811290231">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/predict/requirements.txt" timestamp="1511811013574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="19" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1511998545156">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/df-plexer.py" timestamp="1511353879622">
         <mark key="'" line="20" column="0" />
@@ -283,11 +284,6 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/requirements.txt" timestamp="1511811004395">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
         <mark key="[" line="5" column="39" />
@@ -299,11 +295,6 @@
         <mark key="'" line="9" column="3" />
         <mark key="[" line="9" column="3" />
         <mark key="]" line="67" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/__init__.py" timestamp="1511473654603">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/predict/forecast/predict.py" timestamp="1511811283447">
         <mark key="'" line="78" column="16" />
@@ -360,16 +351,14 @@
         <mark key="^" line="180" column="4" />
         <mark key="." line="180" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/claims_generated.csv" timestamp="1492586154579">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/__init__.py" timestamp="1502485740527">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="restClient/response39.txt" timestamp="1511997643642">
+        <mark key="[" line="0" column="1089" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/__init__.py" timestamp="1511808765827">
         <mark key="[" line="0" column="0" />
@@ -436,6 +425,11 @@
         <mark key="^" line="178" column="5" />
         <mark key="." line="180" column="0" />
       </file>
+      <file name="restClient/response38.txt" timestamp="1511997627026">
+        <mark key="[" line="0" column="1089" />
+        <mark key="]" line="0" column="1089" />
+        <mark key="." line="0" column="1089" />
+      </file>
       <file name="/R Console" timestamp="1494948791281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -453,11 +447,11 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1511807744842">
-        <mark key="'" line="54" column="18" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1511994256691">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="70" />
+        <mark key="." line="22" column="61" />
         <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/environment.yml" timestamp="1510097860599">
@@ -492,11 +486,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp/00_install_dependencies.R" timestamp="1494949679873">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1498586158775">
         <mark key="[" line="0" column="0" />
       </file>
@@ -508,22 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="7" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="75" column="30" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
-      <jump line="113" column="44" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="112" column="100" filename="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" />
-      <jump line="23" column="20" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
-      <jump line="44" column="49" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
-      <jump line="46" column="34" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
-      <jump line="48" column="37" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
-      <jump line="7" column="3" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
-      <jump line="16" column="3" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
       <jump line="43" column="17" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
@@ -549,7 +522,6 @@
       <jump line="10" column="5" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/log_init.py" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/log_init.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/log_init.py" />
-      <jump line="3" column="26" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="5" column="28" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/waitress_serve.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="20" column="55" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
@@ -579,7 +551,6 @@
       <jump line="63" column="36" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="10" column="7" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="13" column="40" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="25" column="23" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/configuration.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
@@ -608,113 +579,73 @@
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="10" column="2" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
+      <jump line="18" column="32" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
+      <jump line="47" column="15" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
+      <jump line="17" column="23" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
+      <jump line="0" column="15" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
+      <jump line="24" column="15" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
+      <jump line="32" column="29" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="38" column="28" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="52" column="39" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="3" column="14" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/waitress_serve.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/waitress_serve.py" />
+      <jump line="45" column="22" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>BrokenPipeError</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXBlYXRlZCBzdHJpbmcgY29sdW1ucyA9IDE7Cg==</text>
+        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>double PrecioOfertaPromInf = 2;
-  double PrecioOfertaMinInf = 3;
-  double PrecioOfertaMaxInf = 4;
-  double PrecioNormalMNInf = 5;
-  double NroTipoOfertas = 6;
-  double NroTipoOfertasCatalogo = 7;
-  double NroTipoOfertasRevista = 8;
-  double ExposicionMin = 9;
-  double ExposicionMax = 10;
-  double ExposicionTotal = 11;
-  double MaxDescuento = 12;
-  double FlagDescuentoMayor60 = 13;
-  double FlagDescuentoMayor70 = 14;
-  double MaxDescuentoRevista = 15;
-  double MaxDescuentoCatalogo = 16;
-  double FactorDemoCatalogo = 17;
-  double FlagMaxDescuentoRevista = 18;
-  double UbicacionCaratula = 19;
-  double UbicacionContracaratula = 20;
-  double UbicacionPoster = 21;
-  double UbicacionInserto = 22;
-  double UbicacionPrimeraPagina = 23;
-  double UbicacionOtros = 24;
-  double LadoDerecho = 25;
-  double LadoAmbos = 26;
-  double LadoIzquierdo = 27;
-  double NroPaginas = 28;
-  double FotoProducto = 29;
-  double FotoModelo = 30;
-  double FlagDiscover = 31;
-  double FlagTacticaMacro = 32;
-  double FlagTacticaDetallada = 33;
-  double FlagDiaPadre = 34;
-  double FlagDiaMadre = 35;
-  double FlagNavidad = 36;
-  double FlagC01 = 37;
-  double FlagC02 = 38;
-  double FlagRegalo = 39;
-  double TO_003_OfertaConsultora = 40;
-  double TO_007_Apoyados = 41;
-  double TO_008_Especiales = 42;
-  double TO_011_OfertasPrincipales = 43;
-  double TO_013_Especiales = 44;
-  double TO_014_BloquePosterContra = 45;
-  double TO_015_Especiales = 46;
-  double TO_017_Especiales = 47;
-  double TO_018_Especiales = 48;
-  double TO_019_RestoLinea = 49;
-  double TO_029_OfertaConsultora = 50;
-  double TO_033_PromocionPropia = 51;
-  double TO_035_FechasEspeciales = 52;
-  double TO_036_FechasEspeciales = 53;
-  double TO_043_Especiales = 54;
-  double TO_048_OfertaConsultora = 55;
-  double TO_049_OfertaConsultora = 56;
-  double TO_060_OfertaConsultora = 57;
-  double TO_106_Oferta1x2x3x = 58;
-  double TO_116_PromocionInsuperable = 59;
-  double TO_123_OfertaConsultora = 60;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nLmRlYnVnKCJMb2FkZWQgYWxsIHBhY2thZ2VzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGZhbGNvbi5IVFRQQmFkUmVxdWVzdCgiVW5hYmxlIHRvIGdldCBhIHJlc3BvbnNlIiwgZGVzY3JpcHRpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmVycm9yKGV4KQogICAgICAgICAgICAgICAgZGVzY3JpcHRpb24gPSAoIlVuYWJsZSB0byBwcmVkaWN0IGZvciAlcyAlcyAlcyIgJSAoa1swXSwga1sxXSwga1syXSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search encoding="base64">XDxsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
       <last-replace encoding="base64">ID0g</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -722,8 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log_init</entry>
-        <entry encoding="base64">XDxkZW11bHRpcGxleGVyXD4=</entry>
         <entry>req</entry>
         <entry encoding="base64">XDxtdWx0aXBsZXhlclw+</entry>
         <entry>'</entry>
@@ -735,13 +664,15 @@
         <entry>PredictionServer</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry>&quot;</entry>
         <entry>:.*^</entry>
         <entry>:.*$</entry>
         <entry encoding="base64">XiAgICA=</entry>
         <entry>^</entry>
         <entry>$</entry>
+        <entry encoding="base64">XDxTdHJpbmdJT1w+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vICAgIC8=</entry>
