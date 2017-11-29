@@ -236,9 +236,9 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511914296885">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="9" column="9" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" timestamp="1511975063152">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
@@ -604,10 +604,10 @@
       <jump line="52" column="19" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
       <jump line="9" column="3" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
-      <jump line="10" column="4" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="68" column="31" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
+      <jump line="10" column="2" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -680,29 +680,87 @@
   &quot;TO_116_PromocionInsuperable&quot;: [0, 0, 0, 0],
   &quot;TO_123_OfertaConsultora&quot;: [0, 0, 0, 0]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>double PrecioOfertaPromInf = 2;
+  double PrecioOfertaMinInf = 3;
+  double PrecioOfertaMaxInf = 4;
+  double PrecioNormalMNInf = 5;
+  double NroTipoOfertas = 6;
+  double NroTipoOfertasCatalogo = 7;
+  double NroTipoOfertasRevista = 8;
+  double ExposicionMin = 9;
+  double ExposicionMax = 10;
+  double ExposicionTotal = 11;
+  double MaxDescuento = 12;
+  double FlagDescuentoMayor60 = 13;
+  double FlagDescuentoMayor70 = 14;
+  double MaxDescuentoRevista = 15;
+  double MaxDescuentoCatalogo = 16;
+  double FactorDemoCatalogo = 17;
+  double FlagMaxDescuentoRevista = 18;
+  double UbicacionCaratula = 19;
+  double UbicacionContracaratula = 20;
+  double UbicacionPoster = 21;
+  double UbicacionInserto = 22;
+  double UbicacionPrimeraPagina = 23;
+  double UbicacionOtros = 24;
+  double LadoDerecho = 25;
+  double LadoAmbos = 26;
+  double LadoIzquierdo = 27;
+  double NroPaginas = 28;
+  double FotoProducto = 29;
+  double FotoModelo = 30;
+  double FlagDiscover = 31;
+  double FlagTacticaMacro = 32;
+  double FlagTacticaDetallada = 33;
+  double FlagDiaPadre = 34;
+  double FlagDiaMadre = 35;
+  double FlagNavidad = 36;
+  double FlagC01 = 37;
+  double FlagC02 = 38;
+  double FlagRegalo = 39;
+  double TO_003_OfertaConsultora = 40;
+  double TO_007_Apoyados = 41;
+  double TO_008_Especiales = 42;
+  double TO_011_OfertasPrincipales = 43;
+  double TO_013_Especiales = 44;
+  double TO_014_BloquePosterContra = 45;
+  double TO_015_Especiales = 46;
+  double TO_017_Especiales = 47;
+  double TO_018_Especiales = 48;
+  double TO_019_RestoLinea = 49;
+  double TO_029_OfertaConsultora = 50;
+  double TO_033_PromocionPropia = 51;
+  double TO_035_FechasEspeciales = 52;
+  double TO_036_FechasEspeciales = 53;
+  double TO_043_Especiales = 54;
+  double TO_048_OfertaConsultora = 55;
+  double TO_049_OfertaConsultora = 56;
+  double TO_060_OfertaConsultora = 57;
+  double TO_106_Oferta1x2x3x = 58;
+  double TO_116_PromocionInsuperable = 59;
+  double TO_123_OfertaConsultora = 60;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gcmVxdWVzdHMucG9zdCgnaHR0cDovLzEyNy4wLjAuMTo4MDAwL2ZvcmVjYXN0JywgZGF0YT10c3RfcGFjaywgaGVhZGVycz17J21lZGlhX3R5cGUnOiAnYXBwbGljYXRpb24vbXNncGFjayd9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlByZWRpY3RpbmcgZm9yIFNLVTogJXMgQ291bnRyeSAlcyBDYXRlZ29yeSAlcyB3aXRoIGRhdGEgZGltICVzLCAlcyIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3dhaXRyZXNzJykK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3dhaXRyZXNzJykK</text>
