@@ -104,11 +104,12 @@
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1512061933852">
-        <mark key="'" line="48" column="15" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1512067567157">
+        <mark key="'" line="68" column="46" />
+        <mark key="[" line="67" column="49" />
+        <mark key="]" line="67" column="49" />
+        <mark key="." line="67" column="49" />
+        <mark key="^" line="67" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/demandforecast/ForecastModel.py" timestamp="1500655965458">
         <mark key="'" line="99" column="6" />
@@ -397,7 +398,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511892892804">
+      <file name="/Dummy.txt" timestamp="1512067388021">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -494,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="30" column="4" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
       <jump line="94" column="18" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/logic.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/log_init.py" />
       <jump line="10" column="5" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/log_init.py" />
@@ -517,7 +516,6 @@
       <jump line="33" column="82" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
       <jump line="59" column="14" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="60" column="49" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="8" column="26" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="54" column="18" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
       <jump line="63" column="36" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
@@ -566,12 +564,9 @@
       <jump line="45" column="22" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="4" column="18" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="53" column="26" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="46" column="34" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="57" column="37" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="52" column="23" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="50" column="65" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="52" column="60" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
@@ -588,61 +583,67 @@
       <jump line="2" column="7" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="25" column="12" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="7" column="10" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="70" column="49" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="47" column="12" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="48" column="15" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="18" column="54" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="52" column="12" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="53" column="49" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="54" column="31" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="9" column="35" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="60" column="12" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="68" column="46" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0c19yZXNwXD4=</text>
+        <text encoding="base64">XDxmbmxfcHJlZGljdGlvbnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>requests_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoInRyeWluZyB0byBtdWx0aXBsZXgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZyhwcmVkaWN0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiYm9keSB0byBzZW5kICVzIiAlIGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImNvbnZlcnRlZCB0byAlcyIsIGRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoInNlbmRpbmcgJXMiLCBkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiYm9keSB0byBzZW5kICVzIiAlIGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImdvdCByZXNwICVzIiAlIHJlcXVlc3RzX3Jlc3AudGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICByZXNwLmJvZHkgPSBqc29uLmR1bXBzKFt7J2hlbGxvJzond29ybGQnfV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImdvdCByZXNwICVzIiAlIHJlcXVlc3RzX3Jlc3AudGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoInRyeWluZyB0byBtdWx0aXBsZXgiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiYm9keSB0byBzZW5kICVzIiAlIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZyhwcmVkaWN0aW9ucykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLmNvbnRlbnRfdHlwZSA9IGZhbGNvbi5NRURJQV9NU0dQQUNLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImNvbnZlcnRlZCB0byAlcyIsIGRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiYm9keSB0byBzZW5kICVzIiAlIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoInNlbmRpbmcgJXMiLCBkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0c19yZXNwXD4=</last-search>
+      <last-search encoding="base64">XDxmbmxfcHJlZGljdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0c19yZXNwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmbmxfcHJlZGljdGlvbnNcPg==</last-pattern>
       <last-replace encoding="base64">ID0g</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -650,9 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry>PredictionServer</entry>
-        <entry>logger</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>&quot;</entry>
         <entry>:.*^</entry>
@@ -670,6 +668,9 @@
         <entry>msgpack</entry>
         <entry encoding="base64">XDxyZXNwXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c19yZXNwXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxtdWx0aXBsZXhlclw+</entry>
+        <entry encoding="base64">XDxmbmxfcHJlZGljdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/refreshCache/refresh_cache/g</entry>
@@ -689,8 +690,8 @@
         <entry encoding="base64">JzwsJz5zL14vPSAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvPS9n</entry>
         <entry encoding="base64">JzwsJz5zLyQvID0gL2c=</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -741,6 +742,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
