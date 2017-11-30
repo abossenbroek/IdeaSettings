@@ -300,11 +300,11 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" timestamp="1512074395238">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" timestamp="1512075747480">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="33" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -587,13 +587,13 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pd.concat(predictions)</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>Pred</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiUHJlZGljdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygicnVubmluZyB1bnRpbCBjb21wbGV0ZSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IFtdCg==</text>
