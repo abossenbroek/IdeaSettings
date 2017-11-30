@@ -300,11 +300,11 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" timestamp="1512072639892">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" timestamp="1512074395238">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_mock_data_generator.py" timestamp="1490627885971">
         <mark key="'" line="10" column="0" />
@@ -596,32 +596,32 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiUHJlZGljdCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IFtdCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgaywgZCBpbiB6aXAoa2V5cywgZGF0YSk6CiAgICAgICAgICAgIHVybCA9CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJzZW5kaW5nICVzIiwgZCkKICAgICAgICAgICAgcmVxdWVzdHNfcmVzcCA9IHJlcXVlc3RzLmdldCh1cmwsIGRhdGE9ZCkKICAgICAgICAgICAgaWYgcmVxdWVzdHNfcmVzcC5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiA9ICgiVW5hYmxlIHRvIHByZWRpY3QgZm9yICVzICVzICVzIiAlIChrWzBdLCBrWzFdLCBrWzJdKSkKICAgICAgICAgICAgICAgIHJhaXNlIGZhbGNvbi5IVFRQSW50ZXJuYWxTZXJ2ZXJFcnJvcigiQ291bGQgbm90IGdldCBhIHJlc3BvbnNlIGZyb20gdGhlIHNlcnZlciIsIGRlc2NyaXB0aW9uKQoKICAgICAgICAgICAgZGF0YSA9IHBkLnJlYWRfY3N2KFN0cmluZ0lPKHJlcXVlc3RzX3Jlc3AudGV4dCksIGhlYWRlcj1Ob25lKQogICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiY29udmVydGVkIHRvICVzIiwgZGF0YSkKICAgICAgICAgICAgcHJlZGljdGlvbnMuYXBwZW5kKGRhdGEpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHN0cihrWzBdKSArICIvIiArIHN0cihrWzFdKSArICIvIiArIHN0cihrWzJdKSkgZm9yIGsgaW4ga2V5c10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCJodHRwOi8vIiArICArICI6IiArIHN0cigpICsgIi9mb3JlY2FzdC8iICsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgaywgZCBpbiB6aXAoa2V5cywgZGF0YSk6CiAgICAgICAgICAgIHVybCA9CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJzZW5kaW5nICVzIiwgZCkKICAgICAgICAgICAgcmVxdWVzdHNfcmVzcCA9IHJlcXVlc3RzLmdldCh1cmwsIGRhdGE9ZCkKICAgICAgICAgICAgaWYgcmVxdWVzdHNfcmVzcC5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiA9ICgiVW5hYmxlIHRvIHByZWRpY3QgZm9yICVzICVzICVzIiAlIChrWzBdLCBrWzFdLCBrWzJdKSkKICAgICAgICAgICAgICAgIHJhaXNlIGZhbGNvbi5IVFRQSW50ZXJuYWxTZXJ2ZXJFcnJvcigiQ291bGQgbm90IGdldCBhIHJlc3BvbnNlIGZyb20gdGhlIHNlcnZlciIsIGRlc2NyaXB0aW9uKQoKICAgICAgICAgICAgZGF0YSA9IHBkLnJlYWRfY3N2KFN0cmluZ0lPKHJlcXVlc3RzX3Jlc3AudGV4dCksIGhlYWRlcj1Ob25lKQogICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiY29udmVydGVkIHRvICVzIiwgZGF0YSkKICAgICAgICAgICAgcHJlZGljdGlvbnMuYXBwZW5kKGRhdGEpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>(&quot;http://&quot; + configuration.RPC_SERVER + &quot;:&quot; + str(configuration.RPC_PORT) + &quot;/forecast/&quot; +
-                   str(k[0]) + &quot;/&quot; + str(k[1]) + &quot;/&quot; + str(k[2]))</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHN0cihrWzBdKSArICIvIiArIHN0cihrWzFdKSArICIvIiArIHN0cihrWzJdKSkgZm9yIGsgaW4ga2V5c10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJodHRwOi8vIiArICArICI6IiArIHN0cigpICsgIi9mb3JlY2FzdC8iICsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>(&quot;http://&quot; + configuration.RPC_SERVER + &quot;:&quot; + str(configuration.RPC_PORT) + &quot;/forecast/&quot; +
+                   str(k[0]) + &quot;/&quot; + str(k[1]) + &quot;/&quot; + str(k[2]))</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
