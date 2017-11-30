@@ -269,7 +269,7 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1512000607612">
+      <file name="/Python Console" timestamp="1512002946293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="118" />
         <mark key="^" line="0" column="119" />
@@ -451,12 +451,12 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1512002756866">
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1512003065931">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="60" column="63" />
-        <mark key="]" line="60" column="64" />
-        <mark key="." line="60" column="64" />
-        <mark key="^" line="60" column="64" />
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/environment.yml" timestamp="1510097860599">
         <mark key="[" line="9" column="19" />
@@ -607,7 +607,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>to_array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVkaWN0aW9uc1w+</text>
@@ -616,31 +616,31 @@
         <text encoding="base64">ICAgIGxvZy5kZWJ1ZygidG9fYXJyYXk6ICVzIiAlIGtleXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGtleXMgPSBrZXlzLnRyYW5zcG9zZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvX2FycmF5ID0gW3RvX2FycmF5W3g6eCtsZW4oa2V5X25hbWVzKV0gZm9yIHggaW4gcmFuZ2UoMCwgbGVuKHRvX2FycmF5KSwgbGVuKGtleV9uYW1lcykpXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvX2FycmF5ID0gW2xbaV0gZm9yIGkgaW4gcmFuZ2UobGVuKGtleV9uYW1lcykpIGZvciBsIGluIGtleXNdCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRvX2FycmF5ID0gW3RvX2FycmF5W3g6eCtsZW4oa2V5X25hbWVzKV0gZm9yIHggaW4gcmFuZ2UoMCwgbGVuKHRvX2FycmF5KSwgbGVuKGtleV9uYW1lcykpXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRvX2FycmF5ID0gW2xbaV0gZm9yIGkgaW4gcmFuZ2UobGVuKGtleV9uYW1lcykpIGZvciBsIGluIGtleXNdCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLm11bHRpcGxleGVyIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImRvbmUgbXVsdGlwbGV4aW5nIikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLm11bHRpcGxleGVyIikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImRvbmUgbXVsdGlwbGV4aW5nIikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
