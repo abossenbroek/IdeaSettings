@@ -99,6 +99,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/gunicorn.conf.py" timestamp="1512333647501">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/simple_serve.py" timestamp="1512078614318">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="14" />
@@ -163,7 +166,6 @@
         <mark key="^" line="88" column="66" />
         <mark key="." line="88" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/.venv/Lib/site-packages/falcon/api.py" timestamp="1512061563344" />
       <file name="restClient/response33.txt" timestamp="1511996930699">
         <mark key="[" line="0" column="1089" />
         <mark key="]" line="0" column="1090" />
@@ -385,6 +387,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" timestamp="1512333663099">
+        <mark key="'" line="113" column="24" />
+        <mark key="]" line="0" column="66" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="0" column="66" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1494948355061">
         <mark key="[" line="0" column="0" />
       </file>
@@ -523,12 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="19" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
-      <jump line="9" column="3" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/multi_request.json" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
-      <jump line="68" column="31" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="10" column="2" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/prediction.proto" />
       <jump line="18" column="32" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/PredictionServer.py" />
@@ -623,6 +625,12 @@
       <jump line="26" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
       <jump line="38" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
       <jump line="5" column="6" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
+      <jump line="11" column="30" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/gunicorn.conf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/gunicorn.conf.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
+      <jump line="113" column="24" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -637,32 +645,91 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZXgpCiAgICAgICAgICAgIGRlc2NyaXB0aW9uID0gIkRlbXVsdGlwbGV4ZXIgd2FzIHVuYWJsZSB0byBtYWtlIHNlbnNlIG9mIHRoZSBtZXNzYWdlIgogICAgICAgICAgICByYWlzZSBmYWxjb24uSFRUUEJhZFJlcXVlc3QoIkludmFsaWQgdW5wYWNrZXIiLCBkZXNjcmlwdGlvbikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
+      <register name="1" type="4">
+        <text>import multiprocessing
+
+#
+# Server socket
+#
+#   bind - The socket to bind.
+#
+#       A string of the form: 'HOST', 'HOST:PORT', 'unix:PATH'.
+#       An IP is a valid HOST.
+#
+#   backlog - The number of pending connections. This refers
+#       to the number of clients that can be waiting to be
+#       served. Exceeding this number results in the client
+#       getting an error when attempting to connect. It should
+#       only affect servers under significant load.
+#
+#       Must be a positive integer. Generally set in the 64-2048
+#       range.
+#
+
+bind = '0.0.0.0:8080'
+backlog = 2048
+
+# See http://docs.gunicorn.org/en/latest/design.html#choosing-a-worker-type
+workers = (2 * multiprocessing.cpu_count()) + 1
+worker_connections = 1000
+timeout = 20
+keepalive = 2
+
+daemon = False
+user = None
+group = None
+
+#
+# Process naming
+#
+#   proc_name - A base to use with setproctitle to change the way
+#       that Gunicorn processes are reported in the system process
+#       table. This affects things like 'ps' and 'top'. If you're
+#       going to be running more than one instance of Gunicorn you'll
+#       probably want to set a name to tell them apart. This requires
+#       that you install the setproctitle module.
+#
+#       A string or None to choose a default of something like 'gunicorn'.
+#
+
+proc_name = 'predict_server'
+
+
+#
+#   Logging
+#
+#   logfile - The path to a log file to write to.
+#
+#       A path string. &quot;-&quot; means log to stdout.
+#
+#   loglevel - The granularity of log output
+#
+#       A string of &quot;debug&quot;, &quot;info&quot;, &quot;warning&quot;, &quot;error&quot;, &quot;critical&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>commit:e4d404
+Adds gunicorn configuration</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLmRlcGxleGVyOiBjb21wbGV0ZWQgdW5wYWNraW5nIikK</text>
+        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZyhyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLmRlcGxleGVyOiBjb21wbGV0ZWQgdW5wYWNraW5nIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLm11bHRpcGxleGVyOiBjb21wbGV0ZWQgY3JlYXRpbmcgZGljdGlvbmFyeSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiY2FsbCBkaXNwYXRjaGVyIikK</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZyhyZXN1bHRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1Zygic2V0dGluZyB1cCBsb29wIikK</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLm11bHRpcGxleGVyOiBjb21wbGV0ZWQgY3JlYXRpbmcgZGljdGlvbmFyeSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiZGF0YTogJXMiLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiY2FsbCBkaXNwYXRjaGVyIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
