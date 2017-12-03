@@ -279,12 +279,12 @@
         <mark key="^" line="0" column="119" />
         <mark key="." line="0" column="118" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1512089850520">
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1512339316815">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="/fragment.py" timestamp="1512328470256">
         <mark key="[" line="0" column="0" />
@@ -297,9 +297,9 @@
         <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/requirements.txt" timestamp="1511811004395">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/resources/training_data/dummy_data.csv" timestamp="1492536115316">
         <mark key="[" line="5" column="39" />
@@ -446,6 +446,12 @@
         <mark key="]" line="180" column="0" />
         <mark key="^" line="178" column="5" />
         <mark key="." line="180" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/simple_serve.py" timestamp="1512339294474">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="restClient/response38.txt" timestamp="1511997627026">
         <mark key="[" line="0" column="1089" />
@@ -637,7 +643,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>PredictionServer.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkUGxleGVySW5wdXRcPg==</text>
@@ -645,7 +651,10 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZXgpCiAgICAgICAgICAgIGRlc2NyaXB0aW9uID0gIkRlbXVsdGlwbGV4ZXIgd2FzIHVuYWJsZSB0byBtYWtlIHNlbnNlIG9mIHRoZSBtZXNzYWdlIgogICAgICAgICAgICByYWlzZSBmYWxjb24uSFRUUEJhZFJlcXVlc3QoIkludmFsaWQgdW5wYWNrZXIiLCBkZXNjcmlwdGlvbikK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3dhaXRyZXNzJykK</text>
+      </register>
+      <register name="2" type="4">
         <text>import multiprocessing
 
 #
@@ -706,30 +715,27 @@ proc_name = 'predict_server'
 #
 #       A string of &quot;debug&quot;, &quot;info&quot;, &quot;warning&quot;, &quot;error&quot;, &quot;critical&quot;</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>commit:e4d404
 Adds gunicorn configuration</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLmRlcGxleGVyOiBjb21wbGV0ZWQgdW5wYWNraW5nIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLmRlcGxleGVyOiBjb21wbGV0ZWQgdW5wYWNraW5nIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZyhyZXN1bHRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLm11bHRpcGxleGVyOiBjb21wbGV0ZWQgY3JlYXRpbmcgZGljdGlvbmFyeSIpCg==</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZyhyZXN1bHRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiY2FsbCBkaXNwYXRjaGVyIikK</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygicGxleGVyLm11bHRpcGxleGVyOiBjb21wbGV0ZWQgY3JlYXRpbmcgZGljdGlvbmFyeSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
