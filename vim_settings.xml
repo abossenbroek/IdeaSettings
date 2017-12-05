@@ -207,12 +207,13 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" timestamp="1512414937554">
-        <mark key="a" line="33" column="69" />
-        <mark key="[" line="17" column="66" />
-        <mark key="]" line="17" column="66" />
-        <mark key="^" line="17" column="64" />
-        <mark key="." line="17" column="66" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" timestamp="1512433424090">
+        <mark key="a" line="35" column="69" />
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/DRG_increased_severity_generator.py" timestamp="1488207649323">
         <mark key="'" line="0" column="0" />
@@ -263,12 +264,12 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="75" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1512413991223">
-        <mark key="'" line="58" column="18" />
-        <mark key="[" line="56" column="95" />
-        <mark key="]" line="56" column="96" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="56" column="96" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" timestamp="1512433277485">
+        <mark key="'" line="56" column="33" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="49" />
+        <mark key="^" line="23" column="73" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Dockerfile" timestamp="1512418607125">
         <mark key="[" line="34" column="11" />
@@ -294,12 +295,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/test_request.py" timestamp="1512413313842">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="68" />
-        <mark key="." line="6" column="68" />
-        <mark key="^" line="6" column="68" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/test_request.py" timestamp="1512432499449">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/Dockerfile" timestamp="1512419721780">
         <mark key="^" line="0" column="29" />
@@ -310,8 +311,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1512413560893">
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" timestamp="1512433469533">
+        <mark key="'" line="51" column="69" />
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="52" column="61" />
+        <mark key="." line="52" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/configuration.py" timestamp="1511296828841">
         <mark key="[" line="0" column="0" />
@@ -385,6 +389,17 @@
         <mark key="]" line="8" column="47" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="14" column="44" />
+      </file>
+      <file name="C:/Program Files/Python36/Lib/wsgiref/simple_server.py" timestamp="1512432154582">
+        <mark key="'" line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" timestamp="1512432889707">
+        <mark key="a" line="21" column="69" />
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/df-plexer.py" timestamp="1511353879622">
         <mark key="'" line="20" column="0" />
@@ -530,24 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
-      <jump line="5" column="6" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
-      <jump line="11" column="30" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/gunicorn.conf.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/gunicorn.conf.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
-      <jump line="113" column="24" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/gunicorn.conf.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/gunicorn.conf.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="21" column="32" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="48" column="31" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="55" column="61" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="69" column="71" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="72" column="22" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="11" column="32" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="60" column="55" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/restapi/views.py" />
@@ -630,34 +627,52 @@
       <jump line="43" column="2" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/Dockerfile" />
       <jump line="35" column="9" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/Dockerfile" />
       <jump line="22" column="16" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/Dockerfile" />
+      <jump line="66" column="0" filename="C:/Program Files/Python36/Lib/wsgiref/simple_server.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/test_request.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/test_requests/test_request.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
+      <jump line="21" column="57" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="54" column="66" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="41" column="23" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
+      <jump line="40" column="24" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="51" column="69" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="48" column="39" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="44" column="61" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="43" column="40" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="23" column="23" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
+      <jump line="56" column="33" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/plexer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/phusion/baseimage-docker/blob/master/Changelog.md</text>
+        <text>, CAMPAIGN_ID</text>
       </register>
       <register name="/" type="4">
-        <text>iloc</text>
+        <text encoding="base64">XDxrZXlfbmFtZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGRlbWFuZGZvcmVjYXN0aW5nLXJlc3QgJiAvb3B0L2NvbmRhL2VudnMvZGVtYW5kZm9yZWNhc3RpbmctcmVzdC9iaW4vZ3VuaWNvcm4gXAogIC0tY29uZmlnIC9yZXN0YXBpL2d1bmljb3JuX2NvbmZpZy5weSBcCiAgLS1hY2Nlc3MtbG9nZmlsZSAvdmFyL2xvZy9ndW5pY29ybi9hY2Nlc3NfbG9nIFwKICAtLWVycm9yLWxvZ2ZpbGUgL3Zhci9sb2cvZ3VuaWNvcm4vZXJyb3JfbG9nIHJlc3RhcGk6YXBw</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TEFCRUwgc3RhZ2UuZGVzY3JpcHRpb249Ikluc3RhbGwgdGluaSBhIHRpbmkgaW5pdCBzZXJ2aWNlIgpMQUJFTCBzdGFnZS52ZXJzaW9uPSIyIgpSVU4gYXB0LWdldCBpbnN0YWxsIC15IGN1cmwgZ3JlcCBzZWQgZHBrZyAmJiBcCiAgICBUSU5JX1ZFUlNJT049YGN1cmwgaHR0cHM6Ly9naXRodWIuY29tL2tyYWxsaW4vdGluaS9yZWxlYXNlcy9sYXRlc3QgfCBncmVwIC1vICIvdi4qXCIiIHwgc2VkICdzOl4uLlwoLipcKS4kOlwxOidgICYmIFwKICAgIGN1cmwgLUwgImh0dHBzOi8vZ2l0aHViLmNvbS9rcmFsbGluL3RpbmkvcmVsZWFzZXMvZG93bmxvYWQvdiR7VElOSV9WRVJTSU9OfS90aW5pXyR7VElOSV9WRVJTSU9OfS5kZWIiID4gdGluaS5kZWIgJiYgXAogICAgZHBrZyAtaSB0aW5pLmRlYiAmJiBcCiAgICBybSB0aW5pLmRlYiAmJiBcCiAgICBhcHQtZ2V0IGNsZWFuCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMudXBkYXRlKHtQUkVESUNUSU9OX0tFWTogcHJlZGljdGlvbnN9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtc2dwYWNrLnVucGFja2IocmVzcC50ZXh0KSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">TEFCRUwgc3RhZ2UuZGVzY3JpcHRpb249Ikluc3RhbGwgdGluaSBhIHRpbmkgaW5pdCBzZXJ2aWNlIgpMQUJFTCBzdGFnZS52ZXJzaW9uPSIyIgpSVU4gYXB0LWdldCBpbnN0YWxsIC15IGN1cmwgZ3JlcCBzZWQgZHBrZyAmJiBcCiAgICBUSU5JX1ZFUlNJT049YGN1cmwgaHR0cHM6Ly9naXRodWIuY29tL2tyYWxsaW4vdGluaS9yZWxlYXNlcy9sYXRlc3QgfCBncmVwIC1vICIvdi4qXCIiIHwgc2VkICdzOl4uLlwoLipcKS4kOlwxOidgICYmIFwKICAgIGN1cmwgLUwgImh0dHBzOi8vZ2l0aHViLmNvbS9rcmFsbGluL3RpbmkvcmVsZWFzZXMvZG93bmxvYWQvdiR7VElOSV9WRVJTSU9OfS90aW5pXyR7VElOSV9WRVJTSU9OfS5kZWIiID4gdGluaS5kZWIgJiYgXAogICAgZHBrZyAtaSB0aW5pLmRlYiAmJiBcCiAgICBybSB0aW5pLmRlYiAmJiBcCiAgICBhcHQtZ2V0IGNsZWFuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q01EIFsgInB5dGhvbiIsICJhcHAucHkiIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -666,34 +681,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsgInB5dGhvbiIsICJhcHAucHkiIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WyAiL3Vzci9iaW4vdGluaSIsICItLSIgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iloc</last-search>
+      <last-search encoding="base64">XDxrZXlfbmFtZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>iloc</last-pattern>
-      <last-replace>status_code</last-replace>
-      <last-substitute>status</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxrZXlfbmFtZXNcPg==</last-pattern>
+      <last-replace>CAMPAIGN_ID</last-replace>
+      <last-substitute>YEARCAMPAIGN_KEY</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PredictionServer</entry>
-        <entry encoding="base64">XDxIVFRQRXhjZXB0aW9uXD4=</entry>
-        <entry encoding="base64">XDxhYm9ydFw+</entry>
-        <entry encoding="base64">XDxyZXBvbnNlX2JvZHlcPg==</entry>
-        <entry>str</entry>
-        <entry>Reponsde</entry>
-        <entry encoding="base64">XDxSZXNwb25kZXJcPg==</entry>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxQcmVkaWN0aW9uQXBpXD4=</entry>
         <entry>config</entry>
         <entry>confg</entry>
@@ -706,10 +713,16 @@
         <entry>Unable to unpack</entry>
         <entry>iloc[1</entry>
         <entry>iloc</entry>
+        <entry>Anio</entry>
+        <entry encoding="base64">XDx5ZWFyX2NhbXBhaWduXD4=</entry>
+        <entry>:3</entry>
+        <entry>year_campaign</entry>
+        <entry>url</entry>
+        <entry>YEARCAMPAIGN_KEY</entry>
+        <entry encoding="base64">XDxDQU1QQUlHTl9JRFw+</entry>
+        <entry encoding="base64">XDxrZXlfbmFtZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/models_forecast/model_forecast/g</entry>
-        <entry encoding="base64">JzwsJz5zL1VTRVIvSURDQUxML2c=</entry>
         <entry encoding="base64">JzwsJz5zLzAsIDAvMCwgMCwgMCwgMC9n</entry>
         <entry>wa</entry>
         <entry>%s/idcall/id_call/g</entry>
@@ -727,6 +740,8 @@
         <entry>tabe InvalidUsage.py</entry>
         <entry>%s/status/status_code/g</entry>
         <entry>q</entry>
+        <entry>%s/year_campaign/campaign_id/g</entry>
+        <entry>%s/YEARCAMPAIGN_KEY/CAMPAIGN_ID/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
