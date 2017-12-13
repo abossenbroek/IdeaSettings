@@ -92,7 +92,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" timestamp="1513126447956">
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" timestamp="1513197730281">
+        <mark key="'" line="1" column="22" />
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="40" />
         <mark key="." line="3" column="28" />
@@ -432,7 +433,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/.auto.tfvars" timestamp="1513129016130" />
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/.auto.tfvars" timestamp="1513197741286">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="59" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+        <mark key="^" line="1" column="58" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492536629662">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="39" />
@@ -532,10 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="83" column="15" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="2" column="43" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="14" column="58" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/simple_serve.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
       <jump line="98" column="24" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
@@ -632,16 +635,20 @@
       <jump line="66" column="10" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/.gitignore" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/.auto.tfvars" />
+      <jump line="3" column="15" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/.auto.tfvars" />
+      <jump line="1" column="22" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;aws_spot_instance_request&quot;</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>req.data</text>
+        <text encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;${env(&quot;AWS_ACCESS_KEY&quot;)}&quot;</text>
@@ -685,9 +692,9 @@
       </register>
     </registers>
     <search>
-      <last-search>req.data</last-search>
+      <last-search encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</last-search>
       <last-offset />
-      <last-pattern>req.data</last-pattern>
+      <last-pattern encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</last-pattern>
       <last-replace>CAMPAIGN_ID</last-replace>
       <last-substitute>YEARCAMPAIGN_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -695,8 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>8080</entry>
-        <entry encoding="base64">XDxmbGFza1w+</entry>
         <entry encoding="base64">XDxJbnZhbGlkVXNhZ2VcPg==</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxVbmFibGVcPg==</entry>
@@ -715,6 +720,8 @@
         <entry>forecast.models</entry>
         <entry>msgpack</entry>
         <entry>req.data</entry>
+        <entry encoding="base64">XDxBV1NfQUNDRVNTX0tFWVw+</entry>
+        <entry encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzAsIDAvMCwgMCwgMCwgMC9n</entry>
