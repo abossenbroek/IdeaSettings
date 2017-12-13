@@ -66,9 +66,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512394869399">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_model_predict/forecast/datasource.py" timestamp="1511735094060">
         <mark key="'" line="112" column="100" />
         <mark key="[" line="20" column="0" />
@@ -294,9 +291,6 @@
         <mark key="^" line="0" column="119" />
         <mark key="." line="0" column="118" />
       </file>
-      <file name="/fragment.py" timestamp="1512413722844">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df-plexer/df-plexer.py" timestamp="1511353879622">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="4" column="23" />
@@ -310,11 +304,11 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/ecs_spot_instance.tf" timestamp="1513126163700">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="0" column="57" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/ecs_spot_instance.tf" timestamp="1513128584419">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/app.py" timestamp="1511893280273">
         <mark key="'" line="7" column="26" />
@@ -378,9 +372,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="60" column="0" />
       </file>
-      <file name="restClient/response39.txt" timestamp="1511997643642">
-        <mark key="[" line="0" column="1089" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/__init__.py" timestamp="1502485740527">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -395,9 +386,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1494948355061">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Tutorials/dl4j-timeseries/class_labs/training-labs/src/main/java/ai/skymind/training/labs/DataVecLab.java" timestamp="1498511141835">
         <mark key="'" line="157" column="8" />
@@ -444,6 +432,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/.auto.tfvars" timestamp="1513129016130" />
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492536629662">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="39" />
@@ -469,9 +458,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="/R Console" timestamp="1494948791281">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tutorials/class_labs/training-labs/pom.xml" timestamp="1498586720303">
         <mark key="'" line="48" column="25" />
@@ -537,9 +523,6 @@
         <mark key="]" line="68" column="1" />
         <mark key="^" line="68" column="1" />
         <mark key="." line="68" column="1" />
-      </file>
-      <file name="/fragment.java" timestamp="1498586158775">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/GRC_Fraud_detection/Python/data_etl.py" timestamp="1492538170349">
         <mark key="[" line="0" column="0" />
@@ -655,7 +638,7 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;aws_spot_instance_request&quot;</text>
       </register>
       <register name="/" type="4">
         <text>req.data</text>
@@ -664,12 +647,30 @@
         <text>&quot;${env(&quot;AWS_ACCESS_KEY&quot;)}&quot;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBzZWN1cml0eV9ncm91cHMgPSBbInNnLWE2MTQ0Y2QzIl0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBibG9ja19kdXJhdGlvbl9taW51dGVzID0gIjM2MCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzcG90X3R5cGUgPSAib25lLXRpbWUiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzcG90X3ByaWNlICAgID0gIjAuMyIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2cGNfc2VjdXJpdHlfZ3JvdXBfaWRzID0gWyJzZy1hNDE1YWJkZiJdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwdWJsaWNfaXAgPSBmYWxzZQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHJvdmlkZXIgImF3cyIgewogIGFjY2Vzc19rZXkgPSAiJHt2YXIuYWNjZXNzX2tleX0iCiAgc2VjcmV0X2tleSA9ICIke3Zhci5zZWNyZXRfa2V5fSIKICByZWdpb249IiR7dmFyLnJlZ2lvbn0iCn0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>variable &quot;AMIS&quot; {
   type = &quot;map&quot;
   default = {
@@ -678,29 +679,6 @@
     eu-west-1 = &quot;ami-0d729a60&quot;
   }
 }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text># Compiled files
-*.tfstate
-*.tfstate.backup
-
-# Module directory
-.terraform/</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3ByZWRpY3QtcmVzdC9iaW46JFBBVEgK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3ByZWRpY3QtcmVzdC9iaW46JFBBVEgK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
