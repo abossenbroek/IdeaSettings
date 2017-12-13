@@ -95,6 +95,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" timestamp="1513126447956">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/257/src/main/java/com/bain/MedicalClaimFaultDetection/AutoEncoder.java" timestamp="1492089642464">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="12" column="0" />
@@ -143,12 +149,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/df_plexer.py" timestamp="1512403644634">
-        <mark key="a" line="58" column="26" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/vars.tf" timestamp="1513125746533">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/README.md" timestamp="1511298680788">
         <mark key="[" line="4" column="63" />
@@ -305,11 +310,11 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/ecs_spot_instance.tf" timestamp="1513124314723">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/ecs_spot_instance.tf" timestamp="1513126163700">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="0" column="57" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/app.py" timestamp="1511893280273">
         <mark key="'" line="7" column="26" />
@@ -650,19 +655,34 @@
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>instance</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>req.data</text>
       </register>
       <register name="0" type="4">
-        <text>LABEL stage.description=&quot;Install python dependencies through environment.yml&quot;
-LABEL stage.version=&quot;2&quot;</text>
+        <text>&quot;${env(&quot;AWS_ACCESS_KEY&quot;)}&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">cHJvdmlkZXIgImF3cyIgewogIGFjY2Vzc19rZXkgPSAiJHt2YXIuYWNjZXNzX2tleX0iCiAgc2VjcmV0X2tleSA9ICIke3Zhci5zZWNyZXRfa2V5fSIKICByZWdpb249IiR7dmFyLnJlZ2lvbn0iCn0K</text>
+      </register>
+      <register name="3" type="4">
+        <text>variable &quot;AMIS&quot; {
+  type = &quot;map&quot;
+  default = {
+    us-east-1 = &quot;ami-13be557e&quot;
+    us-west-2 = &quot;ami-06b94666&quot;
+    eu-west-1 = &quot;ami-0d729a60&quot;
+  }
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text># Compiled files
 *.tfstate
 *.tfstate.backup
@@ -670,26 +690,17 @@ LABEL stage.version=&quot;2&quot;</text>
 # Module directory
 .terraform/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3ByZWRpY3QtcmVzdC9iaW46JFBBVEgK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3ByZWRpY3QtcmVzdC9iaW46JFBBVEgK</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgdHJ5OgogICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleDoKICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZXgpCiAgICAgICAgICAgIGRlc2NyaXB0aW9uID0gIkNvdWxkIG5vdCB1bnBhY2sganNvbiIKICAgICAgICAgICAgcmFpc2UgZmFsY29uLkhUVFBCYWRSZXF1ZXN0KCJJbnZhbGlkIGpzb24iLCBkZXNjcmlwdGlvbikK</text>
+      <register name="7" type="2">
+        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3ByZWRpY3QtcmVzdC9iaW46JFBBVEgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9IHJlcS5tZWRpYQo=</text>
+        <text encoding="base64">RU5WIFBBVEggL29wdC9jb25kYS9lbnZzL3ByZWRpY3QtcmVzdC9iaW46JFBBVEgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHVzZXIsIGlkX2NhbGwsIG51bV9pbnB1dHMsIGtleV9uYW1lcywga2V5cywgZGVwbGV4ZWRfZGF0YSA9IGRlbXVsdGlwbGV4ZXIobXNnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
