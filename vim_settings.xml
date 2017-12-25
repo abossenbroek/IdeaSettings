@@ -286,6 +286,14 @@
       <file name="C:/Program Files/Python36/Lib/wsgiref/simple_server.py" timestamp="1512432154582">
         <mark key="'" line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" timestamp="1514227496267">
+        <mark key="a" line="30" column="21" />
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+      </file>
       <file name="/Python Console" timestamp="1512510478776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="118" />
@@ -493,11 +501,6 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/Dockerfile" timestamp="1512418607125">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="37" column="56" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Cases/Belcorp_RESTapi/app/views.py" timestamp="1507923293639">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="57" column="18" />
@@ -517,6 +520,13 @@
         <mark key="]" line="15" column="17" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" timestamp="1514227072755">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="75" column="29" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/log_init.py" timestamp="1511472699681">
         <mark key="[" line="0" column="0" />
@@ -539,34 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="58" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/simple_serve.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="98" column="24" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="28" column="6" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="36" column="17" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="32" column="6" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="76" column="31" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="13" column="16" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/simple_serve.py" />
-      <jump line="3" column="37" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="20" column="18" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/app.py" />
-      <jump line="28" column="17" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/prediction_api.py" />
-      <jump line="37" column="45" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/prediction_api.py" />
-      <jump line="29" column="52" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/prediction_api.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/configuration.py" />
-      <jump line="63" column="12" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="26" column="44" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="13" column="3" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/invalid_usage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/invalid_usage.py" />
-      <jump line="30" column="18" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
-      <jump line="24" column="50" filename="$USER_HOME$/Documents/Cases/q4rf_rpc_predict/rpc_predict/prediction_api.py" />
-      <jump line="62" column="97" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/app.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Cases/q4rf-rest-plexer/df_plexer/PredictionRequestor.py" />
@@ -639,62 +621,84 @@
       <jump line="3" column="15" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/.auto.tfvars" />
       <jump line="1" column="22" filename="$USER_HOME$/Documents/Cases/DFInfrastructure/aws_ecs/provider.tf" />
+      <jump line="12" column="21" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="31" column="92" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="46" column="11" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="52" column="63" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="9" column="2" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="28" column="64" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="180" column="22" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="141" column="46" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="75" column="46" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="104" column="48" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="107" column="48" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="37" column="11" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="55" column="30" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/vehicle.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="40" column="82" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
+      <jump line="74" column="8" filename="$USER_HOME$/Documents/Courses/CarND-cost_functions/src/cost_functions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHJweTIucmludGVyZmFjZQpycHkyLnJpbnRlcmZhY2Uuc2V0X2luaXRvcHRpb25zKCgncnB5MicsICctLXZlcmJvc2UnLCAnLS1uby1zYXZlJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>25</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</text>
+        <text encoding="base64">XDxpbnRlbmRlZF9sYW5lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;${env(&quot;AWS_ACCESS_KEY&quot;)}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvc3QgPSAxIC0gZXhwKC1mYWJzKGRlbHRhX2QpIC8gZGF0YS5lbmRfZGlzdGFuY2VfdG9fZ29hbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWN1cml0eV9ncm91cHMgPSBbInNnLWE2MTQ0Y2QzIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBibG9ja19kdXJhdGlvbl9taW51dGVzID0gIjM2MCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzcG90X3R5cGUgPSAib25lLXRpbWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcG90X3ByaWNlICAgID0gIjAuMyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlc3Rfc3RhdGUgPSBwb3NzaWJsZV9zdWNjZXNzb3Jfc3RhdGVzW2ldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2cGNfc2VjdXJpdHlfZ3JvdXBfaWRzID0gWyJzZy1hNDE1YWJkZiJdCg==</text>
+        <text encoding="base64">ICAgICAgICBiZXN0X3N0YXRlID0gTm9uZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWNfaXAgPSBmYWxzZQo=</text>
+      <register name="6" type="4">
+        <text>[Vehicle(self.lane, self.s, self.v, self.a, best_state),
+                      Vehicle(self.lane, self.position_at(1), self.v, 0, self.state)]</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJvdmlkZXIgImF3cyIgewogIGFjY2Vzc19rZXkgPSAiJHt2YXIuYWNjZXNzX2tleX0iCiAgc2VjcmV0X2tleSA9ICIke3Zhci5zZWNyZXRfa2V5fSIKICByZWdpb249IiR7dmFyLnJlZ2lvbn0iCn0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvc3RfZmluYWwgPSBkYXRhLmZpbmEK</text>
       </register>
-      <register name="9" type="4">
-        <text>variable &quot;AMIS&quot; {
-  type = &quot;map&quot;
-  default = {
-    us-east-1 = &quot;ami-13be557e&quot;
-    us-west-2 = &quot;ami-06b94666&quot;
-    eu-west-1 = &quot;ami-0d729a60&quot;
-  }
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzZWN1cml0eV9ncm91cHMgPSBbInNnLWE2MTQ0Y2QzIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</last-search>
+      <last-search encoding="base64">XDxpbnRlbmRlZF9sYW5lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlbmRlZF9sYW5lXD4=</last-pattern>
       <last-replace>CAMPAIGN_ID</last-replace>
       <last-substitute>YEARCAMPAIGN_KEY</last-substitute>
       <last-dir>1</last-dir>
@@ -702,15 +706,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbnZhbGlkVXNhZ2VcPg==</entry>
-        <entry>status</entry>
-        <entry encoding="base64">XDxVbmFibGVcPg==</entry>
-        <entry>Unable to unpack</entry>
-        <entry>iloc[1</entry>
-        <entry>iloc</entry>
-        <entry>Anio</entry>
-        <entry encoding="base64">XDx5ZWFyX2NhbXBhaWduXD4=</entry>
-        <entry>:3</entry>
         <entry>year_campaign</entry>
         <entry>url</entry>
         <entry>YEARCAMPAIGN_KEY</entry>
@@ -722,10 +717,18 @@
         <entry>req.data</entry>
         <entry encoding="base64">XDxBV1NfQUNDRVNTX0tFWVw+</entry>
         <entry encoding="base64">XDxBV1NfU0VDUkVUX0tFWVw+</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
+        <entry encoding="base64">XDxnb2FsX2Rpc3RhbmNlX2Nvc3RcPg==</entry>
+        <entry encoding="base64">XDx0cmFqZWN0b3J5X2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxmaW5hbF9sYW5lXD4=</entry>
+        <entry encoding="base64">XDxwb3NpdGlvbl9hdFw+</entry>
+        <entry encoding="base64">XDxjb25zdGFudF9zcGVlZF90cmFqZWN0b3J5XD4=</entry>
+        <entry>generate</entry>
+        <entry>print</entry>
+        <entry encoding="base64">XDxpbnRlbmRlZF9sYW5lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzAsIDAvMCwgMCwgMCwgMC9n</entry>
-        <entry>wa</entry>
         <entry>%s/idcall/id_call/g</entry>
         <entry>%s/unique_key/key_names/g</entry>
         <entry>%s/'/&quot;/g</entry>
@@ -743,6 +746,7 @@
         <entry>q</entry>
         <entry>%s/year_campaign/campaign_id/g</entry>
         <entry>%s/YEARCAMPAIGN_KEY/CAMPAIGN_ID/g</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
